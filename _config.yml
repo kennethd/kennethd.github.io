@@ -27,7 +27,7 @@ github_username: kennethd
 # Build settings
 markdown: kramdown
 theme: minima
-highlighter: rouge
+#highlighter: rouge
 gems:
   - jekyll-feed
 exclude:
