@@ -1,0 +1,5 @@
+*~
+*.sw[op]
+_site
+.sass-cache
+.jekyll-metadata
