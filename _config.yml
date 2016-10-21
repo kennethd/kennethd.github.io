@@ -27,8 +27,7 @@ github_username: kennethd
 # Build settings
 markdown: kramdown
 theme: minima
-# {% highlight ruby linenos %} ... {% endhighlight %}
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-feed
 exclude:

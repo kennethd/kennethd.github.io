@@ -123,5 +123,7 @@ kenneth@kennethd:/tmp/jekyll-test$ git config user.name "Kenneth Dombrowski"
 kenneth@kennethd:/tmp/jekyll-test$ git config user.email kenneth@ylayali.net
 kenneth@kennethd:/tmp/jekyll-test$ git remote add origin git@github.com:kennethd/kennethd.github.io.git
 kenneth@kennethd:/tmp/jekyll-test$ git add .gitignore Gemfile _config.yml _posts/ about.md assets/ index.md
+kenneth@kennethd:/tmp/jekyll-test$ git commit -m "install jekyll"
+kenneth@kennethd:/tmp/jekyll-test$ git push origin master
 {% endhighlight %}
 
