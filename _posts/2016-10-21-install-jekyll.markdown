@@ -7,14 +7,14 @@ categories: jekyll
 
 I am installing Jekyll locally on my funtoo instance, for development of a github.io site.
 
-Start by installing the required system packages:
+I begin by installing the required system packages:
 
 {% highlight shell-session %}
 kenneth@kennethd:/tmp/jekyll-test$ sudo emerge dev-lang/ruby
 kenneth@kennethd:/tmp/jekyll-test$ sudo emerge net-libs/nodejs
 {% endhighlight %}
 
-Create a `~/.gemrc`, my main purpose is to enable the `--user-install` flag by default
+Next, I create a `~/.gemrc`, my main purpose is to enable the `--user-install` flag by default.
 
 It absolutely mystifies me that the ruby community is ok with the way packages
 are installed system-wide by default.
@@ -71,7 +71,8 @@ drwxr-xr-x 2 kenneth kenneth 4096 Oct 21 18:51 _posts
 
 You will want to edit the auto-generated `_config.yml` to add your own name,
 etc.  If you noticed, I had also installed the `pygments.rb` gem above, to use
-it on my site I have to add a line to `_config.yml`:
+it on my site I have to add a line to `_config.yml` (but see
+[below](#first-problems) before following along):
 
 {% highlight ruby %}
 highlighter: pygments
@@ -126,4 +127,48 @@ kenneth@kennethd:/tmp/jekyll-test$ git add .gitignore Gemfile _config.yml _posts
 kenneth@kennethd:/tmp/jekyll-test$ git commit -m "install jekyll"
 kenneth@kennethd:/tmp/jekyll-test$ git push origin master
 {% endhighlight %}
+
+# First problems
+
+All of this worked perfectly on my funtoo instance, but as I pushed to
+github.io, a few problems cropped up:
+
+First, the `Gemfile` contained some unsupported lines, for `github-pages`, I
+reduced it to the following:
+
+{% highlight ruby %}
+source "https://rubygems.org"
+gem "minima", "~> 2.0"
+gem "github-pages", group: :jekyll_plugins
+{% endhighlight %}
+
+Second, `pygments` is not supported by github.io, you have to use `rouge`.  In
+the end, my `_config.yml` looked something like this:
+
+{% highlight yaml %}
+title: kennethd.github.io
+email: kenneth@ylayali.net
+author: Kenneth Dombrowski
+description: >
+    Notes about Linux, Programming, Web Development, and Data Sciences
+baseurl: ""
+url: "https://kennethd.github.io"
+twitter_username: kennnethd
+github_username: kennethd
+
+markdown: kramdown
+theme: minima
+highlighter: rouge
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+{% endhighlight %}
+
+Third, the files required by use of the `minima` theme were not discovered in
+the github.io environment.  In the end I just copied all of the files from the
+theme into my project's `_layouts`, `_includes`, and `_sass` directories,
+which is an entirely unsatisfactory solution, and something I will have to
+revisit.
 
