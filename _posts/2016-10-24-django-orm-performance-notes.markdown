@@ -31,7 +31,7 @@ Once reaching the point of having a few dozen client utilities in place, AJAX
 requests were taking 4+ seconds each
 
 
-{% highlight python %}
+{% highlight python linenos %}
 @login_required
 def forecastdemand_data(request):
     """returns data to populate timeseries plot @ /gas/forecastdemand/
@@ -187,7 +187,7 @@ So, rather than rely so heavily on django's ORM for the /data endpoint, I replac
 most of those queries with a couple of hand written queries, and the response time went
 down to between 20ms-40ms 
 
-{% highlight python %}
+{% highlight python linenos %}
 @login_required
 def forecastdemand_data(request):
     """returns data to populate timeseries plot @ /gas/forecastdemand/
