@@ -177,7 +177,7 @@ I used a project called [Geordi](https://pypi.python.org/pypi/geordi/0.1) to
 profile the execution time of each function on my local machine, and found the
 following:
 
-The [django ORM version](assets/gas_forecast_demand_data_profile_django.pdf)
+The [django ORM version](/assets/gas_forecast_demand_data_profile_django.pdf)
 shows 3.86 seconds total execution time, of which 99.31% is spent in the view
 function itself, and 97.36% in the ORM's `related.__get__()` method.  Note the
 django framework overhead itself is responsible for only 0.51% of the total
@@ -342,7 +342,7 @@ def forecastdemand_data(request):
 {% endhighlight %}
 
 
-The [minimal ORM version](assets/gas_forecast_demand_data_profile_min_orm.pdf)
+The [minimal ORM version](/assets/gas_forecast_demand_data_profile_min_orm.pdf)
 (which does still use the ORM for a few queries, just not for the fetching of
 forecasted demands, and all of the redundant lookups of related objects)
 clocks in @ 0.034 seconds, of which the view function is responsible for only
