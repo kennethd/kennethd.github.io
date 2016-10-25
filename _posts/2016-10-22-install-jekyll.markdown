@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Install Jekyll on Funtoo"
-date:   2016-10-21 14:30:00 -4000
+date:   2016-10-22 14:30:00 -4000
 categories: jekyll
 ---
 
