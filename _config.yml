@@ -28,7 +28,7 @@ github_username: kennethd
 markdown: kramdown
 theme: minima
 #highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
