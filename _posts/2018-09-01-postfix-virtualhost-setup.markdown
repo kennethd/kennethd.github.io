@@ -15,6 +15,7 @@ my particular system, and not so much as a HOWTO for others.  I owe thanks to
 many resources on the internet, but particularly [SwifT's HOWTO for
 Gentoo](https://wiki.gentoo.org/wiki/User:SwifT/Wikified_but_not_merged_documents/Virtual_mail_HOWTO)
 
+
 ## Getting Started
 
 My USE flags from `/etc/portage/make.conf`:
@@ -23,7 +24,7 @@ My USE flags from `/etc/portage/make.conf`:
 USE="-X -alsa -gnome -gtk -kde -mbox -qt4 -vda apache2 authdaemond bzip2 clamdtop crypt geoip imap ipv6 maildir mysql postgres sasl smtp spamassassin spell ssl urandom vhosts"
 {% endhighlight %}
 
-Installed versions of software:
+Installed versions of some relevant software:
 
 {% highlight shell-session %}
 kennethd ~ # equery list courier* postgres* postfix* spamassassin* clamav* roundcube* apache* 
@@ -54,9 +55,55 @@ kennethd ~ # equery list courier* postgres* postfix* spamassassin* clamav* round
 [I-O] [  ] www-servers/apache-2.4.34-r2:2
 {% endhighlight %}
 
+
+I will use `ylayali.net` as the authoritative (or "non-virtual") domain for
+the server, to allow mailing system users (and so my personal account can
+continue to use procmail).  It needs to be added to `/etc/hosts` on its own line:
+
+```
+# Auto-generated hostname. Please do not remove this comment.
+127.0.0.1       kennethd.host.funtoo.org kennethd localhost localhost.localdomain
+::1             kennethd.host.funtoo.org kennethd localhost localhost.localdomain
+172.97.103.107  ylayali.net mail.ylayali.net www.ylayali.net media.ylayali.net rt.ylayali.net
+```
+
+The prototype domain for testing virtual host features will be `highball.org`.
+
+
+## Create vmail User
+
+{% highlight shell-session %}
+kennethd ~ # groupadd -g 5000 vmail
+kennethd ~ # useradd -m -d /var/vmail -s /bin/false -u 5000 -g vmail vmail
+kennethd ~ # ls -ld /var/vmail/
+drwxr-xr-x 3 vmail vmail 4096 Nov 11 22:39 /var/vmail/
+kennethd ~ # chown vmail:vmail /var/vmail/
+kennethd ~ # chmod 2770 /var/vmail/
+kennethd ~ # ls -ld /var/vmail
+drwxrws--- 3 vmail vmail 4096 Nov 11 22:39 /var/vmail
+{% endhighlight %}
+
+
+## Let's Encrypt!
+
+The [Let's Encrypt!](https://letsencrypt.org/getting-started/)
+SSL Certs will be used for Apache & Postfix.
+
+{% highlight shell-session %}
+kennethd ~ # emerge --ask app-crypt/certbot
+{% endhighlight %}
+
+
+[The Gentoo Wiki](https://wiki.gentoo.org/wiki/Let%27s_Encrypt) mentions an
+optional package, [acme-tiny](https://github.com/diafygi/acme-tiny/), which
+promises to bypass some of the "bloat" of the official client.  It requires
+setting up an [overlay](https://www.funtoo.org/Local_Overlay), which are
+managed via [layman](https://wiki.gentoo.org/wiki/Layman).
+
+
 ## Postgres Configuration
 
-You'll notice there are two versions of Postgres on the system.  I think the
+There are two versions of Postgres on the system, 9.6 and 10.  I think the
 9.6 one is from when I last began this setup, a few months ago, and 10.4 was
 installed when emerging @world in preparation for this attempt.  Gentoo &
 Funtoo allow for these parallel installations for upgrades and convenience of
@@ -72,14 +119,66 @@ PGDATA="/etc/postgresql-10/"
 DATA_DIR="/var/lib/postgresql/10/data"
 {% endhighlight %}
 
-Follow the instructions on the [Gentoo Postgres Quickstart](https://wiki.gentoo.org/wiki/PostgreSQL/QuickStart)
-to set the superuser account password and add the postgres service to the default runlevel.
+Following along with the instructions on the [Gentoo Postgres Quickstart](https://wiki.gentoo.org/wiki/PostgreSQL/QuickStart):
 
 {% highlight shell-session %}
-kennethd  # rc-update add postgresql-6.3 default
+kennethd ~ # emerge --config dev-db/postgresql:10
 {% endhighlight %}
 
+**/etc/postgresql-10/pg_hba.conf**
+```
+# TYPE  DATABASE        USER            ADDRESS                 METHOD
+
+# "local" is for Unix domain socket connections only
+local   all             all                                     password
+# IPv4 local connections:
+host    all             all             127.0.0.1/32            password
+# IPv6 local connections:
+host    all             all             ::1/128                 password
+# Allow replication connections from localhost, by a user with the replication privilege.
+local   replication     all                                     trust
+host    replication     all             127.0.0.1/32            trust
+host    replication     all             ::1/128                 trust
+```
+
+{% highlight shell-session %}
+kennethd ~ # /etc/init.d/postgresql-10 reload
+kennethd ~ # rc-update add postgresql-10 default
+{% endhighlight %}
+
+Try it out: `psql -U postgres postgres`
+{% highlight sql %}
+Password for user postgres:
+psql (10.4)
+Type "help" for help.
+
+postgres=# CREATE ROLE kenneth WITH LOGIN;
+CREATE ROLE
+postgres=# \password kenneth
+Enter new password:
+Enter it again:
+postgres=# CREATE DATABASE testdb WITH OWNER kenneth;
+CREATE DATABASE
+postgres=# \l
+                                List of databases
+   Name    |  Owner   | Encoding | Collate |    Ctype    |   Access privileges   
+-----------+----------+----------+---------+-------------+-----------------------
+ postgres  | postgres | UTF8     | C       | en_US.UTF-8 | 
+ template0 | postgres | UTF8     | C       | en_US.UTF-8 | =c/postgres          +
+           |          |          |         |             | postgres=CTc/postgres
+ template1 | postgres | UTF8     | C       | en_US.UTF-8 | =c/postgres          +
+           |          |          |         |             | postgres=CTc/postgres
+ testdb    | kenneth  | UTF8     | C       | en_US.UTF-8 | 
+(4 rows)
+{% endhighlight %}
+
+
 ## Postfix Configuration
+
+I have the following package-specific USE flags:
+{% highlight shell-session %}
+kennethd ~ # echo "mail-mta/postfix cdb hardened postgres sasl ssl" >>  /etc/portage/package.use/mail-mta
+{% endhighlight %}
 
 The only changes to `master.cf` were the uncommenting of the second and
 services listed below (`smtp/inet` and `smtpd/pass`)
@@ -105,8 +204,8 @@ home_mailbox = .maildir/
 # default is /usr/local/man, but that directory does not exist
 manpage_directory = /usr/share/man
 
-mydomain = localhost
-myhostname = kennethd.host.funtoo.org
+mydomain = ylayali.net
+myhostname = mail.ylayali.net
 mynetworks_style = host
 recipient_delimiter = +
 
@@ -150,6 +249,12 @@ query           = SELECT description FROM domain WHERE domain = '%s' AND backupm
 query           = SELECT maildir FROM mailbox WHERE local_part='%u' AND domain='%d' AND active='1';
 {% endhighlight %}
 
+Create the `postfix` user:
+{% highlight shell-session %}
+kennethd ~ # createuser -U postgres -D -P -R -S postfix
+{% endhighlight %}
+
+
 # Alias root@
 
 Edit `/etc/mail/aliases` to ensure root@ forwards to your email address.
@@ -160,16 +265,87 @@ kennethd ~ # /etc/init.d/postfix reload
 {% endhighlight %}
 
 
-# Requiring SSL
+# SPF and DKIM
 
-# Creating Certs
+[SPF (Sender Policy Framework)](https://en.wikipedia.org/wiki/Sender_Policy_Framework)
+is a protocol intended to prevent email spoofing by publising (via DNS) a list of IPs
+authorized to originate email for a domain.
 
-# DKIM
 
 # SMTP-time SpamAssassin & ClamAV Configuration
 
 
-## Courier Configuration
+## Courier-imap Configuration
+
+Edit both `/etc/courier-imap/{imapd.cnf,pop3d.cnf}` to look similar to:
+
+{% highlight ini %}
+[ req_dn ]
+C=US
+ST=NY
+L=New York
+O=Courier Mail Server
+OU=Automatically-generated IMAP SSL key
+CN=localhost
+emailAddress=postmaster@ylayali.net
+{% endhighlight %}
+
+And run:
+
+{% highlight shell-session %}
+kennethd ~ # cd /etc/courier-imap/
+kennethd /etc/courier-imap # mkpop3dcert 
+kennethd /etc/courier-imap # mkimapdcert 
+kennethd /etc/courier-imap # /etc/init.d/courier-imapd start 
+kennethd /etc/courier-imap # /etc/init.d/courier-imapd-ssl start 
+kennethd /etc/courier-imap # /etc/init.d/courier-pop3d start 
+kennethd /etc/courier-imap # /etc/init.d/courier-pop3d-ssl start 
+{% endhighlight %}
+
+# Cyrus-sasl Configuration
+
+Cyrus-sasl accepts login info for Courier-imap, which Courier then uses to
+authenticate against postgres
+
+**/etc/sasl2/smtpd.conf**
+```
+mech_list: PLAIN LOGIN
+pwcheck_method: saslauthd
+```
+
+**/etc/conf.d/saslauthd**
+```
+SASLAUTHD_OPTS="${SASLAUTH_MECH} -a rimap -r" SASLAUTHD_OPTS="${SASLAUTHD_OPTS} -O localhost"
+```
+
+And run:
+{% highlight shell-session %}
+kennethd /etc/courier-imap # /etc/init.d/saslauthd start
+{% endhighlight %}
+
+# Add Courier-imap services to default runlevel
+
+{% highlight shell-session %}
+kennethd /etc/courier-imap # rc-update add courier-authlib default
+kennethd /etc/courier-imap # rc-update add courier-imapd default
+kennethd /etc/courier-imap # rc-update add courier-pop3d default
+kennethd /etc/courier-imap # rc-update add courier-imapd-ssl default
+kennethd /etc/courier-imap # rc-update add courier-pop3d-ssl default
+kennethd /etc/courier-imap # rc-update add saslauthd default
+{% endhighlight %}
+
+
+## Apache Configuration
+
+Verify the value of `APACHE2_OPTS` in `/etc/conf.d/apache2`
+{% highlight ini %}
+APACHE2_OPTS="-D DEFAULT_VHOST -D INFO -D SSL -D SSL_DEFAULT_VHOST -D LANGUAGE -D SECURITY -D PHP"
+{% endhighlight %}
+
+```
+kennethd ~ # /etc/init.d/apache2 start
+kennethd ~ # rc-update add apache2 default
+```
 
 
 
