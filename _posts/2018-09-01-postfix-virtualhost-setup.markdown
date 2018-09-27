@@ -2,7 +2,7 @@
 layout: post
 title:  "Mail Server Setup"
 date:   2018-09-01 14:30:00 -4000
-categories: mail server
+categories: email server
 ---
 
 This mail server setup will provide a virtual host setup using Postfix for
