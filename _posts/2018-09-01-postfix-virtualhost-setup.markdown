@@ -5,10 +5,17 @@ date:   2018-09-01 14:30:00 -4000
 categories: email server
 ---
 
-This mail server setup will provide a virtual host setup using Postfix for
-SMTP, Courier IMAP, Postgres, Spamassassin, and Clamav, deployed to a
-[Funtoo.org](https://www.funtoo.org/Funtoo_Containers) hosted instance,
-and with a RoundCube WebMail UI.
+This mail server setup will provide a virtual host mail setup using:
+
+  * Postfix for SMTP
+  * Courier IMAP
+  * SSL provided by [Let's Encrypt](https://letsencrypt.org)
+  * Postgres for virtual host configuration
+  * SMTP-time Spamassassin and Clamav filtering
+  * RoundCube WebMail UI
+
+This setup is deployed to a [Funtoo.org](https://www.funtoo.org/Funtoo_Containers) hosted container
+
 
 This document is intended as a personal reference for myself about the setup of
 my particular system, and not so much as a HOWTO for others.  I owe thanks to
@@ -84,21 +91,15 @@ drwxrws--- 3 vmail vmail 4096 Nov 11 22:39 /var/vmail
 {% endhighlight %}
 
 
-## Let's Encrypt!
+## Install Let's Encrypt! Client
 
-The [Let's Encrypt!](https://letsencrypt.org/getting-started/)
-SSL Certs will be used for Apache & Postfix.
+[Let's Encrypt!](https://letsencrypt.org/getting-started/) SSL Certs will be used for Apache, Postfix & Courier.
+
+I had to pin a lot of `dev-python` packages to specific versions in `package.use` to get this to work
 
 {% highlight shell-session %}
 kennethd ~ # emerge --ask app-crypt/certbot
 {% endhighlight %}
-
-
-[The Gentoo Wiki](https://wiki.gentoo.org/wiki/Let%27s_Encrypt) mentions an
-optional package, [acme-tiny](https://github.com/diafygi/acme-tiny/), which
-promises to bypass some of the "bloat" of the official client.  It requires
-setting up an [overlay](https://www.funtoo.org/Local_Overlay), which are
-managed via [layman](https://wiki.gentoo.org/wiki/Layman).
 
 
 ## Postgres Configuration
@@ -107,7 +108,15 @@ There are two versions of Postgres on the system, 9.6 and 10.  I think the
 9.6 one is from when I last began this setup, a few months ago, and 10.4 was
 installed when emerging @world in preparation for this attempt.  Gentoo &
 Funtoo allow for these parallel installations for upgrades and convenience of
-maintenance.
+maintenance.  I plan to use 9.6 for mail setup, and other systems requiring
+
+[The Gentoo Wiki](https://wiki.gentoo.org/wiki/Let%29s_Encrypt) mentions an
+optional package, [acme-tiny](https://github.com/diafygi/acme-tiny/), which
+promises to bypass some of the "bloat" of the official client.  It requires
+setting up an [overlay](https://www.funtoo.org/Local_Overlay), which are
+managed via [layman](https://wiki.gentoo.org/wiki/Layman).
+
+stability, and 10 for more experimental app development.
 
 Initial configuration will be read from `/etc/conf.d/postgresql-$VERSION`,
 which defines a couple of important directories, `PGDATA` is where the postgres

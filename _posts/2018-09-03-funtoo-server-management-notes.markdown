@@ -7,21 +7,55 @@ categories: mail server
 
 Being a reference of useful commands for managing my funtoo instance
 
-# Package Management
 
-**System update procedure**
 
-```
+# System update procedure
+{% highlight shell-session %}
  $ sudo emerge -uavDN --with-bdeps=y @world
  $ sudo emerge -av --depclean
  $ sudo revdep-rebuild -v -- --ask
  $ sudo dispatch-conf
-```
+{% endhighlight %}
+
+
+# Package Management
+
+## equery
+
+https://wiki.gentoo.org/wiki/Equery
+
+### view USE flags active (and inactive) for a specific package
+{% highlight shell-session %}
+kennethd /etc/portage # equery uses  dev-db/postgresql:9.6
+{% endhighlight %}
+
+
+
+## eix 
+
+### list all slots/versions available for a given package
+{% highlight shell-session %}
+kennethd /etc/portage # eix -e python
+[?] dev-lang/python
+     Available versions:  
+     (2.7)  2.7.10-r1 (~)2.7.11-r2 (~)2.7.12
+     (3.3)  3.3.5-r3 (~)3.3.5-r8(3.3/3.3m)
+     (3.4)  3.4.3-r1 (~)3.4.3-r7(3.4/3.4m) (~)3.4.4(3.4/3.4m) (~)3.4.5(3.4/3.4m)
+     (3.5)  (~)3.5.0-r2 (~)3.5.1-r2(3.5/3.5m) (~)3.5.1-r3(3.5/3.5m) (~)3.5.2(3.5/3.5m)
+       {-berkdb build doc examples gdbm hardened ipv6 libressl +ncurses +readline sqlite +ssl +threads tk +wide-unicode wininst +xml ELIBC="uclibc"}
+     Installed versions:  2.7.15(2.7)[?](02:52:09 PM 11/24/2018)(gdbm ipv6 ncurses readline sqlite ssl threads wide-unicode xml -berkdb -bluetooth -build -doc -examples -hardened -libressl -tk -wininst ELIBC="-uclibc")
+                          3.4.6-r1(3.4/3.4m)[?](06:20:56 AM 09/01/2018)(gdbm ipv6 ncurses readline sqlite ssl threads xml -build -examples -hardened -libressl -tk -wininst ELIBC="-uclibc")
+                          3.5.3-r1(3.5/3.5m)[?](06:42:02 AM 09/01/2018)(gdbm ipv6 ncurses readline sqlite ssl threads xml -build -examples -hardened -libressl -tk -wininst ELIBC="-uclibc")
+     Homepage:            http://www.python.org/
+     Description:         An interpreted, interactive, object-oriented programming language
+{% endhighlight %}
+
+
 
 
 # Virtual Hosts
 
-**Create a new virtual host**
+## Create a new virtual host
 
   * create vmail records in postgres for domain
   * create apache vhost configs
