@@ -34,9 +34,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-defaults:
-  - scope:
-    path: "assets/jones"
-  - values:
-    image: true
+# :
+#  - scope:
+#    path: "assets/jones"
+#  - values:
+#    image: true
 
