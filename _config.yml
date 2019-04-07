@@ -17,7 +17,7 @@ title: kennethd.github.io
 email: kenneth@ylayali.net
 author: Kenneth Dombrowski
 description: > # this means to ignore newlines until "baseurl:"
-    Notes about Linux, Programming, Web Development, and Data Sciences
+    Notes about Linux, Programming, Web Development, Data Sciences, and Genealogy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kennethd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #host: "0.0.0.0" # serve over any IP bound to NIC
@@ -33,3 +33,10 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+defaults:
+  - scope:
+    path: "assets/jones"
+  - values:
+    image: true
+
