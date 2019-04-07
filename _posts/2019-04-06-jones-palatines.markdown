@@ -77,7 +77,31 @@ One year later, the Pastor at **Ginsheim** echoed his colleague:
 
 The churchbooks themselves sometimes did not survive, as noted by the Pastor at **Sprantal**:
 
-    fl2e. in 16,.9: with the french invasion of Wirtem-rz =.7ery 2hurchbock - as well as baptism and 7:arriage record - net with misfortune, this new :r ==7- up by me, the duly calico Pastor -:er=, ant Ln 1- the beginning is shown in orderly ,,,en/inhabitants with their families 7 wives and ch.., the time of their oapt-i burials as later consecrated by .bsequentj Pastor at the death of ....._.cants] can easily set out and y without further research.  obvious from these contemporary, local accounts that 17C9-urs' fattiliea had been living for generations in an ,-_.J7t: with near-renr+ant wars, which made battlefields of :•wns, -and whole regions. .Aes being at the mercy -of invading armies, many of these uAro-'utsat-: "ierman^ were taxed unmercifully by whatever local. Princ n -4a4 jurlifeen over their particular geographic region, and by snA AFF,CY many poor Palatinea were bled dry finanCiallY by their Lords'. This was another reason for the exodus, as evidenced by a portion of a letter written back to Germany in 1749-by jOhannesi filer, an emigrant who finally nettled. in the Mohawk Valley of Solonial new York: 
+    Because in 1693 with the french invasion of Wirtemberg every churchbock - as
+    well as baptism and marriage record - met with misfortune, this new one has
+    been set up by me, the duly called Pastor here, ant in it at the beginning is
+    shown in orderly fashion all citizen/inhabitants with their families and the
+    surviving wives and ch., at the time of their baptisms, marriages, and burials
+    as later consecrated by me, so that each [subsequent] Pastor at the death of
+    any one of these [inhabitants] can easily set out and record their life history
+    without further research.
 
-to it ;till as rough [in Germany] as when we left [in 1709j? A far 43 we are concerned [in America], we are, Compared to taxes In Germany, a free country! We pay taxers once a year. These taxes are se minimal that soma apend more money for drinks in one evening When going to the pub. What the farmer farms is his own, shore are no tithes, ne tariffs, hunting and fishing 
+It is obvious from these contemporary, local accounts that 1709ers' families
+had been living for generations in an area fraught with near-constant wars,
+which made battlefields of villages, towns, and whole regions.
+
+Besides being at the mercy of invading armies, many of these unfortunate
+Germans were taxed unmercifully by whatever local Prince had jurisdiction over
+their particular geographic region, and by 1709, many poor Palatines were bled
+dry financiallY by their Lords. This was another reason for the exodus, as
+evidenced by a portion of a letter written back to Germany in 1749 by
+Johann Müller, an emigrant who finally settled in the Mohawk Valley of
+Colonial new York: 
+
+    Is it still as rough [in Germany] as when we left [in 1709]?  As far as we
+    are concerned [in America], we are, Compared to taxes In Germany, a free
+    country!  We pay taxers once a year.  These taxes are so minimal that some
+    spend more money for drinks in one evening When going to the pub.  What the
+    farmer farms is his own, there are no tithes, no tariffs, hunting and fishing 
+
 
