@@ -158,3 +158,47 @@ Residents of the various Duchies of southern Germany then were in a terrible
 state from the ongoing wars, oppressive taxation, and devastating winter - all
 of which contributed to their 
 
+[04](/assets/jones/the-palatines-story.04.jpg) desire to emigrate from their
+"forsaken Egypt," as Johann Müller of the Mohawk called his former European
+homeland in his 1749 letter.
+
+Interestingly enough, religious persecution does not seem to have been a major
+factor in the exodus.  Many of the Palatines seemed quite flexible in their
+religious affiliatton; they attended whichever church was geographically
+convenient or even politically expedient.  For example, the 1709er
+Johannes<sup>[NEEDLINK]([1])</sup> Heiner was baptised a Catholic, married in the Reformed
+church, then became a prominent Lutheran lay leader in the Hudson Valley.
+Also, many emigrants who were noted in Germany and shortly after their arrival
+in America as Catholics ("Episcopal" is Kocherthal's term for Catholic) soon
+turned up as full-fledged Protestants in Lutheran and Reformed churchbooks of
+colonial New York.  It is intereeting to note that **Neuwied** and
+**Isenburg**, two of the prime German regions of origin for New York settlers,
+both had atmospheres of religious toleration in the late 1500's - perhaps a
+contributing factor to the later, theologically flexible viewpoint of many of
+the 1709ers.
+
+The British government exploited the Palatines' dissatisfaction by waging an
+advanced and clever public relations campaign extolling the virtues of life in
+the new world which also fueled the fires of emigration.  This was accomplished
+by the circulation throughout southern Germany prior to 1709 of the so-called
+"Golden Book," which painted America (called "The Island Of Carolina" or "The
+Island Of Pennsylvania") almost as the promised land of milk and honey.  Its
+effect is revealed by a marvelous series Of manuscripts entitled "Questions and
+Answers Of Emigrants Who Intend To Go To The New Island, Actum 23 May 1709,"
+found in the Staatsarchives Wiesbaden (Nassau-Weilburg File Abt. 150, No. 4493);
+these documents are a boon for the genealogist, as they give the name, age,
+religion, place of birth, length of marriage, and number of children among their
+statistics for each prospective emigrant.  They also enhance our view of the
+daily lives of the Palatines, as each man is asked several personal questions
+relating to his reason for leaving as well as how he will finance his journey.
+The heart-rending responses to the queries are set forth in such a
+straight-forward, conversational way by the Palatines that they almost seem to
+make the emigrants come alive again.  It is hard not to feel their despair and
+not be moved by their cautious hope for a better lire in a new country.  When
+asked how he first came upon the idea to emigrate and who first gave a reason
+for the emigration, Christian Schneider aged 25, Lutheran, married 2 years with
+no children stated: 
+
+[05](/assets/jones/the-palatines-story.05.jpg)
+
+
