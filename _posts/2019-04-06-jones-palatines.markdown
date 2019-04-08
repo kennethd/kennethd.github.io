@@ -201,4 +201,57 @@ no children stated:
 
 [05](/assets/jones/the-palatines-story.05.jpg)
 
+    People from Altenkirchen. English agents at Frankfurt and writings brought
+    by them.
+
+Johannes Willig aged 32, Lutheran, born In this country (Nassau-Weilburg),
+married 8 years with 1 daughter, replied:
+
+    Because he's poor and has nothing more than he can earn by hard labour, he
+    seeks something better. At Grossen Linden he had a book about the Island.
+
+When he was asked the same question, Johannes Linck aged 10, Lutheran, born Cöpern
+in Hamburg an der Höhe, married 6 years with 1 son and 1 daughter, answered:
+
+    He cultivated in the winter and the grain was bad.  He knows he can no longer
+    feed himself.  He had heard of books about the Island and resolved to go there.
+    First heard of this froth people from Darmstadt who are going.
+
+Hanß Georg Gäberling aged 40, Lutheran, came here from Lindheim an der Straße,
+married 16 years with 3 daughters, responded:
+
+    Poverty drives him to it, in spite of working day and night at his handwork.
+    OtherWise he has no special desire to emigrate. He heard of books in Braunfels
+    and at Altenkirchen which Schoolmaster Petri at Reiskirchen brought to the
+    village on his deer-hunting.
+
+Georg Philip Mück aged 32, Lutheran, born in this country, married 8 years with
+1 son and 2 daughters, similarly replied:
+
+    Poverty brought him to it.  He can hope for no harvest which the wild animals
+    have eaten. There have been people from the Pfalz in the village, and he
+    heard about it from them first. 
+
+Johannes Flach aged 30, Catholic, came to Nassau-Wellburg, married 10 years
+with 3 sons, noted:
+
+    Poverty and no espeetation of [ever obtaining] land. Wild animals have eaten
+    everything.  Has heard most about it at Frankfurt.  He and G. Stahl bought a
+    book for 3 Batzen in which there is writing about the Island.
+
+When asked another question, whether he received advice about this and from whom,
+Philip Adam-Hartmann aged 31, Lutheran, born in this country, married 8 years
+with 1 daughter, responded:
+
+    No [advice]. Only from God, because people so advise it.
+
+And to this same query, Phil1ps Petri aged 42, Lutheran, born in this cOUntry,
+married 12 years, 2 sons and 7. daughters, answered:
+
+    No one advised him, but people everywhere are talking about it!
+
+Another question was asked as to what he actually knows about the so-called New
+Island?  Christian Schneider replied:
+
+    Nothing, except that it is undeveloped and could be built up with work. 
 
