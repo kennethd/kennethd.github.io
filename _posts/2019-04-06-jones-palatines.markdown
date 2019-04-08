@@ -166,7 +166,7 @@ Interestingly enough, religious persecution does not seem to have been a major
 factor in the exodus.  Many of the Palatines seemed quite flexible in their
 religious affiliatton; they attended whichever church was geographically
 convenient or even politically expedient.  For example, the 1709er
-Johannes<sup>[NEEDLINK]([1])</sup> Heiner was baptised a Catholic, married in the Reformed
+Johannes<sup>[\[1\]](NEEDLINK)</sup> Heiner was baptised a Catholic, married in the Reformed
 church, then became a prominent Lutheran lay leader in the Hudson Valley.
 Also, many emigrants who were noted in Germany and shortly after their arrival
 in America as Catholics ("Episcopal" is Kocherthal's term for Catholic) soon
