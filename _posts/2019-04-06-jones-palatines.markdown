@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heinrich Winters and the Palatine Immigrants of 1709"
+title:  "Heinrich Winter and the Palatine Immigrants of 1709"
 date:   2019-04-06 
 categories: genealogy palatines winters
 ---
@@ -11,7 +11,7 @@ categories: genealogy palatines winters
 
 ![Table of Contents](/assets/jones/03.toc.jpg)
 
-## The Palatines' Story
+# The Palatines' Story
 
 [01](/assets/jones/the-palatines-story.01.jpg) The background of the great
 "Palatine" emigration of 1709 has been well-chronicled by such past scholars
@@ -104,4 +104,57 @@ Colonial new York:
     spend more money for drinks in one evening When going to the pub.  What the
     farmer farms is his own, there are no tithes, no tariffs, hunting and fishing 
 
+
+[03](/assets/jones/the-palatines-story.03.jpg)
+
+    are free, and our soil is fertile and everything grows...
+
+But perhaps the straw that broke the camel's back was the devastating and
+bitterly cold winter of the year 1709.  Throughout southern Germany, Pastors
+abrubtly stopped their normal recording of baptismal, marriage, and burial
+entries in order to mention the terrible weather conditions burdening their
+congregations.  The Pastor at **Berstadt** wrote:
+
+    [in the year 1709] there has been a horrible, terrible cold, the like of
+    which is not remembered by the oldest [parishoners] who are upwards of 80
+    years old.  As one reads in the newspapers, it spreads not only through
+    the entire country, but also through France, Italy, Spain, England,
+    Holland, Saxony, and Denmark, where many people and cattle have frozen to
+    death.  The mills in almost all villages around here also are frozen in,
+    so that people must suffer from hunger.  Most of the fruit trees are
+    frozen too, as well as most of the grain...
+
+The Pastor at **Runkel** noted:
+
+    [1709] Right after the New Year, such a cold wave came that the oldest
+    people here could not remember a worse one.  Almost all mills have been
+    brought to a standstill, and the lack of bread was great everywhere.  Many
+    cattle and humans, yes - even the birds and the wild animals in the woodsi
+    froze. The Lahn [River] froze over three times, one after the other... 
+
+At **Diedenbergen** another entry:
+
+    [27 Oct 1708] Before Simon Juda [Day], an usually heavy snow fell which
+    broke many branches off the trees, especially in the forests because the
+    leaves were still on the trees, and the snow weighed heavily on them.  Then
+    on the day after New Year's, 2 Jan 1709 and for three days [thereafterJ, we
+    had continuous rain and later snow.  Because of the great cold, the Main
+    froze over in four days, the Rhine in eight days, and they remained frozen
+    for five weeks.  During this time there was a great lack of wood and flour,
+    since most miliS were frozen in.  The fodder for cattle was used for two
+    purposes [the humans had to eat it too], and many a piece [of land?] was
+    ruined.  One could read in the newspapers of many complaints and much damage
+    in all European countries. 
+
+And at **Bolters**, even more:
+
+    From the 6th to the 26th of January [1709] there was such a raging cold, the
+    likes of which has not occurred in 118 yrs.  according to the calculations
+    of the mathematicians at Leipzig.  A great many trees have frozen, the
+    autumn sowing has suffered great damage, and this yr.  there will be no
+    wine at all.
+
+Residents of the various Duchies of southern Germany then were in a terrible
+state from the ongoing wars, oppressive taxation, and devastating winter - all
+of which contributed to their 
 
