@@ -255,3 +255,61 @@ Island?  Christian Schneider replied:
 
     Nothing, except that it is undeveloped and could be built up with work. 
 
+[06](/assets/jones/the-palatines-story.06.jpg) Johannes Willig added:
+
+    The place is a better land, if one wants to work.
+
+Philip Adam Hartmann responded to the same query:
+
+    By work one could earn in one yr. enough to live on for two years.
+
+Georg Philip Mück answered:
+
+    The Queen of England will give bread to the people until they can produce
+    their own.
+
+And Valentin Nomsboth aged 37, Reformed, came from the Braunfels area, married
+12 years with 2 sons, said:
+
+    There is supposed to be a good land there, and, in a few years, one can get
+    both bread and land.
+
+The prospective emigrant was then asked who told him such and under what
+circumstances?  Christian Schneider answered:
+
+    From a book from English agents with a carpenter from Essershausen, but he
+    hasn't read it.  The carpenter quoted from it to him.
+
+The emigrant was then asked a final question.  From where does he think he will
+get the means for this journey?  Johannes Willig said:
+
+    He wants to sell what little he has.
+
+Hanß Georg Gäberling noted:
+
+    He wants to sell his livestock. 
+
+Johann Philip Hetzel aged 36, Lutheran, married 16 years with 4 daughters and 2
+sons, answered: 
+
+    He wants to sell his few sheep.
+
+Wentzel Dern aged 40, Lutheran, born in this country, married 14 years with 
+3 sons and 4 daughters, answered:
+
+    He wants to sell his cow, but leave his other possessions with friends.
+
+Johann Wilhelm Klein aged 25, Lutheran, married since Christmas, gave an
+important response: 
+
+    The Queen will advance it to the people.
+
+Johann Adam Fehd aged 30, Lutheran, born in this country, married With 1 son,
+put his trust elsewhere:
+
+    He must have God's help!
+
+But perhaps the most important yet most intangible factor in the emigration was
+the character and psychological make-up of 
+
+
