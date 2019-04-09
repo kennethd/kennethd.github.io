@@ -5,11 +5,15 @@ date:   2019-04-06
 categories: genealogy palatines winters
 ---
 
-![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/jones/01.title.page.jpg  "The Palatine Families of New York")
+  * Table of Contents
+  {:toc}
 
+![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/jones/01.title.page.jpg  "The Palatine Families of New York")
+![Table of Contents](/assets/jones/03.toc.jpg)
+
+# Map of Palatine Settlements
 ![Map of settlements](/assets/jones/02.map-of-settlements.jpg  "Map of settlements")
 
-![Table of Contents](/assets/jones/03.toc.jpg)
 
 # The Palatines' Story
 
@@ -751,7 +755,7 @@ a secure and important place in American life.
 
 
 
-# Winters Index
+# Winters Index from Jones' Palatine Families of New York
 
 ![Winter Index](/assets/jones/index.winter.jpg)
 
