@@ -396,11 +396,108 @@ contemporary eyes.
 
 The first trickle of German emigrants left for New York with Pastor Joshua
 Kocherthal in 1708 and settled near Newburgh on the Hudson River.  Then, about
-February or March 1709, large groups beaan leaving their German homes for
+February or March 1709, large groups began leaving their German homes for
 Rotterdam and thence to England.  There are records of their departure. Some
 obtained letters of recommendation or birth certificates from officials to bring
 with them on their trip, such as Gerhardt<sup>[\[1\]](NEEDLINK)</sup> Schäfer and
 Ulrich<sup>[\[1\]](NEEDLINK)</sup> Simmendinger.  Others tried to dispose of
 their property in an orderly and legal manner and obtain lawful permits to
 emigrate, such as 
+
+[09](/assets/jones/the-palatines-story.09.jpg) Peter<sup>[\[1\]](NEEDLINK)</sup>
+Wagener of **Dachsenhausen** and the many 1709ers who left the Nassau-Dillenburg
+region.  As these Germans left their homes, very often the local Pastors made
+mention of their departures in their churchbooks.  For instance, the registers
+at **Bonfeld** in the Kraichgau have an entire page detailing the emigrants from
+the village (such as Jost<sup>[\[1\]](NEEDLINK)</sup> Hite,
+Simeon<sup>[\[1\]](NEEDLINK)</sup>  Vogt, end Hans Micheel<sup>[\[1\]](NEEDLINK)</sup>
+Wagele) in 1710 as well as latsr years.  The Pastor at **Weisloch** noted that
+Conrad<sup>[\[1\]](NEEDLINK)</sup> Dieffenbach emigrated with the family of
+Georg Bleichardt<sup>[\[1\]](NEEDLINK)</sup> Hauck to the West Indies 15 May 1709,
+the minister at **Leonbronn** mentioned that Margaretha, Lorentz<sup>[\[1\]](NEEDLINK)</sup>,
+and Georg<sup>[\[1\]](NEEDLINK)</sup> Däther went to England, and the
+**Treschklingen** register augmented the **Bonfeld** churchbook by stating that
+Hans Jost Held (Jast<sup>[\[1\]](NEEDLINK)</sup> Hite) emigrated with wife and
+child with other people to Pennsylvania in the so-called new world in 1709.
+Sometimes such a churchbook entry was quite a story filled with intrigue, as at
+**Massenheim**:
+
+    Let it be known that this Spring many people left the country for English
+    America, namely the Island of Carolina, including also from here Matthaeus
+    Koch and his wife Christina together with their 4 children who went thither
+    and with them his mother Johann Henrich Aul's wife, between 60 and 70 years
+    of age.  [Frau Aul, the mother of Matthaeus Koch,] went secretly in the night,
+    forsaking husband and children here and going to England, withoUt doubt to
+    find her grave in the ocean.  On 27 Nov 1710, Johann Henrich Aul, a master
+    cooper whose wife left him and went with her two sons of a 1st marriage to
+    English America, married to Anna Margaretha Freund; Herr Aul was freed
+    [from his first wife] as she had been cited by the government in three
+    principalities and has not appeared. 
+
+The trip down the Rhine to Holland took anywhere from four to six weeks.  A
+personal account of an emigrant's journey from Alsheim to London in 1709, from
+the Stauffer notebooks kindly sent to me by Klaus Wust, describes in detail what
+probably was a typical route:
+
+    In the year 1709, I, Hans Stauffer, removed on the 5th of Nov with wife and
+    children Jacob, 13 yrs., Daniel 12 yrs., Henry, 9 yrs., Elizabeth with her
+    husband Paulus Friedt and one child, Maria by name, and myself, eight, we
+    set sail from Weissenau on the 8 day of Nov.  At Bingen we remained one day,
+    and we left on the 10th day of Nov. at Hebstet, we set sail on the 11th day
+    of Nov. Neuwied, we set sail on the 12th day of Nov. At Erbsen, we set sail
+    on the 13th day of Nov and came to Millem.  There we had to remain one day.
+    On the 15th day, we left Millem.  At Eisen we lay two days.  On Nov 17th we
+    sailed away [to Erding].
+    
+    And on the 20th day of Nov, we left Erding and sailed half an hour under
+    Wiesol.  And on the 21st we went to the shore.  There we had to remain until
+    the wind became calm.  And on the 22nd of Nov, we sailed as far as Emrig.
+    There we had to remain until the wind became calm. And on the 24th of Nov,
+    we left Emrig and 
+
+[10](/assets/jones/the-palatines-story.10.jpg)
+
+    came to Schingen Schantzs, and [CUTOFF]
+    the night [we sailed] to Rein and on the 28th of Nov to Wieg, and thence we
+    came to Ghert on the 29th of Nov.  On the first day of Dec, we came to
+    Amsterdam.  And on the 17th of Dec we left Amsterdam and sailed half an hour
+    before the city.  There we had to remain until the wind became favorable and
+    calm.  And on the 19th day of Dec, we came to Rotterdam.  There we had to
+    wait until the tide was ready for sailing.  Thirteen days we had to remain.
+    On the 29th of Dec we sailed from Rotterdam nearly to Brielle.  There we had
+    to remain until the wind was favorable.  On the 20th day of Jan we left
+    Brielle and sailed to London.  We sailed six days on the sea to London.
+
+As the Germans assembled in Holland awaiting transportation to England, ever so
+often they participated in a baptism performed by a Dutch Pastor of their host
+country.  For example, at the christening of a child of Jeremias Schletzer
+sponsored by eventual New York settlers Benedict<sup>[\[1\]](NEEDLINK)</sup>
+Wennerich and Maria Elisabetha<sup>[\[2\]](NEEDLINK)</sup> Lucas in April of 1709,
+the Pastor of the Rotterdam Lutheran Church noted that the party was from the
+Palatinate, professing to go to Pennsylvania; and at the baptism of a child of
+Dirck Luijckasz (Dieterich<sup>[\[1\]](NEEDLINK)</sup> Laux?) in September 1709,
+the Pastor of Rotterdam Reformed Church recorded that the parents were outside
+the Eastgate, coming from the Pfalz, and going to England.  Similar entries
+concerning these German emigrants are found in the Rotterdam Catholic registers
+and the Brielle Reformed churchbooks.
+
+The Palatines encamped outside Rotterdam were in a miserable condition, and
+shacks covered with reeds were the only shelter they had from the elements.
+The Burgomaster of Rotterdam took pity on them and appropriated 750 guilders for
+distribution among the destitute.  Meanwhile, the British government employed
+three Anabaptist Dutch merchants, Hendrik van Toren, Jan van Gent, and John
+Suderman, to supervise the loading and sailing of the emigrants to England (the
+five Rotterdam Embarkation Lists are a product of their labours); but the
+Palatines continued to arrive in Holland in increasing numbers at the rate of
+nearly a thousand per week.  On 14 June 1709, James Dayrolle, British Resident
+at the Hague, informed London that if the British government continued to give
+bounty to the Palatines and encourage their migration, half of Germany would be
+on their doorstep, for they were flying away not only from the Palatinate, but
+from all other countries in the neighborhood of the Rhine!
+
+Things were clearly getting out of hand.  The immigrants were coming over so fast
+that it was impossible to care for them and dispose of them.  The British,
+victims of their own too-successful PR campaign, tried to turn back many Palatines,
+especially the Catholics, and by late July refused to honor their
+
 
