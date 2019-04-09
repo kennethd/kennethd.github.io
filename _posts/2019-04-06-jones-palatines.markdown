@@ -541,3 +541,47 @@ were taking their bread and reducing their scale of wages, mobs of people began
 attacking the Palatines with axes, hammers, and scythes, and even the upper
 classes became alienated 
 
+[12](/assets/jones/the-palatines-story.12.jpg) from the Germans, fearing they
+were spreading fever and disease.  To alleviate the situation, groups of
+Palatines (labelled "Catholics," although some definitely were not) were sent
+back to Holland from whence they were to return to Germany.  Dr. Knittle has
+published two such "Returned to Holland Lists" dated 1709 and 1711.  Working
+from a clue found in the Groves Papers at the Public Record Office in Belfast, I
+employed Peter Wilson Coldham to search for similar lists dated 1710, which
+eventually were found in the Treasury Papers in the London Public Record Office
+and published by John P. Dern and myself in 1981 in _Pfälzer-Palatines_ as a
+tribute to the late Dr. Fritz Braun of the Heimatstelle Pfalz.
+
+The dispersal of the Palatines continued.  Some were sent to other parts of
+England where, rather than receiving their expected grants of land, they were
+made daylaborers and swineherds.  Others were dispatched to Ireland, where
+many became tenants of Sir Thomas Southwell near Rathkeale in County Limerick
+(my small book _The Palatine Families of Ireland_ concerns these 1709ers and
+their descendants.  Then, some emigrants were sent to North Carolina where
+they joined the Swiss settlement of Christopher von Graffenreid, while a few
+others went to Jamaica and the West Indies.  Plans also were instituted to
+transport a group of Germans to the Scilly Isles, but this scheme appears to
+have come to naught.
+
+Of the 13,000 Germans who reached London in 1709, only an estimated quarter
+came to New York.  The idea of sending the Palatines there sprang from a
+proposal sponsored by Governor-Elect Robert Hunter of New York, probably made
+originally by the Earl of Sunderland.  It was their thought that the 1709ers
+be used in the manufacture of naval stores (e.g. tar and pitch) from the pine
+trees dotting the Hudson Valley and thus earn their keep in the colony.
+
+It also was acknowledged that a strong Palatine presense in the new world would
+act as a buffer against the French in Canada and strengthen the Protestant cause
+in British America.  No real time-limit to the lehgth of service of the Germans
+was specified, but it was apparent they were to be employed until the profits
+had not only paid their expenses, but also repaid the government for their
+transportation and settlement.  They allegedly signed a covenant to this effect
+in England which noted that, when the government was repaid, forty acres of land
+would be given to each person, free from taxes and quit rents for seven years.
+
+Most of the Palentines boarded ships for New York in December 1709, but the
+convoy really never left England Until April of 2010.  The German Emigrants
+sailed on eleven boats, and Governor-Elect Hunter accompanied the group.  The
+voyage was a terrible
+
+
