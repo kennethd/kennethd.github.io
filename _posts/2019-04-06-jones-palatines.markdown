@@ -626,4 +626,134 @@ The situation grew worse due to trouble in the naval stores program: the
 knowledgeable James Bridger was replaced with Richard Sackett who seemed to
 know little about tar-making. In 
 
+[14](/assets/jones/the-palatines-story.14.jpg) 1711, many Palatines took part in
+an abortive British expedition against the French in Canada, further delaying tar
+extraction.
+
+To add to this sad state of affairs, in England the Whigs, who had largely
+sponsored the Paletine settlement in New York, were superseded in office by the
+Tories, who proceeded to disparage the 1709er Whig project and bring about a
+House of Commons investigation and censure in 1711.  Hunter then lost financial
+backing in his efforts to support the Germans and had to withdraw the Palatine
+subsistenses in September 1712.  After all the British promises, the Germans
+were abandoned to suffer their own fate, although the Governor still attempted
+to keep some control over them by requiring the Palatines to obtain permits if
+they wished to move elsewhere in New York or New Jersey.  Johann Friederich<sup>[\[1\]](NEEDLINK)</sup> Hager,
+the Reformed German clergyman sent to minister to the Palatines by the Society
+for the Propagation Of The Gospel in London, described their terrible plight in a
+poignant letter dated 6 July 1713 written to the Society:
+
+    Pray to not take it ill that I trouble you with these lines.  I have written
+    several times, but I do not know whether the letters have come to hand. Thus
+    have I likewise received none from my father, I do not know how long since,
+    and therefore, cannot be sure whether he is alive or dead.
+    
+    The misery of these poor Palatines I every day behold has thrown me into such
+    a fit of melancholy that I much fear a sickness.  There has been a great famine
+    among them this winter, and does hold on still, in so much that they boil
+    grass and ye ch. eat the leaves of the trees.  Such amongst them have most
+    suffered of hunger as are advanced In yrs. and too weak to go out labouring.
+    I have teen old men and women crie that it should have almost moved a stone.
+    I am almost resined with this people.  I have given the bread out of my own
+    mouth to many a one of them, not being able to behold their extreme want.
+    
+    Where I live there were two old people that, before I could be informed of
+    their necessitous condition, have for a whole week together had nothing but
+    Welsh turnips, which they did only scrape and eat without any salt or fat or
+    bread; and in a word, I cannot describe the miserable state they are reduced
+    to, and above all that, have we no hope of any alteration; for one hears no
+    news here, nobody receives any letters, which also hinders me now from
+    drawing a Bill of Exchange for my half year'a salary, due Ladyday 1713.  The
+    knife is almost put to my throat, whilst I am in a foreign country without
+    either money or friends to advance one any.  I had sown and planted some
+    ground at my own charges, but it has now twice been spoiled.  I have served
+    hitherto faithfully as Col. Heathcote and others can bear witness with a good
+    conscience and should I now be forsaken in this remote land without any pay,
+    or means of subsistence, having neither received anything hitherto from my
+    people nor anything being to be expected from them for the time to come. 
+    They cry out after me: I should by no means forsake them for they should
+    otherwise be
+
+[15](/assets/jones/the-palatines-story.15.jpg)
+
+    quite comfortless in this wilderness.  Sir, I entreat you to recommend my
+    case as much as possible, for I do not know where to turn myself otherwise...
+
+Having been left to their own resources, the more restless and adventurous of the
+Germans stole away in late 1712 to the Schoharie valley, which at one time was a
+land considered for Palatine settlement.  They bought lands from the Indians there,
+but also bought more trouble as the Native-Americans' title to this property was
+dubious and led to years of litigation.  Slowly, the Palatines carved homes out
+of the frontier, and eventually seven distinct villages were settled in the
+Sohoherie region.  Frank E. Lichtenthaeler, in his excellent article _The Seven
+Dorfs Of Schoharie_ has identified them as:
+
+    Named by Conrad Weiser's Journal    Named by Simmendinger
+    --------------------------------    ---------------------
+    1) Kniskern-dorf                    Neu-Heidelberg
+    2) Gerlachs-dorf                    Neu-Cassel
+    3) Fuchsen-dorf                     Neu-Heessberg
+    4) Schmidts-dorf                    Neu-Quunsberg 
+    5) Weisers-dorf (Brunnendorf)       Neu-Stuttgardt 
+    6) Hartmans-dorf                    Neu-Ansberg 
+    7) Ober Weisers-dorf
+
+Palatines had not been permitted to bring their Hudson Valley tools with them to
+Schoharie, so they fashioned ingenious substitutes: branches of a tree for a fork
+used in haymaking, a shovel from a hollowed-out log-end, and a maul from a large
+knot of wood -- examples of their determination and imagination.
+
+By the time of their naturalization in 1715, the 1709ers were spread out in
+colonial New York to a large extent.  About this time, Ulrich<sup>[\[1\]](NEEDLINK)</sup>
+Simmendinger began gathering family data concerning his compatriots which he would
+eventually publish in 1717 upon his return to Germany (see his section for further
+details).  Simmendinger's fascinating pamphlet detailed the families at East Camp,
+those at Rhinebeck and on the west side of the Hudson (lumped together in his
+"Beckmansland" locale), the Germans in the Schoharie settlements, those in
+New York City, and groups in New Jersey at Hackensack and on the Raritan.  These
+latter New Jersey Germans (whom Dr. Knittle erroneously put as Schoharie residents
+of Kniskernsdorf) settled in the colony after subsistence was withdrawn in 1712.
+N.J. Lutheran congregations in fairly close association were formed at Millstone,
+Rockaway, and an area known as "The Mountains."  Excellent data on them may be
+found in John F. Dern's _Albany Protocol_, Simon Hart and Harry J. Kreider's
+_Lutheran Church in N.Y. and N.J. 1722 - 1760_, and Norman C. Wittwer's _The
+Faithful and the Bold_.
+
+Troubles with the New York colonial government continued as Hunter made plans to
+clear the Palatines from their Schoharie
+
+[16](/assets/jones/the-palatines-story.16.jpg) settlements.  In 1718, Johann Conrad<sup>[\[1\]](NEEDLINK)</sup>
+Weiser, Gerhardt<sup>[\[1\]](NEEDLINK)</sup>' Walrath, and Wilhelm<sup>[\[1\]](NEEDLINK)</sup>
+Scheff were sent to London to plead the Palatine cause; however, the lack of
+agreement among the three delegates, their lack of financial resources, and
+Hunter's powerful influence in London made their case ineffective, and they
+returned to New York.  Finally, in 1722/23, Hunter's successor, Governor William
+Burnet, purchased land in the Mohawk Valley far some of the Palatines, and they
+eventually settled in this area on the Stone Arabia and Burnetsfield Patents.
+About this time, fifteen German families left the Schoharie Valley to settle in
+the Tulpehocken region of present-day Berks County, Pennsylvania.  Others
+continued to follow, and by 1730 the 1709er emigrant families were found in
+New York, New Jersey, Pennsylvaaia, Delaware, Maryland, Virginia, Connecticut,
+and the Carolinas.
+
+This, then, is a necessarily brief background of the Palatine story.  I especially
+recommend Dr. Walter A. Knittle's book _Early Eighteenth Century Palatine Emigration_,
+which has helped me greatly, for a fuller picture of their travails and dispersal.
+That the Palatines survived in America is no less a miracle than is their emigration!
+They left hardships in Germany to find new hardships here.  The 1709ers never
+found the promised land of milk and honey of the Golden Book, but they did find a
+wilderness ready to be tamed and transformed into liveable communities by 
+perseverance and hard work.   Their story is a tribute to their fortitude and
+quality of character which enabled the to find the inner strength to meet the
+terrible difficulties they faced in their new life in a new world.  The Palatine 
+families of New York met the challenge headon and not only survived, but established
+a secure and important place in American life. 
+
+
+
+# Winters Index
+
+![Winter Index](/assets/jones/index.winter.jpg)
+
+
 
