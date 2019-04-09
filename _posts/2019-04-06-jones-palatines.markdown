@@ -310,7 +310,7 @@ put his trust elsewhere:
     He must have God's help!
 
 But perhaps the most important yet most intangible factor in the emigration was
-the character and psychological make-up of 
+the character and psychological make-up of
 
 [07](/assets/jones/the-palatines-story.07.jpg) the 1709ers themselves.  They
 seemed to have within their souls Some special spark, some sense of daring and
@@ -355,4 +355,52 @@ fascinating entry in his churchbook:
     such a winter; not only were many birds frozen and found dead, but also many
     domesticated livestock in their sheds.  Many trees froze, and the winter
     grain was also very frozen... 
+
+[08](/assets/jones/the-palatines-story.08.jpg) In this year 1709 many thousands
+of families from Germany, especially from Upper and Lower Hessen, from the Pfalz,
+Odenwald, Westerwald, and other dominions, have departed for the so-called New
+America and, of course, Carolina.  Here, from out of the grove, (..) families
+have departed with them [the families being those of Johann Henrich Michael
+Vatter, Friedrich Filippi, Christoffel Schickedantz, Christoffel Jost, and
+Tobias Schilfer].  [Here are] details of those who have joined together here and
+there in Germany and departed in 1709 for the New World:
+
+    From the Pfalz                                  8,589 persons
+    From Darmstadt area                             2,334
+    From Hanau, Ysenburg, and neighboring   
+    Grafschaften and Wetterau districts             1,113
+    From Franckenland                               653
+    From the Mainz area                             63
+    From the Trier area                             58
+    From the Bishopric of Worm, Speyer, and
+    neighboring Grafschaften                        490
+    From the Kassel area                            81
+    From the Zweibrücken area                       125
+    From the Nassau area                            203
+    From Alsace                                     413
+    From the Baden countryside                      320
+    Unmarried craftsmen                             871
+                                                    (15,313) 
+
+    Not all of these people went farther than to England and Ireland; very few
+    got to America.  And because England and Ireland didn't suit them, they all,
+    except those who died on the way, returned, as did some of the above
+    mentioned Hanau families, and that after two years.  The Catholics, however,
+    were all sent back.
+
+Just how and where this village Pastor obtained these numbers and his information
+intrigues me greatly, but no source is revealed in the Dreieichenhain churchbook.
+However, the extract does indeed give a good, although undoubtedly incomplete,
+picture of the overall geographic breakdown of the origins of the emigrants from
+contemporary eyes.
+
+The first trickle of German emigrants left for New York with Pastor Joshua
+Kocherthal in 1708 and settled near Newburgh on the Hudson River.  Then, about
+February or March 1709, large groups beaan leaving their German homes for
+Rotterdam and thence to England.  There are records of their departure. Some
+obtained letters of recommendation or birth certificates from officials to bring
+with them on their trip, such as Gerhardt<sup>[\[1\]](NEEDLINK)</sup> Schäfer and
+Ulrich<sup>[\[1\]](NEEDLINK)</sup> Simmendinger.  Others tried to dispose of
+their property in an orderly and legal manner and obtain lawful permits to
+emigrate, such as 
 
