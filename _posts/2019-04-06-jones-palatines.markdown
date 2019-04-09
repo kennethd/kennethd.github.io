@@ -500,4 +500,44 @@ that it was impossible to care for them and dispose of them.  The British,
 victims of their own too-successful PR campaign, tried to turn back many Palatines,
 especially the Catholics, and by late July refused to honor their
 
+[11](/assets/jones/the-palatines-story.11.jpg) commitments to support the German
+arrivals.  Many of those arriving after that date, if not sent back, made their
+way to England by private charitable contribution or at their own expense; this
+latter group probably never was catalogued or enrolled on any shipping list as
+were the earlier arrivals at Rotterdam.
+
+The Palatines arriving in England beginning In may 1709 continued to have
+problems there.  London was not so large a city that 11,000 alien people could
+be poured into it conveniently without good notice or thorough planning.  The
+government attempted to cope with the trying situation but it was hard put to
+provide food and shelter for the emigrants.  1,600 tents were issued by the
+government for the Palatine encampments formed at Blackheath, Greenwich, and
+Cumberwell; others were quartered at Deptford, Walworth, Kensington, Tower Ditch,
+and other areas.  Pastor Fred Weiser has sent on a genealogical source
+indicating the Palatine's travail in London: some interesting marginal notes
+found in the family record of the 1709er Arnold Altlander/Altlanden family of
+Plänig near Alzey mention that one of the children born in 1706 "fell blessedly
+asleep in the Lord Christ and was buried at Derthforth near London," while another
+child born in 1708 "was buried in London on the heath."  Palatine deaths in
+England were not uncommon as their places of shelter were as crowded and
+unhealthy as they had been in Holland.  Occasionally an emigrant's marriage or
+baptism was recorded in a British source, such as the Savoy German Lutheran
+churchbook in London; this material has been transcribed and published by John P.
+Dern in his valuable _London Churchbooks and The German Emigration of 1709_.
+Mr. Dern and his late colleague Norman C. Wittwer also found several Palatine
+baptisms (including one in Johann Peter<sup>[\[2\]](NEEDLINK)</sup> Zenger's
+family) registered at St. Nicholas Church in Deptford.
+
+While the emigrants waited in England, the Board of Trade ordered two German
+Pastors, Pfr. John Tribbeko and Pfr. Georg Andrew Ruparti, to compile a record
+of those encamped in London.  Their rolls are known today as the four London
+Lists, but they cease in June 1709 when the Palatine emigration simply got too
+big to chronicle.  The longer they lingered, the worse conditions became for the
+1709ers; so, as in Rotterdam, they had to depend on alms and charity to survive
+in their camps at Blackheath and environs.  At first the London populace looked
+on the Palatines in a rather kindly way, but gradually the novelty of their
+presence wore off.  As the poorer classes of Londoners realized the emigrants
+were taking their bread and reducing their scale of wages, mobs of people began
+attacking the Palatines with axes, hammers, and scythes, and even the upper
+classes became alienated 
 
