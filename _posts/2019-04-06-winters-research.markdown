@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heinrich Winter and the Palatine Immigrants of 1709"
+title:  "Winters Line Research"
 date:   2019-04-06 
 categories: genealogy palatines winters
 ---
@@ -8,14 +8,21 @@ categories: genealogy palatines winters
   * Table of Contents
   {:toc}
 
+# Direct Winters Ancestors
+
+![Great Grandparents of the Winters Line](/assets/jones/winters.ggps.jpg)
+
+
+# The Palatine Families of New York, Jones, Henry Z.
+
 ![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/jones/01.title.page.jpg  "The Palatine Families of New York")
 ![Table of Contents](/assets/jones/03.toc.jpg)
 
-# Map of Palatine Settlements
+## Map of Palatine Settlements
 ![Map of settlements](/assets/jones/02.map-of-settlements.jpg  "Map of settlements")
 
 
-# The Palatines' Story
+## The Palatines' Story
 
 [01](/assets/jones/the-palatines-story.01.jpg) The background of the great
 "Palatine" emigration of 1709 has been well-chronicled by such past scholars
@@ -755,7 +762,7 @@ a secure and important place in American life.
 
 
 
-# Winters Index from Jones' Palatine Families of New York
+## Winters Index Entries
 
 ![Winter Index](/assets/jones/index.winter.jpg)
 
