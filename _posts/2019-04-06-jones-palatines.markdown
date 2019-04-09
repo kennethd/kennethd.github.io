@@ -312,4 +312,47 @@ put his trust elsewhere:
 But perhaps the most important yet most intangible factor in the emigration was
 the character and psychological make-up of 
 
+[07](/assets/jones/the-palatines-story.07.jpg) the 1709ers themselves.  They
+seemed to have within their souls Some special spark, some sense of daring and
+adventure which enabled them to gamble their lives and families on an unknown
+fate and set forth across a mighty ocean to a strange land.  Several emigrants
+were noted in churchbooks prior to 1709 as "vagabondus" and thus were already
+on the move.  Some exhibited a genuine landhunger and a desire to better their
+lot even before leaving Germany, as exemplified by a few of the responses to
+the Nassau-Weilburg questionaires.  And then there were those hearty souls who
+found their way to colonial N.Y. who were simply dreamers, as shown by this
+rather caustic comment of the Pastor of **Welterod**:
+
+    [1709] In this year the winter was terrible cold and because of its fury the
+    spring crops of nut, cherry, and apple trees are almost gone...
+    
+    A particularly deceptive spirit this year broke out among many people,
+    especially those more or less lazy and indolent fellows who left their
+    fatherland with wife and children to travel to England from where they
+    were to be transported to Carolina in the West Indies or America, about
+    which land they allowed themselves to dream again of great splendors where
+    one should almost believe that breakfast bread would rain into their mouths.
+    Moreover, they would not let themselves be deterred from their calm delusion
+    through more accurate respresentation of the facts.  Out of my congregation
+    here, for example, a single, miserably lazy fellow babbled about this with
+    his wife and 3 children then left from here - namely Johann Curt Wüst from
+    Strüth.  There were others there who came back again after repenting of
+    their foolishness, but he is not found among them.
+
+I say, "Thank God for the dreamers!"  One of the discoveries in my finding over
+500 of the 847 New York Palatine families in their German homes is the fact that
+so many emigrants originated in areas outside the boundaries of what we think of
+today as the Palatinate.  Many New York settlers were found in the Neuwied,
+Isenburg, Westerwald, Darmstadt, and Nassau regions as well as the Pfalz -
+proving again that the term "Palatine" was more of a generic reference (meaning
+"Germans" in general) rather than a literal description of their precise,
+geographic origins.  The Pastor of **Dreieichenhain**, midway between Darmstadt
+and Frankfurt, substantiates the widespread origins or the 1709ers in an utterly
+fascinating entry in his churchbook:
+
+    The year 1709 began with such severe and cold weather and lasted such a long
+    time that even the oldest people could not remember ever having experienced
+    such a winter; not only were many birds frozen and found dead, but also many
+    domesticated livestock in their sheds.  Many trees froze, and the winter
+    grain was also very frozen... 
 
