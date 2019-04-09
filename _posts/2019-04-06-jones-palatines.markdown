@@ -584,4 +584,46 @@ convoy really never left England Until April of 2010.  The German Emigrants
 sailed on eleven boats, and Governor-Elect Hunter accompanied the group.  The
 voyage was a terrible
 
+[13](/assets/jones/the-palatines-story.13.jpg) one for the Palatines: they were
+crowded together on the small vessels, suffered from vermin and poor sanitat!on,
+and were forced to subsist on unhealthy food.  Many became ill, and the entire
+fleet was ravaged by ship-fever (now known an typhus) which eventually caused
+the deaths of many passengers.  John P. Dorn will publish the results of his
+research with Norman C. Wittwer on the the Palentines' journey to America, the
+convoy that accompanied them, their route of travel, etc., which will greatly
+enhance our knowledge of that little-known aspect of the 17O9er story.
+
+The Palatines who arrived in the summer of 1710 found that colonial Now York was
+hardly the paradise propounded In the Golden Book back in Germany.  The New York
+City Council protested the arrival of 2,500 disease-laden newcomers within their
+jurisdiction and demanded the Germans stay in tents on Nutten (Governor's) Island
+offshore.  Typhus continued to decimate the emigrants.  Altogether about 470 
+Palatines died on the voyage from England and during their first month in New York.
+Many families were broken up at this time; Hunter apprenticed children who were
+orphans as well as youngsters whose parents were still alive!  The Governor's
+record of his payments for the subsistence of the 847 Palatine families 1710-1712
+survives today as the so-called Hunter Susistence Lists.
+
+On 29 September 1710, Governor Hunter entered into an agreement with Robert
+Livingston, Commissioner of Indian Affairs, to purchase a tract of 6,000 acres
+on the east side of the Hudson for the purpose of settling Palatines there to
+manufacture naval stores.  In October, many of the Germans began going up the
+river, clearing the ground, and building huts on the Livingston tract.  
+Gradually, small, distinct settlements appeared at East Camp called Hunterstown,
+Queensbury, Annsbury, and Haysbury; the villages on the west side of the Hudson
+were Elizabeth Town, George Town, and New Town.  Other 1709ers remained in New
+York City, and many of this group eventually made their way to New Jersey.
+
+The Palatines grew increasingly dissatisfied with their status, which bordered on
+serfdom, and strongly demanded the lands promised them in London.  Their
+rebellion was put down by the governor, who disarmed the Germans and put them
+under the command of overseers and a Court of Palatine Commissioners, who treated
+them again as "the Queen's hired servants."  Dissension continued, as the
+Palatines bickered with their commissaries and found fault with the irregular
+manner in which they were being subsisted with inferior food supplies.
+
+The situation grew worse due to trouble in the naval stores program: the
+knowledgeable James Bridger was replaced with Richard Sackett who seemed to
+know little about tar-making. In 
+
 
