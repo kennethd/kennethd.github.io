@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Babcock Line Research"
-date:   2019-04-09
+date:   2019-04-08
 categories: genealogy babcock
 ---
 
