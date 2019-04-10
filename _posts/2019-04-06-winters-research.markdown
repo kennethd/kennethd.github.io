@@ -10,21 +10,22 @@ categories: genealogy palatines winters
 
 # Direct Winters Ancestors
 
-![Great Grandparents of the Winters Line](/assets/jones/winters.ggps.jpg)
+![Direct Ancestors of the Winters Line](/assets/genealogy/winters.ggps.jpg)
+![Direct Ancestors of the Winters Line](/assets/genealogy/winters.direct.ancestors.jpg)
 
 
 # The Palatine Families of New York, Jones, Henry Z.
 
-![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/jones/01.title.page.jpg  "The Palatine Families of New York")
-![Table of Contents](/assets/jones/03.toc.jpg)
+![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/genealogy/01.title.page.jpg  "The Palatine Families of New York")
+![Table of Contents](/assets/genealogy/03.toc.jpg)
 
 ## Map of Palatine Settlements
-![Map of settlements](/assets/jones/02.map-of-settlements.jpg  "Map of settlements")
+![Map of settlements](/assets/genealogy/02.map-of-settlements.jpg  "Map of settlements")
 
 
 ## The Palatines' Story
 
-[01](/assets/jones/the-palatines-story.01.jpg) The background of the great
+[01](/assets/genealogy/the-palatines-story.01.jpg) The background of the great
 "Palatine" emigration of 1709 has been well-chronicled by such past scholars
 as Julius Goebel,. Sr., Friedrich Kapp, Sanford H. Cobb, F. R. Diffenderffer,
 and Specially Dr. Walter A. Knittle. By mainly utilizing state papers and
@@ -67,7 +68,7 @@ Some years later, the Pastor at **Westhofen** noted;
     From October 1665 to 1669, this churchbook, along with my other best
     books, were taken to Worms for security... 
 
-[02](/assets/jones/the-palatines-story.02.jpg) The plundering continued, as recorded by the as reported by the Pastor at **Kröffelbach**:
+[02](/assets/genealogy/the-palatines-story.02.jpg) The plundering continued, as recorded by the as reported by the Pastor at **Kröffelbach**:
 
     On Friday 21 Dec 1688, a large French force came here to Cröffelbach, 
     plundered everything here and at Oberquembach, Oberwetz, Niederwetz,
@@ -116,7 +117,7 @@ Colonial new York:
     farmer farms is his own, there are no tithes, no tariffs, hunting and fishing 
 
 
-[03](/assets/jones/the-palatines-story.03.jpg)
+[03](/assets/genealogy/the-palatines-story.03.jpg)
 
     are free, and our soil is fertile and everything grows...
 
@@ -169,7 +170,7 @@ Residents of the various Duchies of southern Germany then were in a terrible
 state from the ongoing wars, oppressive taxation, and devastating winter - all
 of which contributed to their 
 
-[04](/assets/jones/the-palatines-story.04.jpg) desire to emigrate from their
+[04](/assets/genealogy/the-palatines-story.04.jpg) desire to emigrate from their
 "forsaken Egypt," as Johann Müller of the Mohawk called his former European
 homeland in his 1749 letter.
 
@@ -210,7 +211,7 @@ asked how he first came upon the idea to emigrate and who first gave a reason
 for the emigration, Christian Schneider aged 25, Lutheran, married 2 years with
 no children stated: 
 
-[05](/assets/jones/the-palatines-story.05.jpg)
+[05](/assets/genealogy/the-palatines-story.05.jpg)
 
     People from Altenkirchen. English agents at Frankfurt and writings brought
     by them.
@@ -266,7 +267,7 @@ Island?  Christian Schneider replied:
 
     Nothing, except that it is undeveloped and could be built up with work. 
 
-[06](/assets/jones/the-palatines-story.06.jpg) Johannes Willig added:
+[06](/assets/genealogy/the-palatines-story.06.jpg) Johannes Willig added:
 
     The place is a better land, if one wants to work.
 
@@ -323,7 +324,7 @@ put his trust elsewhere:
 But perhaps the most important yet most intangible factor in the emigration was
 the character and psychological make-up of
 
-[07](/assets/jones/the-palatines-story.07.jpg) the 1709ers themselves.  They
+[07](/assets/genealogy/the-palatines-story.07.jpg) the 1709ers themselves.  They
 seemed to have within their souls Some special spark, some sense of daring and
 adventure which enabled them to gamble their lives and families on an unknown
 fate and set forth across a mighty ocean to a strange land.  Several emigrants
@@ -367,7 +368,7 @@ fascinating entry in his churchbook:
     domesticated livestock in their sheds.  Many trees froze, and the winter
     grain was also very frozen... 
 
-[08](/assets/jones/the-palatines-story.08.jpg) In this year 1709 many thousands
+[08](/assets/genealogy/the-palatines-story.08.jpg) In this year 1709 many thousands
 of families from Germany, especially from Upper and Lower Hessen, from the Pfalz,
 Odenwald, Westerwald, and other dominions, have departed for the so-called New
 America and, of course, Carolina.  Here, from out of the grove, (..) families
@@ -415,7 +416,7 @@ Ulrich<sup>[\[1\]](NEEDLINK)</sup> Simmendinger.  Others tried to dispose of
 their property in an orderly and legal manner and obtain lawful permits to
 emigrate, such as 
 
-[09](/assets/jones/the-palatines-story.09.jpg) Peter<sup>[\[1\]](NEEDLINK)</sup>
+[09](/assets/genealogy/the-palatines-story.09.jpg) Peter<sup>[\[1\]](NEEDLINK)</sup>
 Wagener of **Dachsenhausen** and the many 1709ers who left the Nassau-Dillenburg
 region.  As these Germans left their homes, very often the local Pastors made
 mention of their departures in their churchbooks.  For instance, the registers
@@ -466,7 +467,7 @@ probably was a typical route:
     There we had to remain until the wind became calm. And on the 24th of Nov,
     we left Emrig and 
 
-[10](/assets/jones/the-palatines-story.10.jpg)
+[10](/assets/genealogy/the-palatines-story.10.jpg)
 
     came to Schingen Schantzs, and [CUTOFF]
     the night [we sailed] to Rein and on the 28th of Nov to Wieg, and thence we
@@ -511,7 +512,7 @@ that it was impossible to care for them and dispose of them.  The British,
 victims of their own too-successful PR campaign, tried to turn back many Palatines,
 especially the Catholics, and by late July refused to honor their
 
-[11](/assets/jones/the-palatines-story.11.jpg) commitments to support the German
+[11](/assets/genealogy/the-palatines-story.11.jpg) commitments to support the German
 arrivals.  Many of those arriving after that date, if not sent back, made their
 way to England by private charitable contribution or at their own expense; this
 latter group probably never was catalogued or enrolled on any shipping list as
@@ -552,7 +553,7 @@ were taking their bread and reducing their scale of wages, mobs of people began
 attacking the Palatines with axes, hammers, and scythes, and even the upper
 classes became alienated 
 
-[12](/assets/jones/the-palatines-story.12.jpg) from the Germans, fearing they
+[12](/assets/genealogy/the-palatines-story.12.jpg) from the Germans, fearing they
 were spreading fever and disease.  To alleviate the situation, groups of
 Palatines (labelled "Catholics," although some definitely were not) were sent
 back to Holland from whence they were to return to Germany.  Dr. Knittle has
@@ -595,7 +596,7 @@ convoy really never left England Until April of 2010.  The German Emigrants
 sailed on eleven boats, and Governor-Elect Hunter accompanied the group.  The
 voyage was a terrible
 
-[13](/assets/jones/the-palatines-story.13.jpg) one for the Palatines: they were
+[13](/assets/genealogy/the-palatines-story.13.jpg) one for the Palatines: they were
 crowded together on the small vessels, suffered from vermin and poor sanitat!on,
 and were forced to subsist on unhealthy food.  Many became ill, and the entire
 fleet was ravaged by ship-fever (now known an typhus) which eventually caused
@@ -637,7 +638,7 @@ The situation grew worse due to trouble in the naval stores program: the
 knowledgeable James Bridger was replaced with Richard Sackett who seemed to
 know little about tar-making. In 
 
-[14](/assets/jones/the-palatines-story.14.jpg) 1711, many Palatines took part in
+[14](/assets/genealogy/the-palatines-story.14.jpg) 1711, many Palatines took part in
 an abortive British expedition against the French in Canada, further delaying tar
 extraction.
 
@@ -685,7 +686,7 @@ poignant letter dated 6 July 1713 written to the Society:
     They cry out after me: I should by no means forsake them for they should
     otherwise be
 
-[15](/assets/jones/the-palatines-story.15.jpg)
+[15](/assets/genealogy/the-palatines-story.15.jpg)
 
     quite comfortless in this wilderness.  Sir, I entreat you to recommend my
     case as much as possible, for I do not know where to turn myself otherwise...
@@ -733,7 +734,7 @@ Faithful and the Bold_.
 Troubles with the New York colonial government continued as Hunter made plans to
 clear the Palatines from their Schoharie
 
-[16](/assets/jones/the-palatines-story.16.jpg) settlements.  In 1718, Johann Conrad<sup>[\[1\]](NEEDLINK)</sup>
+[16](/assets/genealogy/the-palatines-story.16.jpg) settlements.  In 1718, Johann Conrad<sup>[\[1\]](NEEDLINK)</sup>
 Weiser, Gerhardt<sup>[\[1\]](NEEDLINK)</sup>' Walrath, and Wilhelm<sup>[\[1\]](NEEDLINK)</sup>
 Scheff were sent to London to plead the Palatine cause; however, the lack of
 agreement among the three delegates, their lack of financial resources, and
@@ -764,7 +765,15 @@ a secure and important place in American life.
 
 ## Winters Index Entries
 
-![Winter Index](/assets/jones/index.winter.jpg)
+![Winter Index](/assets/genealogy/index.winter.jpg)
+
+## Bachus Index Entries
+
+![Bachus Index](/assets/genealogy/index.bachus.jpg)
+
+
+
+# Buggery or Slander; the Trials and Tribulations of Moses Winters, Pétrin, Guylaine
 
 
 
