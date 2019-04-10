@@ -10,7 +10,6 @@ categories: genealogy palatines winters
 
 # Direct Winters Ancestors
 
-![Direct Ancestors of the Winters Line](/assets/genealogy/winters.ggps.jpg)
 ![Direct Ancestors of the Winters Line](/assets/genealogy/winters.direct.ancestors.jpg)
 
 
@@ -775,5 +774,6 @@ a secure and important place in American life.
 
 # Buggery or Slander; the Trials and Tribulations of Moses Winters, Pétrin, Guylaine
 
+# Loyalist Plantations on the Susquehanna, Jones, J. Kelsey, 2013
 
 
