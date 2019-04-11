@@ -1,0 +1,86 @@
+
+# Local DNS Cache with pdnsd
+
+
+## installation
+
+on debian, should be as simple as **aptitude install pdnsd**
+
+your `/etc/resolv.conf` should contain only
+
+  nameserver 127.0.0.1
+
+debian installs pdnsd with a dedicated user account.  upstream packages
+previously ran the daemon as `nobody`, but using such a common account
+created a vulnerability as an exploitation of any other process running as
+`nobody` could allow an attacker to poison your cache.
+
+### dhclient
+
+
+
+### resolvconf
+
+If your system uses `resolvconf`, your `/etc/resolv.conf` will probably warn
+you that any customizations to the file will be overwritten.  In that case you
+need to update `/etc/resolvconf/resolv.conf.d/base`
+
+
+# Useful commands
+
+
+## forget a cache entry
+
+  $ sudo pdnsd-ctl record rt.ylayali.net delete
+
+## blocking domains
+
+### create a **neg** (negative cache record) in your config file
+
+{% highlight shell-session %}
+kenneth@dhalgren:~$ grep ^neg /etc/pdnsd.conf 
+neg { name=doubleclick.net; types=domain; }
+neg { name=clkads.com; types=domain; }
+{% endhighlight %}
+
+### forget any currently cached value as above & restart the service
+
+{% highlight shell-session %}
+kenneth@dhalgren:~$ sudo pdnsd-ctl dump clkads.com
+Opening socket /var/cache/pdnsd/pdnsd.status
+clkads.com.
+    11/21 22:39:11    A       108.168.157.82
+
+Succeeded
+
+kenneth@dhalgren:~$ sudo pdnsd-ctl record clkads.com delete
+Opening socket /var/cache/pdnsd/pdnsd.status
+Succeeded
+{% endhighlight %}
+
+It may be worthwhile to check your current cache for any subdomains you also
+want to delete
+
+{% highlight shell-session %}
+kenneth@dhalgren$ sudo pdnsd-ctl record ads.exoclick.com delete
+kenneth@dhalgren$ sudo pdnsd-ctl record static.exoclick.com delete
+kenneth@dhalgren$ sudo pdnsd-ctl record custom.exoclick.com delete
+kenneth@dhalgren$ sudo pdnsd-ctl record syndication.exoclick.com delete
+kenneth@dhalgren$ sudo pdnsd-ctl record main.exoclick.com delete
+{% endhighlight %}
+
+finally, restart pdnsd
+
+{% highlight shell-session %}
+kenneth@dhalgren:~$ sudo /etc/init.d/pdnsd stop 
+Stopping pdnsd.
+
+kenneth@dhalgren:~$ sudo /etc/init.d/pdnsd start
+Starting pdnsd.
+{% endhighlight %}
+
+Handy one-liner for annoying domains that create hundreds of records
+{% highlight shell-session %}
+$ sudo pdnsd-ctl dump | grep olark.com | grep -v '^ ' | xargs -I '{}' sudo pdnsd-ctl record '{}' delete
+{% endhighlight %}
+
