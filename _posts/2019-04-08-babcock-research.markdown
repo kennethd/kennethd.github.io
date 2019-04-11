@@ -7,7 +7,6 @@ categories: genealogy babcock
 
   * Table of Contents
   {:toc}
-
 {% include genealogy_pages.html %}
 
 # Direct Babcock Ancestors

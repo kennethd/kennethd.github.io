@@ -7,7 +7,6 @@ categories: genealogy parker
 
   * Table of Contents
   {:toc}
-
 {% include genealogy_pages.html %}
 
 # Direct Parker Ancestors

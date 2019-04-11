@@ -7,8 +7,8 @@ categories: genealogy winters
 
   * Table of Contents
   {:toc}
-
 {% include genealogy_pages.html %}
+
 
 # Direct Winters Ancestors
 ![Direct Ancestors of the Winters Line](/assets/genealogy/winters.direct.ancestors.jpg)
