@@ -20,9 +20,10 @@ descended from immigrant Deacon William Peck, and his brother Joshua
 
 ![A Genialogical History of the Descendants of Joseph Peck](/assets/genealogy/peck.genealogical.history.joseph.jpg)
 
-# Images from Grove St. Cemetary, New Haven, CT
+# Founding Families of New Haven, CT
 
-All photos by Kenneth Dombrowski 2017
+# Images from Grove St. Cemetary, New Haven, CT
+All photos &copy; 2017 Kenneth Dombrowski
 
 ## Peck, William
 

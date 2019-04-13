@@ -10,5 +10,8 @@ categories: genealogy babcock
 {% include genealogy_pages.html %}
 
 # Direct Babcock Ancestors
-
 ![Direct Ancestors of the Babcock Line](/assets/genealogy/babcock.direct.ancestors.jpg)
+
+# The Founding of Westerly
+
+

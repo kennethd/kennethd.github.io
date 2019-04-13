@@ -1,5 +1,18 @@
+---
+layout: post
+title:  "Palatine Research"
+date:   2019-04-13
+categories: genealogy
+---
+
+  * Table of Contents
+  {:toc}
+{% include genealogy_pages.html %}
+
 
 # The Palatine Families of New York, Jones, Henry Z.
+*A Study of the Geman Immigrants who arrived in Colonial New York in 1710; Universal City, CA, 1985*
+
 ![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/genealogy/01.title.page.jpg  "The Palatine Families of New York")
 ![Table of Contents](/assets/genealogy/03.toc.jpg)
 
@@ -744,5 +757,8 @@ quality of character which enabled the to find the inner strength to meet the
 terrible difficulties they faced in their new life in a new world.  The Palatine 
 families of New York met the challenge headon and not only survived, but established
 a secure and important place in American life. 
+
+# The Palatines Arrive in the Hudson River Valley 1710
+*Becker, John Adams; Families, Ontario Genealogical Society, Nov. 2009*
 
 
