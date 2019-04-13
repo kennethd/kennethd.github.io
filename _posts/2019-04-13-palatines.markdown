@@ -19,7 +19,6 @@ categories: genealogy
 ## Map of Palatine Settlements
 ![Map of settlements](/assets/genealogy/02.map-of-settlements.jpg  "Map of settlements")
 
-
 ## The Palatines' Story
 
 [01](/assets/genealogy/the-palatines-story.01.jpg) The background of the great

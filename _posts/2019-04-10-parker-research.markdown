@@ -16,7 +16,11 @@ categories: genealogy parker
 
 The Joseph Peck in question here is the original immigrant of the
 _Massachusettes Pecks_, distinct in the U.S. from the New Haven family
-descended from immigrant Deacon William Peck, and his brother Joshua
+descended from immigrant Deacon William Peck, and his brother Joshua.
+
+A PDF of this book is available at
+[archive.org](https://archive.org/details/genealogicalhist00peck/page/n10) or
+[google books](https://books.google.com/books?id=u1_YBp_mnkMC&printsec=frontcover&dq=Peck&hl=en&sa=X&ei=7c7pUq7TG9LzoATs4oG4DQ#v=onepage&q&f=false)
 
 ![A Genialogical History of the Descendants of Joseph Peck](/assets/genealogy/peck.genealogical.history.joseph.jpg)
 
