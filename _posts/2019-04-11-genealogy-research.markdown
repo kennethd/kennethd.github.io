@@ -24,12 +24,31 @@ and [Winters](/genealogy/winters/2019/04/06/winters-research.html)
 
 # Immigrants to America
 
-## Heinrich Winter & family, of the 1710 Palatine influx
-*KLD's 7th great-grandfather from the Winters line*
+## Badcock, James (b. England 1612; d. RI, 1679)
+*KLD's 9th great-grandfather*
 
-## Patrick Price &amp; Mary Folin; emig. from Ireland 1850
+## Beach
+
+## Dombrowski, John & brothers, arr. 1893(all of them?)
+*KLD's great-grandfather*
+
+The 1910 census has John Dombrowski, b. Poland 10 May 1872, and wife Mary
+Pewowar (b. Poland 10 Oct 1877) both arriving in the US in 1893 (17 years
+prior), but only having been married for 13 years.  In the 13 years, they had
+had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
+
+## Gerard
+
+## Giddings
+
+## Hitchcock
+
+## Parker
+
+## Peck
+
+## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
 *KLD's 3rd great-grandparents from the Parker line*
-
 
 Patrick Price and Mary Folin were married in Sept 1837 in County Galway, Ire.,
 they had three children: Christopher (b. 1839; m. Catherine McDonald),
@@ -39,6 +58,15 @@ became a nurseryman in Bucks county.  In 1852 they went to Trenton, NJ, where
 they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 *-- from obituary found on ancestry.com*
+
+## Tuttle
+
+## Wells
+
+## Winter, Heinrich & family, of the 1710 Palatine influx
+*KLD's 7th great-grandfather from the Winters line*
+
+
 
 # Notable Military Veterans
 
@@ -50,15 +78,33 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 ### King Philip's War
 *New England colonists vs. the Narraganett people, 1675 -- 1678*
 
+#### Babcock, Cptn. John (b. Westerly, RI 1669; d. Westerly, RI 28 Mar 1746)
+
+#### Babcock, Job (b. 1671)
+
+*indian interpreter*
+
 ## American Revolutionary War
 *1775 -- 1783*
 
 ### Revolutionaries
 
+#### Babcock, Elihu (b. Rhode Island, 19 Jul 1746; d. Coventry, CT, 24 Jan 1823)
+*KLD's 5th great-grandfather*
+
+4th Company in 3rd CT Regiment
+
 #### Giddings, Joshua (b. Gloucester, MA, 23 Jan 1719; d. Hartland, CT, 4 Feb 1807)
+*KLD's 6th great-grandfather via the Parker line (Joshua's dau. Ruth m. Eliphalet Parker III)*
 
 #### Parker, Benjamin (b. Wallingford, CT, 12 Feb 1729; d. Wallingford, CT, 9 Feb 1807)
 *KLD's 7th great-uncle (brother of 6th great-grandfather Eliphalet Parker, Jr.)*
+
+#### Parker, Eliphalet III (b. Wallingford, CT 1754; d. Warsaw, NY 1812)
+*KLD's 5th great-grandfather*
+
+#### Parker, Michael (b. Wallingford, CT, 15 Oct 1758; d. Aurelius, NY, 15 Sep 1813)
+*KLD's 6th great-uncle (brother of 5th great-grandfather Eliphalet Parker III)*
 
 ### Loyalists
 
@@ -79,8 +125,10 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 ### Union Army
 
-#### Cass, Iddo Caleb (b. Candor, NY, 22 Dec. 1831; d. New London, WI 17 May 1877) *1st WI Cavalry*
+#### Cass, Iddo Caleb (b. Candor, NY, 22 Dec. 1831; d. New London, WI 17 May 1877)
 *KLD's 3rd great-grandfather via the Babcock line*
+
+1st WI Cavalry
 
 Enlisted 14 Nov 1861 @ Ellington for 3 years of service.  30 years/age, 5'10", brown hair & eyes, born Tioga, NY, occ. Lumberman.
 
@@ -94,13 +142,21 @@ company since 30 Jun, with note: "Left in Hospital St. Louis No information
 since", and again on 31 Dec: "Left in Hospital at Benton Barracks 30 Apr 1862 --
 nothing heard from since".
 
-Note that Iddo's wife, Samantha Susan Newell, died on 17 Aug 1862
-
+Note that Iddo's wife, Samantha Susan Newell, died on 17 Aug 1862.
 
 #### Parker, George Edward (b. Warsaw, NY, Dec. 1842; d. Menasha, WI bef. 1910)
+*KLD's 2nd great-grandfather*
 
-#### Parker, Ledyard (b. Warsaw, NY, 1820; d. Petersburg, VA, 14 Dec, 1864) *2nd PA Cavalry, 59th Regiment*
+4th WI Cavalry
+
+U.S. Civil War Pension Index lists two applications submitted by widow
+Alberteen C. Parker for her husband's service with the 4th Wisconsin Volunteer
+Cavalry Regiment.
+
+#### Parker, Ledyard (b. Warsaw, NY, 1820; d. Petersburg, VA, 14 Dec, 1864)
 *KLD's 1st cousin, 5 x removed*
+
+2nd PA Cavalry, 59th Regiment
 
 Enlisted into the Pennsylvania Volunteers 2nd Cavalry, Company I
 (aka 59th Regiment) on 20 Aug 1864 in Meadville, PA for one year of service,
@@ -131,7 +187,17 @@ caused his derangement & excitability.*
 
 *-- research & note by cmhecker72, who shared it on ancestry.com*
 
-#### Price, Patrick (b. Roundstone, Ire, 17 Mar 1817; d. lumet Co., WI, 13 Jul 1889) *11th NJ Infantry*
+#### Parker, Trumbull (b. 1824; d.1864)
+
+*died in civil war of dysentry*
+
+#### Parker, Wicks (b. Warsaw, NY, 1815; d. 1865)
+
+*died in Civil War [see Young's History of Warsaw* 
+
+#### Price, Patrick (b. Roundstone, Ire, 17 Mar 1817; d. Calumet Co., WI, 13 Jul 1889)
+
+11th NJ Infantry
 
 Enlisted in Company C, 11th New Jersey Infantry on 18 Aug 1862.
 The command was assigned to the Army of the Potomac, and Patrick was in the
@@ -148,12 +214,80 @@ and bought a farm in Stockbridge.
 
 *-- from obituary found on ancestry.com*
 
+
 ## WWI
 *1914 -- 1918*
+
+### Dombrowski, Stanley Harry (b. Menasha, WI, 15 Nov 1903; d. Neenah, WI, 29 Jan 1994)
+
+Shipped out on USS Princess Matoika 22 Aug 1918 from Norfolk, VA as a private.
+Emergency contact listed as (mother) Mary Dombroski [sic], address 551 Back St., Scranton, PA
+
+Of the USS Princess Matoika:
+
+*Seized by the U.S. in 1917, the newly renamed USS Princess Matoika carried over
+50,000 U.S. troops to and from France in U.S. Navy service from 1918 to 1919.*
+
+according to [wikipedia](https://en.wikipedia.org/wiki/USS_Princess_Matoika),
+the convoy departing Newport News on 22 Aug 
+
+
 
 ## WWII
 *1939 -- 1945*
 
+
+# Further Research Needed by Place
+
+## Westerly & around Rhode Island
+
+### The founding of Westerly
+
+Tradition reports that John Babcock *(KLD's 8th great-grandfather)* came from
+Plymouth, Mass to Aquidneck and engaged to labor for Thomas Lawton in Newport.
+John eloped with Mr. Lawton's daughter Mary to Misquamicut, where they became
+the first white settlers.
+
+### Murder of Robert Babcock (b. 1678; d. 1719) by John Ross
+
+### Babcock Smith House
+
+The [Babcock Smith House](http://www.babcocksmithhouse.org){:target="_blank"}
+was built in 1734 by Dr. Joshua Babcock, who used it to practice medicine, run
+a retail business, engage in colonial politics, and after 1772, perform the
+duties of his new post as Postmaster.  Joshua died in 1783 and his grandson
+eventually sold the house to recoup losses from the war of 1812.
+
+[124 Granite St., Westerly, RI](https://www.google.com/maps/place/Babcock-Smith+House+Museum/@42.3713826,-71.8199284,15z/data=!4m5!3m4!1s0x0:0x5c5ae0a4ccf0da1c!8m2!3d41.3713826!4d-71.8199284){:target="_blank"}
+
+## Finger Lakes & Upstate New York
+
+## Kingston & around the Hudson Valley
+
+## New Haven, Wallingford & around Connecticut
+
+### Center Street Cemetary, Wallingford, CT
+
+### Crypt on the Green, New Haven, CT
+
+### Grove St. Cemetary, New Haven, CT
+
+### Yale
+
+  * Jeremiah Peck (b. England 1623; d. Waterbury, CT 7 Jun 1669) was the first
+    teacher of the Colony Collegiate School in New Haven, 1660-61, which
+    became Yale in 1701
+
+  * Dr. Joshua Babcock, son of Capt. James Babcock, was the first Rhode
+    Islander to graduate from Yale in 1724 at the age of 17
+
+## Boston & around Massachusetts
+
+## Fox Valley & around Wisconsin
+
+### Oak Hills Cemetary, Neenah
+
+  * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
 # Ancestry.com 
 
