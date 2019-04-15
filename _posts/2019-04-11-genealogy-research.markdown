@@ -29,6 +29,10 @@ and [Winters](/genealogy/winters/2019/04/06/winters-research.html)
 
 ## Beach
 
+## Burdick
+
+## Cass
+
 ## Dombrowski, John & brothers; arr. 1893(all of them?)
 *KLD's great-grandfather*
 
@@ -43,9 +47,13 @@ had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
 ## Hitchcock
 
+## Lewis
+
 ## Parker
 
 ## Peck
+
+## Platt
 
 ## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
 *KLD's 3rd great-grandparents from the Parker line*
@@ -75,6 +83,8 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 ### Beaver Wars
 *faught between the Iroquois and the French, who allied with the Algonquins, 1609 -- 1701*
 
+
+
 ### King Philip's War
 *1675 -- 1678; New England colonists vs. the Narraganett people*
 
@@ -84,10 +94,18 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 *indian interpreter*
 
+
+
 ### King William's War
 *1688 -- 1697; a.k.a. The Second Indian War, was the North American theater of
-the Nine Years War between England and France, their colonies, and native
-alliances*
+the Nine Years War between England and France, their colonies, and native alliances*
+
+
+
+### French and Indian War
+*1754 -- 1763; American theater of the broader Seven Years War; British
+colonists vs. New France, each side with native alliances*
+
 
 
 ## American Revolutionary War
@@ -120,11 +138,17 @@ alliances*
 
 #### Winter, Peter (b. NY 1767) *Enlisted 1780 @ age 13 into drummer corps*
 
+
+
 ## Shays' Rebellion
 *Massachusetts, 1786 -- 1787*
 
+
+
 ## War of 1812
 *1812 -- 1815*
+
+
 
 ## American Civil War
 *1861 -- 1865*
