@@ -79,6 +79,11 @@ Christopher Champlin, Jr. (b. Westerly 26 Sep 1684), though could possibly be
 his father, Christopher Champlin (b. Newport 26 Sep 1656; d Westerly 12 Apr 1732)
 
 
+# Westerly and its Witnesses 1626-1876 by Rev. Frederic Denison, Providence 1878
+
+The full text is available at [archive.org](https://archive.org/details/westerlyrhodeisl00deni/page/n4)
+
+
 # Babcock Genealogy by Stephen Babcock, Eaton & Mains, NY 1903
 
 Numbers preceding names in square brackets identify individuals within
@@ -108,9 +113,4 @@ The full text is available at [archive.org](https://archive.org/details/babcockg
 *b. Essex, England, 1612; d. Stonington, CT, 12 Jun 1679*
 
 Settled in Portsmouth, Rhode Island Colony in 1642, and in Westerly in 1662
-
-
-# Westerly and its Witnesses 1626-1876 by Rev. Frederic Denison, Providence 1878
-
-The full text is available at [archive.org](https://archive.org/details/westerlyrhodeisl00deni/page/n4)
 
