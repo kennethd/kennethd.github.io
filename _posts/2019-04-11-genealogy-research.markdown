@@ -24,12 +24,12 @@ and [Winters](/genealogy/winters/2019/04/06/winters-research.html)
 
 # Immigrants to America
 
-## Badcock, James (b. England 1612; d. RI, 1679)
+## Badcock, James; unknown arr. date, shows up in Portsmouth, RI 1642
 *KLD's 9th great-grandfather*
 
 ## Beach
 
-## Dombrowski, John & brothers, arr. 1893(all of them?)
+## Dombrowski, John & brothers; arr. 1893(all of them?)
 *KLD's great-grandfather*
 
 The 1910 census has John Dombrowski, b. Poland 10 May 1872, and wife Mary
@@ -76,13 +76,19 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 *faught between the Iroquois and the French, who allied with the Algonquins, 1609 -- 1701*
 
 ### King Philip's War
-*New England colonists vs. the Narraganett people, 1675 -- 1678*
+*1675 -- 1678; New England colonists vs. the Narraganett people*
 
 #### Babcock, Cptn. John (b. Westerly, RI 1669; d. Westerly, RI 28 Mar 1746)
 
 #### Babcock, Job (b. 1671)
 
 *indian interpreter*
+
+### King William's War
+*1688 -- 1697; a.k.a. The Second Indian War, was the North American theater of
+the Nine Years War between England and France, their colonies, and native
+alliances*
+
 
 ## American Revolutionary War
 *1775 -- 1783*
@@ -239,7 +245,7 @@ the convoy departing Newport News on 22 Aug
 
 # Further Research Needed by Place
 
-## Westerly & around Rhode Island
+## Westerly, RI & Stonington, CT
 
 ### The founding of Westerly
 
@@ -248,11 +254,14 @@ Plymouth, Mass to Aquidneck and engaged to labor for Thomas Lawton in Newport.
 John eloped with Mr. Lawton's daughter Mary to Misquamicut, where they became
 the first white settlers.
 
-### Murder of Robert Babcock (b. 1678; d. 1719) by John Ross
+### Murder of Robert Babcock by John Ross
 
-### Babcock Smith House
+  * What happened to the [letter](/genealogy/babcock/2019/04/08/babcock-research.html#the-murder-of-robert-babcock)
+  * Who is Christopher Champlins on whose boat John Ross fled to Newport?
 
-The [Babcock Smith House](http://www.babcocksmithhouse.org){:target="_blank"}
+### Babcock-Smith House
+
+The [Babcock-Smith House](http://www.babcocksmithhouse.org){:target="_blank"}
 was built in 1734 by Dr. Joshua Babcock, who used it to practice medicine, run
 a retail business, engage in colonial politics, and after 1772, perform the
 duties of his new post as Postmaster.  Joshua died in 1783 and his grandson
