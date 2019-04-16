@@ -7,7 +7,6 @@ categories: genealogy
 
   * Table of Contents
   {:toc}
-{% include genealogy_pages.html %}
 
 
 # The Palatine Families of New York, Jones, Henry Z.
@@ -761,3 +760,4 @@ a secure and important place in American life.
 *Becker, John Adams; Families, Ontario Genealogical Society, Nov. 2009*
 
 
+{% include genealogy_notes.html %}

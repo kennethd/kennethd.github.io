@@ -8,28 +8,34 @@ categories: genealogy
   * Table of Contents
   {:toc}
 
+
 # Direct Lineage of KLD (5 gens)
 ![KLD direct lineage 5 gen](/assets/genealogy/kld-direct-lineage-5gen.jpg)
 
-*(note the initials KLD works for myself, Kenneth Lee, as well as my sisters Kristine Lynn and Kim Lynette)*
-
-# Family Line Research Pages
-These pages contain general notes, accumulated in one place for each of the
-lines represented by my 4 grandparents:
-[Babcock](/genealogy/babcock/2019/04/08/babcock-research.html),
-[Dombrowski](/genealogy/dombrowski/2019/04/11/dombrowski-research.html),
-[Parker](/genealogy/parker/2019/04/10/parker-research.html),
-and [Winters](/genealogy/winters/2019/04/06/winters-research.html)
+*The initials KLD works for myself, Kenneth Lee, as well as my sisters Kristine Lynn and Kim Lynette*
 
 
 # Immigrants to America
 
-## Badcock, James; unknown arr. date, shows up in Portsmouth, RI 1642
+## Badcock, James; arr. Portsmouth, RI 1642
 *KLD's 9th great-grandfather*
 
-## Beach
+unknown arrival date, first shows up in Portsmouth, RI at 1642
 
-## Burdick
+## Beach, Thomas; arr. New Haven, CT 1638
+*KLD's 9th great-grandfather via the Parker line*
+
+<a href="#virkus">Virkus</a> has him as arriving at New Haven, CT in 1638
+
+Thomas was born at St. Albans, Devon, England in 1613, and died 1662 at Milford, CT.
+his parents were Thomas & Joan Hill.  He married Sarah Platt (b. Tring,
+England 1636; d. Milford, CT 1698), who also arrived at New Haven in 1638 with
+her parents (see Platt, below).  Their son John Beach (b. Milford, CT, 19 Oct 1655)
+married Mary Royce (b. Wallingford, CT, 1657), and they in turn had a daughter,
+Hannah Beach (b. Wallingford, CT, 17 Mar 1683) who married Eliphalet Parker Sr. 
+
+## Burdick, Robert; 
+*KLD's 9th great-grandfather*
 
 ## Cass
 
@@ -47,13 +53,27 @@ had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
 ## Hitchcock
 
+## Hubbard
+
 ## Lewis
 
 ## Parker
 
 ## Peck
 
-## Platt
+## Platt, Richard; New Haven, CT 1638
+*KLD's 10th great-grandfather via the Parker line*
+
+<a href="#virkus">Virkus</a> has Richard, wife Mary and 4 kids arriving at
+New Haven, CT in 1638 (Sarah among them)
+
+Sarah married Thomas Beach, who also arrived in New Haven in 1638 (see above),
+and their granddaughter Hannah Beach m. Eliphalet Parker Sr.
+
+Richard is thought to be the grandson of Sir Hugh Plat, who was baptised 3 May 1552
+at St. James' Garlich Hythe, and knighted by James I at Greenwich on 22 May 1605.
+
+Richard enrolled among the first settlers of Milford, CT, 20 Nov 1639.
 
 ## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
 *KLD's 3rd great-grandparents from the Parker line*
@@ -66,6 +86,8 @@ became a nurseryman in Bucks county.  In 1852 they went to Trenton, NJ, where
 they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 *-- from obituary found on ancestry.com*
+
+## Royce
 
 ## Tuttle
 
@@ -148,6 +170,9 @@ colonists vs. New France, each side with native alliances*
 ## War of 1812
 *1812 -- 1815*
 
+
+#### Parker, Giles Andrew (b. Farmington, CT, 1781; d. Spring City, PA, aft. 1850)
+*KLD's 5th great-uncle*
 
 
 ## American Civil War
@@ -295,15 +320,37 @@ eventually sold the house to recoup losses from the war of 1812.
 
 ## Finger Lakes & Upstate New York
 
+  * Warsaw, NY town records: Parker
+
 ## Kingston & around the Hudson Valley
 
+  * Kingston library & town records:
+    * History of Palatines at Livingston Manor
+    * Winters
+
 ## New Haven, Wallingford & around Connecticut
+
+  * Milford library & town records:
+    * Platt, Richard (one of the founders of the town)
+
+  * New Haven library & town records:
+    * Beach
+    * Parker
+    * Peck
+    * Platt
 
 ### Center Street Cemetary, Wallingford, CT
 
 ### Crypt on the Green, New Haven, CT
 
 ### Grove St. Cemetary, New Haven, CT
+
+  * Deacon William Peck's (10th great-grandfather) headstone is leaning against
+    the north wall (among those moved from the Green)
+
+### Riverside Cemetary, Middletown, CT
+
+  * Mary Platt Wetmore (10th great-aunt)
 
 ### Yale
 
@@ -322,7 +369,5 @@ eventually sold the house to recoup losses from the war of 1812.
 
   * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
-# Ancestry.com 
 
-If you are an ancestry.com subscriber, you can see my tree [here](https://www.ancestry.com/family-tree/tree/79052340/family?cfpid=380070351787&selnode=1)
-
+{% include genealogy_notes.html %}

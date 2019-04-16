@@ -7,8 +7,6 @@ categories: genealogy winters
 
   * Table of Contents
   {:toc}
-{% include genealogy_pages.html %}
-
 
 The Winters family arrived in America with the Palatine resettlement of 1709-10.
 See also my notes on the [History of the Palatines arrival in America](/genealogy/2019/04/13/palatines.html)
@@ -31,3 +29,4 @@ See also my notes on the [History of the Palatines arrival in America](/genealog
 # Loyalist Plantations on the Susquehanna, Jones, J. Kelsey, 2013
 
 
+{% include genealogy_notes.html %}

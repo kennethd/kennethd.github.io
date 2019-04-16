@@ -8,6 +8,6 @@ categories: genealogy dombrowski
 
   * Table of Contents
   {:toc}
-{% include genealogy_pages.html %}
 
 
+{% include genealogy_notes.html %}

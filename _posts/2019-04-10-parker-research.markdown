@@ -7,7 +7,7 @@ categories: genealogy parker
 
   * Table of Contents
   {:toc}
-{% include genealogy_pages.html %}
+
 
 # Direct Parker Ancestors
 ![Direct Ancestors of the Parker Line](/assets/genealogy/parker.direct.ancestors.jpg)
@@ -40,3 +40,4 @@ _Here Lyes Deacon William Peck Aged 93 Deces Octo y 14 1694_
 
 
 
+{% include genealogy_notes.html %}

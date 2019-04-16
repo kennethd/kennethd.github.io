@@ -7,12 +7,14 @@ categories: genealogy babcock
 
   * Table of Contents
   {:toc}
-{% include genealogy_pages.html %}
+
 
 # Direct Babcock Ancestors
 ![Direct Ancestors of the Babcock Line](/assets/genealogy/babcock.direct.ancestors.jpg)
 
 # Babcock Arrival in America
+
+TODO: There is a persistent rumor that he arrived aboard the *Anne*, but  
 
 
 # The Founding of Westerly
@@ -114,3 +116,5 @@ The full text is available at [archive.org](https://archive.org/details/babcockg
 
 Settled in Portsmouth, Rhode Island Colony in 1642, and in Westerly in 1662
 
+
+{% include genealogy_notes.html %}
