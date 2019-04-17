@@ -145,7 +145,7 @@ Joshua's daughter Ruth Giddings (b. Hartland, CT, 1750) marr. Eliphalet Parker I
 
 Thomas' daughter Elizabeth Hazard (b. Portsmouth, 1626) married George Lawton
 (b. 1607; d. 1693) (below), and their daughter Mary Lawton (b. 1648; d. 1711)
-eloped with John Babcock (b. 1644
+eloped with John Babcock (b. 1644; d. 1683) to Misquamicut (later Westerly, RI)
 
 
 ## Hitchcock
