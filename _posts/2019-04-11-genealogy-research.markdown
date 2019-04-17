@@ -20,15 +20,23 @@ categories: genealogy
 Arrival dates are actual ships' arrival dates, if known, else the date and
 place of the earliest documentary evidence of the person being in America
 
-## Badcock, James; arr. Portsmouth, RI 1642
-*KLD's 9th great-grandfather*
 
-unknown arrival date, first shows up in Portsmouth, RI at 1642.
+## Badcock, James; arr. Portsmouth, RI by 1641
+*KLD's 9th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
-Believed to be b. Essex, England in 1612
+Believed to be b. Essex, England in 1612; d. Stonington, CT, 12 Jun 1679.
+
+Unknown arrival date, **Babcock Genealogy** has him first showing up at
+Portsmouth, RI in 1642.  An ancestry.com collection *U.S. and International
+Marriage Records, 1560-1900* lists James & Sarah Brown (below) as being married
+there in 1641.  Multiple sources have their firstborn (also called James)
+being born there in 1641.
+
+TODO: There is a persistent rumor that he arrived aboard the *Anne*, but...
+
 
 ## Beach, Thomas; arr. New Haven, CT 1638
-*KLD's 9th great-grandfather via the Parker line*
+*KLD's 9th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
 <a href="#virkus">Virkus</a> has him as arriving at New Haven, CT in 1638
 
@@ -39,31 +47,57 @@ her parents (see Platt, below).  Their son John Beach (b. Milford, CT, 19 Oct 16
 married Mary Royce (b. Wallingford, CT, 1657), and they in turn had a daughter,
 Hannah Beach (b. Wallingford, CT, 17 Mar 1683) who married Eliphalet Parker Sr. 
 
-## Brown
+
+## Brown, Sarah; arr. Portsmouth, RI by 1641
+*KLD's 9th great-grandmother via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
+
+Sarah Brown (b. Essex Co., England, 23 Jan 1613; d. Westerly, 22 Sep 1665)
+married immigrant James Badcock (above) in Portsmouth, RI.
+
+It is unclear whether James & Sarah made the crossing together, met on board,
+or only met after arriving in the colonies.
+
 
 ## Burdick, Robert; arr. Newport, RI 1651
-*KLD's 9th great-grandfather via the Babcock line*
+*KLD's 9th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
-<a href="#colket">Colket</a> lists Robert Burdick as Primary Immigrant arriving at Newport, 1651
+<a href="#colket">Colket</a> lists Robert Burdick as the Primary Immigrant arriving at Newport, 1651
 
 Robert married Ruth Hubbard at Westerly, 2 Nov 1655, daughter of Samuel Hubbard (below),
 among their 4 daughters was Deborah Burdick (b. Westerly, 1 Jan 1662; d.
 Westerly, 12 Dec 1697), who married Joseph Crandall.  Joseph & Deborah gave
 birth to Lydia Crandall in 1683, who marr. Robert Babcock (b. Westerly 1678;
-d. Westerly 1719) in 1701.  Robert being the grandson of immigrant James
-Badcock (b. 1612), listed above.
+d. Westerly 1719) in 1701.  Robert Babcock being the grandson of immigrant
+James Badcock (b. 1612), listed above.
 
 ## Cass
 
-## Crandall, John; arr. Newport, RI 1651
-*KLD's 9th great-grandfather via the Babcock line*
+Not yet traced to original immigrant in direct lineage of KLD
 
-John Crandall (b. Monmouthshire, England, 1612) is first documented in New
-England with the Baptist Church in Newport, July 21, 1651.
+
+## Crandall, John; arr. Newport, RI 1651
+*KLD's 9th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
+
+    born in Monmouthshire, England, on the line between England and Wales in 1612
+
+    He came to Boston within a very few years after the landing of the
+    Pilgrims, in 1634.  Several writers have ascertained that he was
+    associated with the Congregational Church at Salem as 1635 and that “he
+    was certainly living in Providence as early as 1637” and while there are
+    many reasons for believing these statements correct and that John Crandall
+    was a close associate of Roger Williams was one of the founders of
+    Providence, unfortunately it seems impossible certainly to confirm them.
+    Many of the original Providence records were early destroyed.
+
+    The first valid documentary account of John Crandall in New England shows
+    him to have been actively identified with the Baptist Church in Newport,
+    July 21, 1651.  His name next is found, with that of Matthew West in the
+    Freemen’s list of Newport, 1655.
 
 *-- from [CrandallGenealogy.com](/genealogy/crandall/2019/04/16/crandallgenealogy-com.html)*
 
-## Dombrowski, John & brothers; arr. PA 1893(all of them?)
+
+## Dombrowski, John & brothers; arr. PA 1893
 *KLD's great-grandfather*
 
 The 1910 census has John Dombrowski (b. Poland 10 May 1872), and wife Mary
@@ -71,26 +105,61 @@ Pewowar (b. Poland 10 Oct 1877) both arriving in the US in 1893 (17 years
 prior), but only having been married for 13 years.  In the 13 years, they had
 had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
-## Gerard
-*KLD's 3rd great-grandparents via the Babcock line*
+
+## Gérard, Nicolas; arr. 1829
+*KLD's 3rd great-grandparents via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
+
+Nicolas Gérard (b. Lure, Haute-Saône, France, 14 Feb 1800; d. Salt Creek, OH 27 May 1879), 
+married Frances Lignon (b. Nancy, Alsace-Lorraine, France, 30 Aug 1807; d.  Kansas City, 1888)
+at Nancy in 1827.  They emigrated in 1829 with Nicholas' father 
+Jean Georges Gérard (b. Recloville, Moselle, France, 1759; d. Chilton, WI, 1863),
+their children already born, and probably his two brothers, who both also died in the US
+
+*-- from Biography of Charles L. Gerard, copied from **Stark County Atlas**
+by Charles' daughter Edi Imes and rewritten by Lester Briggs*
 
 
+## Giddings, George; arr. Ipswitch, MA, 1635
+*KLD's 9th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
+
+George Giddings (b. 24 Sep 1609; d. 1 Jun 1676) was the son of John Giddings
+of Clapham in Bedfordshire and Joan Purrier.  He and Jane Lawrence (b. 1614)
+made the crossing together aboard the **Planter**, both registered with the
+surname Giddings, but there is evidence they married upon arrival, in
+Ipswitch, MA 1635, their marriage license dated 20 Feb 1634, suggesting they
+may not have been able to be married by their preferred church in England.
+
+Their son & second born, John (b. Ipswitch 1639; d. Ipswitch 3 Mar 1691) married 
+Sarah Alcock *(8th GGP)*.  John & Sarah gave birth to Thomas Giddings (b.
+Ipswitch 1683; d. 3 Sep 1734), who married Sarah Andrews *(7th GGP)*.
 
 
-## Giddings
+He came from London to Ipswich, MA in 1635 in the ship "Planter". Had
+previously lived at St. Alban's, Hertfordshire, England
 
-## Hazard
+Joshua's daughter Ruth Giddings (b. Hartland, CT, 1750) marr. Eliphalet Parker III
+
+
+## Hazard, Thomas; arr. Boston, MA 1635
+*KLD's 10th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
+
+Thomas' daughter Elizabeth Hazard (b. Portsmouth, 1626) married George Lawton
+(b. 1607; d. 1693) (below), and their daughter Mary Lawton (b. 1648; d. 1711)
+eloped with John Babcock (b. 1644
+
 
 ## Hitchcock
 
+
 ## Hubbard, Samuel; arr. Salem, MA 1633
-*KLD's 10th great-grandfather via the Babcock line*
+*KLD's 10th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
 Samuel Hubbard (b. Mendlesham, Eng; d. Newport 10 May 1689) and his wife Tacy
 Cooper were both in the party that marched through the wilderness from
 Watertown, Massachusetts, during the terrible winter of 1635 to become the
 founders of the state of Connecticut, having been persecuted in Massachusetts
 for expressing their Baptist views.
+
 
 ## Lawton
 
@@ -100,8 +169,9 @@ for expressing their Baptist views.
 
 ## Peck
 
+
 ## Platt, Richard; arr. New Haven, CT 1638
-*KLD's 10th great-grandfather via the Parker line*
+*KLD's 10th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
 <a href="#virkus">Virkus</a> has Richard, wife Mary and 4 kids arriving at
 New Haven, CT in 1638 (Sarah among them)
@@ -110,12 +180,15 @@ Sarah married Thomas Beach, who also arrived in New Haven in 1638 (see above),
 and their granddaughter Hannah Beach m. Eliphalet Parker Sr.
 
 Richard is thought to be the grandson of Sir Hugh Plat, who was baptised 3 May 1552
-at St. James' Garlich Hythe, and knighted by James I at Greenwich on 22 May 1605.
+at St. James' Garlich Hythe, and knighted *in consideration of his services as
+an inventor* by James I at Greenwich on 22 May 1605.  Sir Hugh authored many
+books, scientific and literary.
 
 Richard was enrolled among the first settlers of Milford, CT, 20 Nov 1639.
 
+
 ## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
-*KLD's 3rd great-grandparents from the Parker line*
+*KLD's 3rd great-grandparents via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
 Patrick Price and Mary Folin were married in Sept 1837 in County Galway, Ire.,
 they had three children: Christopher (b. 1839; m. Catherine McDonald),
@@ -139,7 +212,7 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 ## Wheeler
 
 ## Winter, Heinrich & family, of the 1710 Palatine influx
-*KLD's 7th great-grandfather from the Winters line*
+*KLD's 7th great-grandfather via the Winters line*
 
 
 
@@ -186,7 +259,7 @@ colonists vs. New France, each side with native alliances*
 4th Company in 3rd CT Regiment
 
 #### Giddings, Joshua (b. Gloucester, MA, 23 Jan 1719; d. Hartland, CT, 4 Feb 1807)
-*KLD's 6th great-grandfather via the Parker line (Joshua's dau. Ruth m. Eliphalet Parker III)*
+*KLD's 6th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
 #### Parker, Benjamin (b. Wallingford, CT, 12 Feb 1729; d. Wallingford, CT, 9 Feb 1807)
 *KLD's 7th great-uncle (brother of 6th great-grandfather Eliphalet Parker, Jr.)*
@@ -226,7 +299,7 @@ colonists vs. New France, each side with native alliances*
 ### Union Army
 
 #### Cass, Iddo Caleb (b. Candor, NY, 22 Dec. 1831; d. New London, WI 17 May 1877)
-*KLD's 3rd great-grandfather via the Babcock line*
+*KLD's 3rd great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
 1st WI Cavalry
 

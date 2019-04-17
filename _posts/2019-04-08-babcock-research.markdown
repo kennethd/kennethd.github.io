@@ -12,9 +12,7 @@ categories: genealogy babcock
 # Direct Babcock Ancestors
 ![Direct Ancestors of the Babcock Line](/assets/genealogy/babcock.direct.ancestors.jpg)
 
-# Babcock Arrival in America
 
-TODO: There is a persistent rumor that he arrived aboard the *Anne*, but  
 
 
 # The Founding of Westerly
@@ -110,8 +108,7 @@ The full text is available at [archive.org](https://archive.org/details/babcockg
   * **W. T. R.** *Westerly Town Records*
   * **Wheeler** *Wheeler's History of Stonington*
 
-<a id="babcock-1"></a><a id="badcock-james-1612"></a>
-## [1] James Badcock
+## 1. James Badcock
 *b. Essex, England, 1612; d. Stonington, CT, 12 Jun 1679*
 
 Settled in Portsmouth, Rhode Island Colony in 1642, and in Westerly in 1662

@@ -5,26 +5,24 @@ date:   2019-04-16
 categories: genealogy crandall
 ---
 
-![](/assets/genealogy/crandall-banner.png)
 
   * Table of Contents
   {:toc}
 
-<div style="padding: 20px; margin: 15px; width: 100%; text-align: center;
-background-color: red; border-color: black; border-width: 2px">
-  <h3>ATTENTION COPYRIGHT OWNER</h3>
-  <p>
-    The content of this page was salvaged from an
-    <a target="_blank" href="https://web.archive.org/web/20110908051741/http://crandallgenealogy.com/index.html">archive.org</a>
-    cache of a site originally published at <b>crandallgenealogy.com</b> by one Roger Crandall, which is
-    no longer active.  To preserve the efforts of the original publisher, for
-    my own and other and other Crandall researchers' reference, I have copied
-    that content to this page, with only formatting edits.  If you are the
-    copyright holder please contact me via the links at the bottom of the page.
-  </p>
-</div>
+
+## Copyright Notice
+
+The following work was salvaged from an 
+<a target="_blank" href="https://web.archive.org/web/20110908051741/http://crandallgenealogy.com/index.html">archive.org</a>
+cache of a site originally published at <b>crandallgenealogy.com</b> by 
+<a href="mailto:rodger_crandall@yahoo.com">Rodger Crandall</a>, which is no
+longer active.  To preserve the efforts of the original publisher, for my own
+and other and other Crandall researchers' reference, I have copied that
+content to this page, with only formatting edits.
+
 
 ## Crandall Genealogy
+![](/assets/genealogy/crandall-banner.png)
 
 ***Welcome*** to the largest genealogy site on the internet of Crandalls, Crandells,
 Crandles, Crandolls, Crundalls, etc., and descendants of Elder John Crandall.
