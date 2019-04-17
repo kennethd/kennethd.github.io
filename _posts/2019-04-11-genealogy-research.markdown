@@ -17,10 +17,15 @@ categories: genealogy
 
 # Immigrants to America
 
+Arrival dates are actual disembarkation dates, if known, else the date and
+place of the earliest documentary evidence of the person being in America
+
 ## Badcock, James; arr. Portsmouth, RI 1642
 *KLD's 9th great-grandfather*
 
-unknown arrival date, first shows up in Portsmouth, RI at 1642
+unknown arrival date, first shows up in Portsmouth, RI at 1642.
+
+Believed to be b. Essex, England in 1612
 
 ## Beach, Thomas; arr. New Haven, CT 1638
 *KLD's 9th great-grandfather via the Parker line*
@@ -34,10 +39,26 @@ her parents (see Platt, below).  Their son John Beach (b. Milford, CT, 19 Oct 16
 married Mary Royce (b. Wallingford, CT, 1657), and they in turn had a daughter,
 Hannah Beach (b. Wallingford, CT, 17 Mar 1683) who married Eliphalet Parker Sr. 
 
-## Burdick, Robert; 
-*KLD's 9th great-grandfather*
+## Brown,
+
+## Burdick, Robert; arr. Newport, RI 1651
+*KLD's 9th great-grandfather via the Babcock line*
+
+<a href="#colket">Colket</a> lists Robert Burdick as Primary Immigrant arriving at Newport, 1651
+
+Robert married Ruth Hubbard at Westerly, 2 Nov 1655, daughter of Samuel Hubbard (below),
+among their 4 daughters was Deborah Burdick (b. Westerly, 1 Jan 1662; d.
+Westerly, 12 Dec 1697), who married Joseph Crandall.  Joseph & Deborah gave
+birth to Lydia Crandall in 1683, who marr. Robert Babcock (b. Westerly 1678;
+d. Westerly 1719) in 1701.  Robert being the grandson of immigrant James
+Badcock (b. 1612), listed above.
 
 ## Cass
+
+## Crandall, John; arr. Newport, RI 1651
+
+John Crandall (b. Monmouthshire, England, 1612) is first documented in New
+England with the Baptist Church in Newport, July 21, 1651.
 
 ## Dombrowski, John & brothers; arr. 1893(all of them?)
 *KLD's great-grandfather*
@@ -51,9 +72,18 @@ had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
 ## Giddings
 
+## Hazard
+
 ## Hitchcock
 
-## Hubbard
+## Hubbard, Samuel; arr. Salem, MA 1633
+*KLD's 10th great-grandfather via the Babcock line*
+
+Samuel Hubbard (b. Mendlesham, Eng; d. Newport 10 May 1689) and his wife Tacy
+Cooper were both in the party that marched through the wilderness from
+Watertown, Massachusetts, during the terrible winter of 1635 to become the
+founders of the state of Connecticut, having been persecuted in Massachusetts
+for expressing their Baptist views.
 
 ## Lewis
 
@@ -73,7 +103,7 @@ and their granddaughter Hannah Beach m. Eliphalet Parker Sr.
 Richard is thought to be the grandson of Sir Hugh Plat, who was baptised 3 May 1552
 at St. James' Garlich Hythe, and knighted by James I at Greenwich on 22 May 1605.
 
-Richard enrolled among the first settlers of Milford, CT, 20 Nov 1639.
+Richard was enrolled among the first settlers of Milford, CT, 20 Nov 1639.
 
 ## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
 *KLD's 3rd great-grandparents from the Parker line*
@@ -292,6 +322,7 @@ the convoy departing Newport News on 22 Aug
 *1939 -- 1945*
 
 
+
 # Further Research Needed by Place
 
 ## Westerly, RI & Stonington, CT
@@ -317,6 +348,10 @@ duties of his new post as Postmaster.  Joshua died in 1783 and his grandson
 eventually sold the house to recoup losses from the war of 1812.
 
 [124 Granite St., Westerly, RI](https://www.google.com/maps/place/Babcock-Smith+House+Museum/@42.3713826,-71.8199284,15z/data=!4m5!3m4!1s0x0:0x5c5ae0a4ccf0da1c!8m2!3d41.3713826!4d-71.8199284){:target="_blank"}
+
+### Rhode Island Historical Cemetary Westerly 15
+
+  * Crandall Family Ancestral Burial Site
 
 ## Finger Lakes & Upstate New York
 
