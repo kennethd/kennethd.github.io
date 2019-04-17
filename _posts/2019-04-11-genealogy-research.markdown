@@ -17,7 +17,7 @@ categories: genealogy
 
 # Immigrants to America
 
-Arrival dates are actual disembarkation dates, if known, else the date and
+Arrival dates are actual ships' arrival dates, if known, else the date and
 place of the earliest documentary evidence of the person being in America
 
 ## Badcock, James; arr. Portsmouth, RI 1642
@@ -56,14 +56,17 @@ Badcock (b. 1612), listed above.
 ## Cass
 
 ## Crandall, John; arr. Newport, RI 1651
+*KLD's 9th great-grandfather via the Babcock line*
 
 John Crandall (b. Monmouthshire, England, 1612) is first documented in New
 England with the Baptist Church in Newport, July 21, 1651.
 
-## Dombrowski, John & brothers; arr. 1893(all of them?)
+*-- from [CrandallGenealogy.com](/genealogy/crandall/2019/04/16/crandallgenealogy-com.html)*
+
+## Dombrowski, John & brothers; arr. PA 1893(all of them?)
 *KLD's great-grandfather*
 
-The 1910 census has John Dombrowski, b. Poland 10 May 1872, and wife Mary
+The 1910 census has John Dombrowski (b. Poland 10 May 1872), and wife Mary
 Pewowar (b. Poland 10 Oct 1877) both arriving in the US in 1893 (17 years
 prior), but only having been married for 13 years.  In the 13 years, they had
 had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
@@ -91,7 +94,7 @@ for expressing their Baptist views.
 
 ## Peck
 
-## Platt, Richard; New Haven, CT 1638
+## Platt, Richard; arr. New Haven, CT 1638
 *KLD's 10th great-grandfather via the Parker line*
 
 <a href="#virkus">Virkus</a> has Richard, wife Mary and 4 kids arriving at
@@ -119,9 +122,15 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 ## Royce
 
+## Thurber
+
+
+
 ## Tuttle
 
 ## Wells
+
+## Wheeler
 
 ## Winter, Heinrich & family, of the 1710 Palatine influx
 *KLD's 7th great-grandfather from the Winters line*
@@ -323,9 +332,66 @@ the convoy departing Newport News on 22 Aug
 
 
 
-# Further Research Needed by Place
+# TODOs: Further Research by Place
+
+## Boston & around Massachusetts
+
+
+## Finger Lakes & Upstate New York
+
+  * Warsaw, NY town records: Parker
+
+
+## Kingston & around the Hudson Valley
+
+  * Kingston library & town records:
+    * History of Palatines at Livingston Manor
+    * Winters
+
+
+## New Haven & Wallingford Connecticut
+
+  * Milford library & town records:
+    * Platt, Richard (one of the founders of the town)
+
+  * New Haven library & town records:
+    * Beach
+    * Parker
+    * Peck
+    * Platt
+
+  * Center Street Cemetary, Wallingford, CT
+
+  * Crypt on the Green, New Haven, CT
+
+  * Grove St. Cemetary, New Haven, CT
+    * Deacon William Peck's (10th great-grandfather) headstone is leaning against
+      the north wall (among those moved from the Green)
+
+  * Riverside Cemetary, Middletown, CT
+    * Mary Platt Wetmore (10th great-aunt)
+
+### Yale
+
+  * Jeremiah Peck (b. England 1623; d. Waterbury, CT 7 Jun 1669) was the first
+    teacher of the Colony Collegiate School in New Haven, 1660-61, which
+    became Yale in 1701
+
+  * Dr. Joshua Babcock, son of Capt. James Babcock, was the first Rhode
+    Islander to graduate from Yale in 1724 at the age of 17
+
+
+
+## Providence, RI
+
+  * North Burial Ground
+    * Samuel Thurber (b. 1700; d. 1785) *KLD's 7th great-grandfather* & family
+
 
 ## Westerly, RI & Stonington, CT
+
+  * Rhode Island Historical Cemetary Westerly 15
+    * Crandall Family Ancestral Burial Site
 
 ### The founding of Westerly
 
@@ -349,60 +415,17 @@ eventually sold the house to recoup losses from the war of 1812.
 
 [124 Granite St., Westerly, RI](https://www.google.com/maps/place/Babcock-Smith+House+Museum/@42.3713826,-71.8199284,15z/data=!4m5!3m4!1s0x0:0x5c5ae0a4ccf0da1c!8m2!3d41.3713826!4d-71.8199284){:target="_blank"}
 
-### Rhode Island Historical Cemetary Westerly 15
 
-  * Crandall Family Ancestral Burial Site
 
-## Finger Lakes & Upstate New York
+## Wisconsin
 
-  * Warsaw, NY town records: Parker
+### Fox Valley Area
 
-## Kingston & around the Hudson Valley
+  * Oak Hills Cemetary, Neenah
+    * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
-  * Kingston library & town records:
-    * History of Palatines at Livingston Manor
-    * Winters
+### Mukwa
 
-## New Haven, Wallingford & around Connecticut
-
-  * Milford library & town records:
-    * Platt, Richard (one of the founders of the town)
-
-  * New Haven library & town records:
-    * Beach
-    * Parker
-    * Peck
-    * Platt
-
-### Center Street Cemetary, Wallingford, CT
-
-### Crypt on the Green, New Haven, CT
-
-### Grove St. Cemetary, New Haven, CT
-
-  * Deacon William Peck's (10th great-grandfather) headstone is leaning against
-    the north wall (among those moved from the Green)
-
-### Riverside Cemetary, Middletown, CT
-
-  * Mary Platt Wetmore (10th great-aunt)
-
-### Yale
-
-  * Jeremiah Peck (b. England 1623; d. Waterbury, CT 7 Jun 1669) was the first
-    teacher of the Colony Collegiate School in New Haven, 1660-61, which
-    became Yale in 1701
-
-  * Dr. Joshua Babcock, son of Capt. James Babcock, was the first Rhode
-    Islander to graduate from Yale in 1724 at the age of 17
-
-## Boston & around Massachusetts
-
-## Fox Valley & around Wisconsin
-
-### Oak Hills Cemetary, Neenah
-
-  * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
 
 {% include genealogy_notes.html %}
