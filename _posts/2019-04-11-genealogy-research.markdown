@@ -39,7 +39,7 @@ her parents (see Platt, below).  Their son John Beach (b. Milford, CT, 19 Oct 16
 married Mary Royce (b. Wallingford, CT, 1657), and they in turn had a daughter,
 Hannah Beach (b. Wallingford, CT, 17 Mar 1683) who married Eliphalet Parker Sr. 
 
-## Brown,
+## Brown
 
 ## Burdick, Robert; arr. Newport, RI 1651
 *KLD's 9th great-grandfather via the Babcock line*
@@ -72,6 +72,10 @@ prior), but only having been married for 13 years.  In the 13 years, they had
 had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
 ## Gerard
+*KLD's 3rd great-grandparents via the Babcock line*
+
+
+
 
 ## Giddings
 
@@ -87,6 +91,8 @@ Cooper were both in the party that marched through the wilderness from
 Watertown, Massachusetts, during the terrible winter of 1635 to become the
 founders of the state of Connecticut, having been persecuted in Massachusetts
 for expressing their Baptist views.
+
+## Lawton
 
 ## Lewis
 
