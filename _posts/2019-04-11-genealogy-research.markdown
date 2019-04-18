@@ -21,6 +21,10 @@ Arrival dates are actual ships' arrival dates, if known, else the date and
 place of the earliest documentary evidence of the person being in America
 
 
+## Andrews
+
+
+
 ## Badcock, James; arr. Portsmouth, RI by 1641
 *KLD's 9th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
@@ -33,6 +37,9 @@ there in 1641.  Multiple sources have their firstborn (also called James)
 being born there in 1641.
 
 TODO: There is a persistent rumor that he arrived aboard the *Anne*, but...
+
+
+## Bassett
 
 
 ## Beach, Thomas; arr. New Haven, CT 1638
@@ -106,6 +113,24 @@ prior), but only having been married for 13 years.  In the 13 years, they had
 had 10 children, of which 5 were alive, the oldest of them being Stanley (6 yrs)
 
 
+## Folin, Mary; emig. Ireland; arr. Philadelphia 1850
+*KLD's 3rd great-grandmother via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
+
+Patrick Price and Mary Folin were married in Sept 1837 in County Galway, Ire.,
+they had three children: Christopher (b. 1839; m. Catherine McDonald),
+Mary (b. 1842; m. John Nash), and Michael (b. 1846; m. Ann Maria King).
+They came to America in 1850, landing in Philadelphia April 18th, and he
+became a nurseryman in Bucks county.  In 1852 they went to Trenton, NJ, where
+they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
+
+*-- from obituary found on ancestry.com*
+
+
+## Gaskill
+
+
+
+
 ## Gérard, Nicolas; arr. 1829
 *KLD's 3rd great-grandparents via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
@@ -140,7 +165,24 @@ previously lived at St. Alban's, Hertfordshire, England
 Joshua's daughter Ruth Giddings (b. Hartland, CT, 1750) marr. Eliphalet Parker III
 
 
-## Hazard, Thomas; arr. Boston, MA 1635
+## Harkness, Adam; emig. Ireland; arr. Boston, MA, 1730
+*KLD's 7th great-grandfather*
+
+<a href="#arnold-vol3">Arnold</a> has Adam Harkness (b. near Belfast, Ire., 1710; d. 25 Oct 1793)
+being in Boston by 1730 and settling at Smithfield, RI by about 1740.
+
+Adam's father John seems to have been born in Belfast, 1675, and dies at
+Dumfries, Scotland either on 7 Aug 1734, or sometime in the early 1730s.
+<a href="#dobson">Dobson</a> mentions a John Harkness arriving in America in 1684,
+though there is no reason to assume it is the same John.
+
+Adam marr. Mary Gaskill (b. Salem, MA 1719; d. Smithfield, RI, 29 Sep 1808),
+and their dau. Rachael Harkness (b. Providence, RI, 2 Feb 1749; d. Otsego, NY, 1817),
+*KLD's 6th-great grandmother*, 
+
+
+
+## Hazard, Thomas; arr. Boston, MA, 1635
 *KLD's 10th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
 Thomas' daughter Elizabeth Hazard (b. Portsmouth, 1626) married George Lawton
@@ -151,7 +193,7 @@ eloped with John Babcock (b. 1644; d. 1683) to Misquamicut (later Westerly, RI)
 ## Hitchcock
 
 
-## Hubbard, Samuel; arr. Salem, MA 1633
+## Hubbard, Samuel; arr. Salem, MA, 1633
 *KLD's 10th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
 Samuel Hubbard (b. Mendlesham, Eng; d. Newport 10 May 1689) and his wife Tacy
@@ -166,6 +208,8 @@ for expressing their Baptist views.
 ## Lewis
 
 ## Parker
+
+## Merriman
 
 ## Peck
 
@@ -187,8 +231,8 @@ books, scientific and literary.
 Richard was enrolled among the first settlers of Milford, CT, 20 Nov 1639.
 
 
-## Price, Patrick &amp; Mary Folin; emig. from Ireland 1850
-*KLD's 3rd great-grandparents via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
+## Price, Patrick; emig. Ireland; arr. Philadelphia 1850
+*KLD's 3rd great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
 Patrick Price and Mary Folin were married in Sept 1837 in County Galway, Ire.,
 they had three children: Christopher (b. 1839; m. Catherine McDonald),
@@ -316,6 +360,10 @@ since", and again on 31 Dec: "Left in Hospital at Benton Barracks 30 Apr 1862 --
 nothing heard from since".
 
 Note that Iddo's wife, Samantha Susan Newell, died on 17 Aug 1862.
+
+*TODO* I believe he did get an honorable discharge, ...
+
+#### Cass, Thomas
 
 #### Parker, George Edward (b. Warsaw, NY, Dec. 1842; d. Menasha, WI bef. 1910)
 *KLD's 2nd great-grandfather*
