@@ -123,7 +123,7 @@ They came to America in 1850, landing in Philadelphia April 18th, and he
 became a nurseryman in Bucks county.  In 1852 they went to Trenton, NJ, where
 they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
-*-- from obituary found on ancestry.com*
+*-- from Patrick Price obituary found on ancestry.com, unknown newspaper*
 
 
 ## Gaskill
@@ -165,7 +165,7 @@ previously lived at St. Alban's, Hertfordshire, England
 Joshua's daughter Ruth Giddings (b. Hartland, CT, 1750) marr. Eliphalet Parker III
 
 
-## Harkness, Adam; emig. Ireland; arr. Boston, MA, 1730
+## Harkness, Adam; emig. Ire; arr. Boston, MA, 1730
 *KLD's 7th great-grandfather*
 
 <a href="#arnold-vol3">Arnold</a> has Adam Harkness (b. near Belfast, Ire., 1710; d. 25 Oct 1793)
@@ -201,6 +201,9 @@ Cooper were both in the party that marched through the wilderness from
 Watertown, Massachusetts, during the terrible winter of 1635 to become the
 founders of the state of Connecticut, having been persecuted in Massachusetts
 for expressing their Baptist views.
+
+
+## Lawrence
 
 
 ## Lawton
@@ -241,15 +244,13 @@ They came to America in 1850, landing in Philadelphia April 18th, and he
 became a nurseryman in Bucks county.  In 1852 they went to Trenton, NJ, where
 they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
-*-- from obituary found on ancestry.com*
+*-- from obituary found on ancestry.com, unknown newspaper*
 
 ## Royce
 
 ## Thurber
 
 
-
-## Tuttle
 
 ## Wells
 
@@ -461,22 +462,25 @@ the convoy departing Newport News on 22 Aug
 
 # TODOs: Further Research by Place
 
-## Boston & around Massachusetts
+## Canada
+
+## England
+
+## Germany
+
+## Ireland
+
+## Poland
+
+## Scotland
 
 
-## Finger Lakes & Upstate New York
 
-  * Warsaw, NY town records: Parker
+## United States
 
+### Connecticut
 
-## Kingston & around the Hudson Valley
-
-  * Kingston library & town records:
-    * History of Palatines at Livingston Manor
-    * Winters
-
-
-## New Haven & Wallingford Connecticut
+#### New Haven & Wallingford area
 
   * Milford library & town records:
     * Platt, Richard (one of the founders of the town)
@@ -498,7 +502,7 @@ the convoy departing Newport News on 22 Aug
   * Riverside Cemetary, Middletown, CT
     * Mary Platt Wetmore (10th great-aunt)
 
-### Yale
+##### Yale
 
   * Jeremiah Peck (b. England 1623; d. Waterbury, CT 7 Jun 1669) was the first
     teacher of the Colony Collegiate School in New Haven, 1660-61, which
@@ -507,32 +511,60 @@ the convoy departing Newport News on 22 Aug
   * Dr. Joshua Babcock, son of Capt. James Babcock, was the first Rhode
     Islander to graduate from Yale in 1724 at the age of 17
 
+### Massachusetts
+
+#### Boston area
 
 
-## Providence, RI
+### Michigan
+
+#### Winters, MI
+
+A logging camp run by the Winters family with a post office run out of the
+general store
+
+
+### New York
+
+#### Finger Lakes & Upstate New York
+
+  * Warsaw, NY town records: Parker
+
+
+#### Kingston & Hudson Valley
+
+  * Kingston library & town records:
+    * History of Palatines at Livingston Manor
+    * Winters
+
+
+
+### Rhode Island
+
+#### Providence, RI
 
   * North Burial Ground
     * Samuel Thurber (b. 1700; d. 1785) *KLD's 7th great-grandfather* & family
 
 
-## Westerly, RI & Stonington, CT
+#### Westerly, RI & Stonington, CT
 
   * Rhode Island Historical Cemetary Westerly 15
     * Crandall Family Ancestral Burial Site
 
-### The founding of Westerly
+##### The founding of Westerly
 
 Tradition reports that John Babcock *(KLD's 8th great-grandfather)* came from
 Plymouth, Mass to Aquidneck and engaged to labor for Thomas Lawton in Newport.
 John eloped with Mr. Lawton's daughter Mary to Misquamicut, where they became
 the first white settlers.
 
-### Murder of Robert Babcock by John Ross
+##### Murder of Robert Babcock by John Ross
 
   * What happened to the [letter](/genealogy/babcock/2019/04/08/babcock-research.html#the-murder-of-robert-babcock)
   * Who is Christopher Champlins on whose boat John Ross fled to Newport?
 
-### Babcock-Smith House
+##### Babcock-Smith House
 
 The [Babcock-Smith House](http://www.babcocksmithhouse.org){:target="_blank"}
 was built in 1734 by Dr. Joshua Babcock, who used it to practice medicine, run
@@ -544,14 +576,14 @@ eventually sold the house to recoup losses from the war of 1812.
 
 
 
-## Wisconsin
+### Wisconsin
 
-### Fox Valley Area
+#### Fox Valley Area
 
   * Oak Hills Cemetary, Neenah
     * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
-### Mukwa
+#### Mukwa
 
 
 
