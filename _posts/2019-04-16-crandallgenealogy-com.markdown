@@ -14,7 +14,9 @@ cache of a site originally published at <b>crandallgenealogy.com</b> by
 longer active.  To preserve the efforts of the original publisher, for my own
 and other and other Crandall researchers' reference, I have copied that
 content to this page, with only formatting edits, and such restructuring of
-the presentation of the data to accomodate those edits (for ex. in TOC entries)
+the presentation of the data to accomodate those edits, and the occasional
+correction of an obvious spelling error.  Bolded names and such are probably
+my doing as well.  *-- KLD*
 
 ![Crandall Genealogy banner](/assets/genealogy/crandall-banner.png)
 
@@ -53,11 +55,11 @@ included in index. Not all individuals have been added or have links to them.
 Work continues on the index as time permits. The first 6 generations have been
 completed. Generation 7-11 have many added, but are not yet complete.
 
-NOTE: Please remember while "Elder John Crandall of Rhode Island and his
-Descendants" is a great starting place for Crandall researchers, there are many
-errors contained within this work. These errors are, but not limited to
-spelling, typo, omissions and lineage errors. 
-Please remember to verify all information with other sources.
+NOTE: Please remember while *Elder John Crandall of Rhode Island and his
+Descendants* is a great starting place for Crandall researchers, there are
+many errors contained within this work. These errors are, but not limited to
+spelling, typo, omissions and lineage errors.  Please remember to verify all
+information with other sources.
 
 This information on this site is compiled from those earlier works as well as
 additional research using sources such as biographies, burial records, census
@@ -80,17 +82,17 @@ Colonial pioneer, First Baptist Elder, Deputy Commissioner, and statesman of
 Newport and Westerly, Rhode Island, the head of the Crandall family in America,
 was born in Monmouthshire, England, on the line between England and Wales in 1612.
 His mother is supposed to have been a Scotch lady.  He came to Boston within a
-very few years after the landing of the Pilgrims, in 1634. Several writers have
-ascertained that he was associated with the Congregational Church at Salem as
-1635 and that "he was certainly living in Providence as early as 1637" and
-while there are many reasons for believing these statements correct and that
-John Crandall was a close associate of Roger Williams was one of the founders
-of Providence, unfortunately it seems impossible certainly to confirm them.
-Many of the original Providence records were early destroyed.
+very few years after the landing of the Pilgrims, in 1634.  Several writers
+have ascertained that he was associated with the Congregational Church at
+Salem as 1635 and that "he was certainly living in Providence as early as
+1637" and while there are many reasons for believing these statements correct
+and that John Crandall was a close associate of **Roger Williams** was one of the
+founders of Providence, unfortunately it seems impossible certainly to confirm
+them.  Many of the original Providence records were early destroyed.
 
 The first valid documentary account of John Crandall in New England shows him
 to have been actively identified with the Baptist Church in Newport, July 21, 1651.
-His name next is found, with that of Matthew West in the Freemen's list
+His name next is found, with that of **Matthew West** in the Freemen's list
 of Newport, 1655.
 
 John Crandall was the first Baptist Elder at Westerly, "Elder Crandall was well
@@ -103,44 +105,45 @@ the lines between the states."
 before 1665. He was commissioner for a number of years, served as deputy from
 both Newport and Westerly, and in other capacities which evidence that he was a
 man of importance. Through the seven sons of Elder Crandall the name became a
-common one and the family numerous in Rhode Island." (From "Representative men
-and old families of Rhode Island”.)
+common one and the family numerous in Rhode Island." (From *Representative men
+and old families of Rhode Island*.)
 
 Through the marriage of Elder John Crandall's sons and daughters, the family
 became allied with other important pioneer families who were prominent in the
-early history of Rhode Island, and New England. Among these were the Gorton,
-Babcock, Burdick, Hubbard, and Witter families.
+early history of Rhode Island, and New England. Among these were the **Gorton**,
+**Babcock**, **Burdick**, **Hubbard**, and **Witter** families.
 
 The name or origin of his first wife is not known, but it is recorded that she
 died in 1670 and was buried August 2 of that year in Westerly. From examination
 of the birth and marriage records of their children, and the dates at which
 sons were listed as freemen, it may be inferred that John Crandall was first
-married about the year 1649. He married, second, Hannah Gaylord.
+married about the year 1649. He married, second, **Hannah Gaylord**.
 
 Elder John Crandall died before November 29, 1676 at Newport where he was
 sojourning on account of the Indian War (King Philip's War).
 
-The "Journal of American History" gives the following sketch of the life of
+The *Journal of American History* gives the following sketch of the life of
 Elder John Crandall, which is substantially correct with the probable exception
-of the account of his activities prior to 1651.
+of the account of his activities prior to 1651:
 
-As early as 1635 Rev. John Crandall, who is believed to have been of Welsh
-ancestry, was living in Salem where, as elsewhere in the Massachusetts Bay
-Colony, there was at this time much opposition to all dissenters from the
-authorized tenets of the Puritans. John Crandall was the minister of the Salem
-church, but he adopted the opinions of the Baptists, which were very obnoxious
-to the Congregationalists, and in the autumn of 1635 he was dismissed as
-pastor. As did so many others of the early Baptists of New England he
-determined to settle in the Narragansett country. The Indians proved friendly
-and he obtained from them a grant of land. He has been called one of the
-founders of Providence. He was certainly living in Providence as early as 1637.
+    As early as 1635 Rev. John Crandall, who is believed to have been of Welsh
+    ancestry, was living in Salem where, as elsewhere in the Massachusetts Bay
+    Colony, there was at this time much opposition to all dissenters from the
+    authorized tenets of the Puritans. John Crandall was the minister of the
+    Salem church, but he adopted the opinions of the Baptists, which were very
+    obnoxious to the Congregationalists, and in the autumn of 1635 he was
+    dismissed as pastor. As did so many others of the early Baptists of New
+    England he determined to settle in the Narragansett country. The Indians
+    proved friendly and he obtained from them a grant of land. He has been
+    called one of the founders of Providence. He was certainly living in
+    Providence as early as 1637.
 
 In 1669 he appears in "a list of the Free Inhabitants of the Town of Westerle"
 May the 18, (John Crandall's name headed the list). Directly after this he,
-with Tobias Saunders, was authorized by the colony to summon juries and hold
+with **Tobias Saunders**, was authorized by the colony to summon juries and hold
 corts, they being appointed "Conservators or His Majesty's Peace."
 
-John Crandall was one of the original purchasers from Chief Sosoa of
+John Crandall was one of the original purchasers from **Chief Sosoa** of
 Narragansett of the Misquamicutt tribe, of the land comprising Westerly, from
 which Hopkinton was later formed. The townships of Westerly, Hopkinton,
 Charleston and Richmond, as they now are, were a tract called by the Indians
@@ -197,57 +200,57 @@ his financial losses would be borne by the Colony.
 
 The Reverend John Crandall was twice married. The name of his first wife is
 unknown, but she died in 1670 and was buried on August 2 of that year. He
-married, second, Hannah Gaylord.
+married, second, **Hannah Gaylord**.
 
 The subjoining summary recorded events in the later life of John Crandall "of
-Newport and Westerly, Rhode Island" is from Austin's Authoritative Volumes
-"Genealogical Dictionary of Rhode Island," and "One Hundred and Sixty Allied
-Families of Rhode Island."
+Newport and Westerly, Rhode Island" is from <a href="#austin">Austin</a>'s
+Authoritative Volumes *Genealogical Dictionary of Rhode Island*, and
+*One Hundred and Sixty Allied Families of Rhode Island*.
 
 John Crandall was early associated with the Baptists, at Newport, subsequently
 becoming the first Elder of that denomination at Westerly.
 
-1651, July 21. He, with John Clarke and Obediah Holmes, "being the
-representatives of the Church of Newport, upon the request of William Witter,
+  * ***1651, July 21***. He, with **John Clarke** and **Obediah Holmes**, "being the
+representatives of the Church of Newport, upon the request of **William Witter**,
 of Lynn, arrived there, he being a brother in the Church, who by reason of his
 advanced age, could not undertake so great a journey as to visit the church.
-William Witter lived about two miles out of Lynn and the next day being Sunday,
+**William Witter** lived about two miles out of Lynn and the next day being Sunday,
 they spent in religious services at his house, and were there apprehended by
 two constables at the instance of the Massachusetts authorities, while Mr.
 Clarke was preaching, and the next morning they were sent to prison in Boston.
 For the dire offense of holding this little meeting, and on other frivolous
-pretexts Obediah Holmes was fined, imprisoned and whipped.
+pretexts **Obediah Holmes** was fined, imprisoned and whipped.
 
-1651, July 31. He was sentenced to pay a fine of L5 or be publically whipped.
+  * ***1651, July 31***. He was sentenced to pay a fine of L5 or be publically whipped.
 He was released from prison upon his promise of appearing at next court.
 
-1658; 59; 62; 63 Commissioner.
+  * ***1658; 59; 62; 63*** Commissioner.
 
-1661, August 27, he and eight others signed a letter of the Court of
+  * ***1661, August 27***, he and eight others signed a letter of the Court of
 Commissioners of Rhode Island, concerning a tract of land at Westerly, that
 they and others desired approbation and assistance of Rhode Island in settling
 upon.
 
-1661, September 9. He had half a share at Westerly assigned him.
+  * ***1661, September 9***. He had half a share at Westerly assigned him.
 
-1667, Deputy.
+  * ***1667***, Deputy.
 
-1667, October 17, Westerly. He was complained of in a letter from Connecticut
+  * ***1667, October 17***, Westerly. He was complained of in a letter from Connecticut
 to Rhode Island authorities, for having come on west side of Pawcatuck River
 and laid out about a mile square of land to his son.
 
-1669, May 14. He and Joseph Torrey were appointed Commissioners to treat with
+  * ***1669, May 14***. He and **Joseph Torrey** were appointed Commissioners to treat with
 Connecticut relative to jurisdiction of lands. The sum of 35 shillings was lent
 to the Colony of Rhode Island by individuals for John Crandall's voyage to
 Connecticut.
 
-1669, May 18. His name was on the List of Inhabitants. (Westerly)
+  * ***1669, May 18***. His name was on the List of Inhabitants. (Westerly)
 
-1669, November 18. A letter was sent him by Governor and Assistants, of
+  * ***1669, November 18***. A letter was sent him by Governor and Assistants, of
 Connecticut, complaining that he and others had appropriated a great parcel of
 Stonington township, and seeking for satisfaction.
 
-1669, March 11. He and Tobias Saunders answered on behalf of Westerly denying
+  * ***1669, March 11***. He and **Tobias Saunders** answered on behalf of Westerly denying
 any guilt in matter complained of, "but we are very sensible of great wrongs we
 have sustained by them several years." The letter closes: "As for your advice
 to agree with those, our neighbors of Stonington and the other gentlemen we
@@ -255,62 +258,65 @@ hope that your colony and ours, will in the first place lovingly agree, and
 then we question not but that there will be an agreement between us and our
 neighbors of Stonington, and the rest of the gentlemen."
 
-1670, June 19. He as Conservator of the Peace of Westerly, wrote a letter a
+  * ***1670, June 19***. He as Conservator of the Peace of Westerly, wrote a letter a
 little prior to this date, to the Governor of Rhode Island, informing him "of
 an entrance made into our jurisdiction by some of Connecticut, and of their
 carrying away some inhabitants prisoners."
 
-1670, August 2. His first wife was buried.
+  * ***1670, August 2***. His first wife was buried.
 
-1670, October 3. He deeded eldest son, John of Newport, "for love &c.;, all my
+  * ***1670, October 3***. He deeded eldest son, John of Newport, "for love &c.;, all my
 good, chattels, debts, household utensils, and all other personal estate,
 movable or immovable quick or dead putting him in quiet and peaceable
 possession by payment of is in silver, by his son."
 
-1670, 1671. Deputy from Westerly.
+  * ***1670, 1671***. Deputy from Westerly.
 
-1671, January 30. Bills were allowed by Assembly, for hire of a boat to go to
-Narragansett with Mr. John Crandall Sr. in the year 1670 and for hire of Sarah
-Reape's horse for use of Mr. John Crandall to go to Hartford.
+  * ***1671, January 30***. Bills were allowed by Assembly, for hire of a boat to go to
+Narragansett with **Mr. John Crandall Sr.** in the year 1670 and for hire of **Sarah
+Reape**'s horse for use of Mr. John Crandall to go to Hartford.
 
-1671, May 2. He, having been "as is asserted" apprehended and now is in
+  * ***1671, May 2***. He, having been "as is asserted" apprehended and now is in
 durance, by the Colony of Connecticut and having desired the advice of the
 Governor &c.; of Rhode Island whether to give bond or abide imprisonment, the
 Colony will bear his charges and endeavor to justify his actings therein.
 
-1671, may 6. He was allowed 20 shillings, to bear his charge to Connecticut.
+  * ***1671, may 6***. He was allowed 20 shillings, to bear his charge to Connecticut.
 
-1675, January 23. In a letter from Ruth Burdick, to her father Samuel Hubbard,
-of Newport, she says, "Brother Crandall hath the ague and fever still, and have
-been but little amongst us this winter, Sister Crandall is brought to bed with
-a son, and is in a hopeful way." (Ruth Burdick's daughter Deborah (Samuel
-Hubbard's granddaughter) later married Elder John Crandall is son (by his first
-wife) Joseph.
+***1675, January 23***. In a letter from **Ruth Burdick**, to her father
+**Samuel Hubbard**, of Newport, she says, *"Brother Crandall hath the ague and
+fever still, and have been but little amongst us this winter, Sister Crandall
+is brought to bed with a son, and is in a hopeful way."* (Ruth Burdick's
+daughter Deborah (Samuel Hubbard's granddaughter) later married Elder John
+Crandall's son (by his first wife) **Joseph Crandall**.
+
 
 He died in Newport, having moved there on account of the Indian War.
 
-1676, November 29. Under this date Samuel Hubbard, writes from Newport to Mr.
-Edward Stennitt in London, and after speaking of the devastation caused by King
-Philip's War, he recounts the recent deaths in the First Baptist Church: He
-says: "of the old church, First Mr. Joseph Torrey, then my dear brother John
-Crandall, then Mr. John Clarke, then William Weeden, a deacon, then John
-Salmon; a sad stroke in very deed, young men and maids to this day I never knew
-or heard the like in New England." Samuel Hubbard also wrote a few years later;
-“my dear brother John Crandall of Squamicut, is dead and his first wife a
-Sabbath keeper, the first that died in that blessed faith in New England."
 
-His second wife was Hannah Gaylord, born 30 Jan. 1647, and probably was
-daughter of William and Ann (Porter) Gaylord, of Windsor, Connecticut. The said
-Hannah married a Crandall as is shown by the settlement of her brother Hezekiah
-Gaylord's estate in 1677.
+  * ***1676, November 29***. Under this date **Samuel Hubbard**, writes from Newport
+to **Mr. Edward Stennitt** in London, and after speaking of the devastation
+caused by King Philip's War, he recounts the recent deaths in the First
+Baptist Church: He says: *"of the old church, First **Mr. Joseph Torrey**, then
+my dear brother **John Crandall**, then **Mr. John Clarke**, then **William
+Weeden**, a deacon, then **John Salmon**; a sad stroke in very deed, young men
+and maids to this day I never knew or heard the like in New England."*
+Samuel Hubbard also wrote a few years later;
+*“my dear brother **John Crandall** of Squamicut, is dead and his first wife a
+Sabbath keeper, the first that died in that blessed faith in New England."*
 
- 
+
+His second wife was **Hannah Gaylord**, born 30 Jan. 1647, and probably was
+daughter of **William and Ann (Porter) Gaylord**, of Windsor, Connecticut. The
+said Hannah married a Crandall as is shown by the settlement of her brother
+Hezekiah Gaylord's estate in 1677.
+
 
 Home of John C. Crandall
 
-Elder John Crandall died at Newport November 29, 1676, From the compiler the
+**Elder John Crandall** died at Newport November 29, 1676, From the compiler the
 following data of Elder John has been furnished: That he was born probably
-Shropshire, England near the Welch border. The western portion of this county
+Shropshire, England near the Welsh border. The western portion of this county
 was formerly a part of Wales and later annexed to England. Hence the reason why
 some authorities have made the assertion that Elder John Crandall was a
 Welchman. One good authority states that he died 29 Nov. 1676 at the age of 67
@@ -318,26 +324,26 @@ yrs. which would indicate that he was born in 1609 and judging from the known
 ages of some of his associates, this would seem probable. His first wife by
 whom he had 7 children has not been positively identified but record shown that
 she died 1 Aug. 1670. (Mildred Small of Etna, Pa. states she found in the
-records in Washington, D.C. that the first wife of Elder John was Mary Opp who
-died 20 Aug. 1669) Elder John married second, Hannah Gaylord, b. 30 Jan. 1647;
-d. 3 Aug. 1678. After the death of Eld. John his widow married, second, John
-Cottrell, Jr. Hannah Gaylord was the dau. of William (William, John Nicholas)
+records in Washington, D.C. that the first wife of Elder John was **Mary Opp**
+who died 20 Aug. 1669) Elder John married second, **Hannah Gaylord**, b. 30 Jan. 1647;
+d. 3 Aug. 1678. After the death of Eld. John his widow married, second, **John
+Cottrell, Jr.** Hannah Gaylord was the dau. of William (William, John Nicholas)
 and Ann (Porter) Gaylord.
 
-##### Children of Eld. John by his first wife:
+##### Children of Eld. John by his first wife
 
-  * (2) <a href="#2-john-crandall">John</a>, b. abt. 1649; m. Elizabeth Gorton.
-  * (3) <a href="#3-james-crandall">James</a>, b. abt. 1651.
-  * (4) <a href="#4-jane-crandall">Jane</a>, b. abt. 1653; m. **Job Babcock**.
-  * (5) <a href="#5-sarah-crandall">Sarah</a>, b. abt. 1654; m. Josiah Witter.
-  * (6) <a href="#6-peter-crandall">Peter</a>, b. 1655; m. **Mary Babcock**.
-  * (7) <a href="#7-rev-joseph-crandall">(Rev.) Joseph</a>; b. 1661; m. Deborah Burdick.
-  * (8) <a href="#8-samuel-crandall">Samuel</a>, b. 1663; m. Sarah Colby (or Celly).
+  * (2) <a href="#2-john-crandall">John</a>, b. abt. 1649; m. **Elizabeth Gorton**
+  * (3) <a href="#3-james-crandall">James</a>, b. abt. 1651
+  * (4) <a href="#4-jane-crandall">Jane</a>, b. abt. 1653; m. **Job Babcock**
+  * (5) <a href="#5-sarah-crandall">Sarah</a>, b. abt. 1654; m. **Josiah Witter**
+  * (6) <a href="#6-peter-crandall">Peter</a>, b. 1655; m. **Mary Babcock**
+  * (7) <a href="#7-rev-joseph-crandall">(Rev.) Joseph</a>; b. 1661; m. **Deborah Burdick**
+  * (8) <a href="#8-samuel-crandall">Samuel</a>, b. 1663; m. **Sarah Colby** (or **Celly**)
 
-##### Children of Eld. John and Hannah (Gaylord) Crandall:
+##### Children of Eld. John and Hannah (Gaylord) Crandall
 
-  * (9) <a href="#9-jeremiah-crandall">Jeremiah</a>, b. Aug. 1673; m. Priscilla Warner.
-  * (10) <a href="#10-eber-crandall">Eber</a>, b. 1676; m. 1st [unk.]; m. 2nd Patience Lanphere; m. 3rd Mary Cottrell.
+  * (9) <a href="#9-jeremiah-crandall">Jeremiah</a>, b. Aug. 1673; m. **Priscilla Warner**
+  * (10) <a href="#10-eber-crandall">Eber</a>, b. 1676; m. 1st [unk.]; m. 2nd **Patience Lanphere**; m. 3rd **Mary Cottrell**.
  
 
 This is the old Crandall homestead mentioned in the deed. from the Harisons to
@@ -351,9 +357,9 @@ compiler and his father were both born here.
 
 #### 2. John Crandall
 *Son of Eld. John, b. abt. 1649 in Newport, R.I.; d. 1704;
-m. 18 June, 1672 in Warwick, R.I. by John Green, J.P., Elizabeth Gorton, dau. of Samuel and Mary (Maplet) Gorton.
-(one record gives her as Elizabeth (Burton) Gorton).
-(Samuel Gorton b. 1592; d. 1677; was in Boston 1836; Plymouth 1638; settled in Warwick, R.I. 1641).*
+m. 18 June, 1672 in Warwick, R.I. by John Green, J.P., **Elizabeth Gorton**, dau. of **Samuel and Mary (Maplet) Gorton**.
+(one record gives her as **Elizabeth (Burton) Gorton**).
+(**Samuel Gorton** b. 1592; d. 1677; was in Boston 1836; Plymouth 1638; settled in Warwick, R.I. 1641).*
 
 John called himself the son and heir of John Crandall of Newport, deceased. He
 confirmed to his "beloved brothers Jeremiah and Eber, now resident of Newport,
@@ -371,7 +377,7 @@ part of the farm I now dwell on; son Samuel rest of the land and housing; dau.
 Elizabeth Wilcox 5s; dau. Mary Phillips 5a; wife Elizabeth all movables and
 the whole use of all lands till sons Peter and Samuel were of age.
 
-##### Children:
+##### Children of John & Elizabeth Gorton Crandall
 
   * (11) <a href="#11-john-crandall">John</a>, b. abt. 1675.
   * (12) <a href="#12-elizabeth-crandall">Elizabeth</a>.
@@ -380,11 +386,44 @@ the whole use of all lands till sons Peter and Samuel were of age.
   * (15) <a href="#15-samuel-crandall">Samuel</a>, (not of age in 1704), Res. Newport and Kingstown, R.I.
 
 #### 3. James Crandall
-Son of Eld. John, 1651 probably in Newport, R.I.; took oath of allegiance in Westerly 17 Sept. 1679; Freeman in Westerly 1681.
+*Son of Eld. John, b. 1651 probably in Newport, R.I.; took oath of allegiance
+in Westerly 17 Sept. 1679; Freeman in Westerly 1681.*
 
-(Howard Stillman Crandall of Westerly spent many years compiling the Crandall records. He worked especially on the line of James and the following is taken from his letter to Prof. Albert Rogers Crandall)
+(Howard Stillman Crandall of Westerly spent many years compiling the Crandall
+records. He worked especially on the line of James and the following is taken
+from his letter to Prof. Albert Rogers Crandall)
 
-James became dissatisfied with the settlement of his father's estate (leaving all to the eldest son which was the old English custom); left home when be became 21, going down the Pawcatuck River which runs into the ocean near the end of Fisher's Island and made his home almost opposite Watch Hill an Long Island where he married a girl whose sister had married a man by the name of Raynor who lived in Suffolk Co. on the seat end of Long Island. Because of his wife's religion, which was not of the Seventh Day Baptist faith, James was disowned by the rest or the family. James had quite a large family. His eldest son Samuel Nelson desiring a better education went to Manhattan. His father and the rest of his family removed to Cape May Co., N.J. where the exodus of whalers on Long Island had found new fields to explore. After receiving his education Samuel went to Duchess Co., N.Y. and probably had a large family. Soon after, his two older brothers followed him. Samuel had sons Eber, Samuel and James and probably others as there are records or many Crandalls in this locality and Schaghticoks, Rensselaer Co., N.Y. and Cold Springs, Putnam Co., N.Y. which seems to point to the fact that they are the descendants of James. Being dissatisfied in Duchess Co. they after a time migrated to Rochester, N.Y. thence to Canada and finally some of them were in Ann Arbor, Michigan where we have Palmer Crandall and later Tanner Crandall. Many of these Canada Crandalls corresponded with Howard to establish their line with James. Also in the history of Tomkins and Tioga Counties, N.Y. is is an account of the line of a Henry Crandall son of Eber and Dinah (Vaughn), b. 22 Sept. 1795 in Schaghticoks, Rensselaer Co., N.Y.; d. 9 Mar. 1882 in Millport, N.Y.; m. 19 Oct. 1816 in Smithville, N.Y.; Eliza, dau. of Charles Hill of Madison Co., N.Y. Eber Crandall was a native of Cold Spring, Duchess Co., N.Y. having been born there in 1755. His father having lived and died there. His father James was or English ancestry settling on Long Island before the dawn of the 17th century. Eber moved to Argyle, Washington Co., N.Y. when Henry was an infant and after other moves he finally came to Tomkins Co. where he died.
+    James became dissatisfied with the settlement of his father's estate
+    (leaving all to the eldest son which was the old English custom); left
+    home when be became 21, going down the Pawcatuck River which runs into the
+    ocean near the end of Fisher's Island and made his home almost opposite
+    Watch Hill an Long Island where he married a girl whose sister had married
+    a man by the name of **Raynor** who lived in Suffolk Co. on the seat end of
+    Long Island. Because of his wife's religion, which was not of the Seventh
+    Day Baptist faith, James was disowned by the rest or the family. James had
+    quite a large family. His eldest son Samuel Nelson desiring a better
+    education went to Manhattan. His father and the rest of his family removed
+    to Cape May Co., N.J. where the exodus of whalers on Long Island had found
+    new fields to explore. After receiving his education Samuel went to
+    Duchess Co., N.Y. and probably had a large family.  Soon after, his two
+    older brothers followed him. Samuel had sons Eber, Samuel and James and
+    probably others as there are records or many Crandalls in this locality
+    and Schaghticoks, Rensselaer Co., N.Y. and Cold Springs, Putnam Co., N.Y.
+    which seems to point to the fact that they are the descendants of James.
+    Being dissatisfied in Duchess Co. they after a time migrated to Rochester,
+    N.Y. thence to Canada and finally some of them were in Ann Arbor, Michigan
+    where we have Palmer Crandall and later Tanner Crandall. Many of these
+    Canada Crandalls corresponded with Howard to establish their line with
+    James. Also in the history of Tomkins and Tioga Counties, N.Y. is is an
+    account of the line of a Henry Crandall son of Eber and Dinah (Vaughn), b.
+    22 Sept. 1795 in Schaghticoks, Rensselaer Co., N.Y.; d. 9 Mar. 1882 in
+    Millport, N.Y.; m. 19 Oct. 1816 in Smithville, N.Y.; Eliza, dau. of
+    Charles Hill of Madison Co., N.Y. Eber Crandall was a native of Cold
+    Spring, Duchess Co., N.Y. having been born there in 1755. His father
+    having lived and died there. His father James was or English ancestry
+    settling on Long Island before the dawn of the 17th century. Eber moved to
+    Argyle, Washington Co., N.Y. when Henry was an infant and after other
+    moves he finally came to Tomkins Co. where he died.
 
 The history of Tomkins Co. establishes without doubt another line from James, son of Eld. John. While some positive connections are missing from dates and locations it is safe to assume that they are in the line of James and they will be found in a later section of the genealogy.
 
@@ -1163,4 +1202,10 @@ Children of Eber and May (Cottrell) Crandall:
 ### Twelfth Generation
 
 
+## Sources
+
+  * <a name="austin">Austin, John Osbourne</a>, *The Genealogical Dictionary of
+    Rhode Island: Comprising three generations of settlers who came before 1690*,
+    Printed by Joel Munsells Sons, Albany, NY, 1887.  Avail. @
+    <a target="_blank" href="https://archive.org/details/genealogicaldict00aust/page/n8">ancestry.org</a>
 
