@@ -466,6 +466,8 @@ the convoy departing Newport News on 22 Aug
 
 ## England
 
+## France
+
 ## Germany
 
 ## Ireland

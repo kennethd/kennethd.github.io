@@ -1,28 +1,27 @@
 ---
 layout: post
-title:  "Crandall Line Research"
+title:  "CrandallGenealogy.com"
 date:   2019-04-16
 categories: genealogy crandall
 ---
 
-
-  * Table of Contents
-  {:toc}
-
-
 ## Copyright Notice
 
-The following work was salvaged from an 
+The following work &copy; 2010 Rodger Crandall Genealogy Project, was salvaged from an 
 <a target="_blank" href="https://web.archive.org/web/20110908051741/http://crandallgenealogy.com/index.html">archive.org</a>
 cache of a site originally published at <b>crandallgenealogy.com</b> by 
 <a href="mailto:rodger_crandall@yahoo.com">Rodger Crandall</a>, which is no
 longer active.  To preserve the efforts of the original publisher, for my own
 and other and other Crandall researchers' reference, I have copied that
-content to this page, with only formatting edits.
+content to this page, with only formatting edits, and such restructuring of
+the presentation of the data to accomodate those edits (for ex. in TOC entries)
 
+![Crandall Genealogy banner](/assets/genealogy/crandall-banner.png)
+
+  * Table of Contents
+  {:toc}
 
 ## Crandall Genealogy
-![](/assets/genealogy/crandall-banner.png)
 
 ***Welcome*** to the largest genealogy site on the internet of Crandalls, Crandells,
 Crandles, Crandolls, Crundalls, etc., and descendants of Elder John Crandall.
@@ -44,15 +43,15 @@ John and over 47,000 total individuals.
 A complete copy of this site in PDF format is available - **Descendants of Elder John Crandall**
 Current version 3.0. (2008) and about 22mg and is for personal use only.
 
-The book **Elder John Crandall of Rhode Island and his Descendants**, by John
-Cortland Crandall, New Woodstock, New York, 1949 has been added for reference.
+The book [Elder John Crandall of Rhode Island and his Descendants](/genealogy/crandall/2019/04/20/elder-john-crandall),
+by John Cortland Crandall, New Woodstock, New York, 1949 has been added for reference.
 
 To locate those included in JCC's work on this site: 
-Do a search on the the JCC number (JCC #----; example JCC #1234) for that individual or their parent
-or, check name index to see if they have been included in index. Not all
-individuals have been added or have links to them. Work continues on the index
-as time permits. The first 6 generations have been completed. Generation 7-11
-have many added, but are not yet complete.
+Do a search on the the JCC number (JCC #----; example JCC #1234) for that
+individual or their parent or, check name index to see if they have been
+included in index. Not all individuals have been added or have links to them.
+Work continues on the index as time permits. The first 6 generations have been
+completed. Generation 7-11 have many added, but are not yet complete.
 
 NOTE: Please remember while "Elder John Crandall of Rhode Island and his
 Descendants" is a great starting place for Crandall researchers, there are many
@@ -76,7 +75,6 @@ see C.F.A. works for information on him.
 
 ### First Generation
 
-<a name="crandall-1"></a>
 #### 1. John Crandall
 Colonial pioneer, First Baptist Elder, Deputy Commissioner, and statesman of
 Newport and Westerly, Rhode Island, the head of the Crandall family in America,
@@ -326,26 +324,20 @@ d. 3 Aug. 1678. After the death of Eld. John his widow married, second, John
 Cottrell, Jr. Hannah Gaylord was the dau. of William (William, John Nicholas)
 and Ann (Porter) Gaylord.
 
-Children of Eld. John by his first wife:
+##### Children of Eld. John by his first wife:
 
-(2) John, b. abt. 1649; m. Elizabeth Gorton.
-(3) James, b. abt. 1651.
+  * (2) <a href="#2-john-crandall">John</a>, b. abt. 1649; m. Elizabeth Gorton.
+  * (3) <a href="#3-james-crandall">James</a>, b. abt. 1651.
+  * (4) <a href="#4-jane-crandall">Jane</a>, b. abt. 1653; m. **Job Babcock**.
+  * (5) <a href="#5-sarah-crandall">Sarah</a>, b. abt. 1654; m. Josiah Witter.
+  * (6) <a href="#6-peter-crandall">Peter</a>, b. 1655; m. **Mary Babcock**.
+  * (7) <a href="#7-rev-joseph-crandall">(Rev.) Joseph</a>; b. 1661; m. Deborah Burdick.
+  * (8) <a href="#8-samuel-crandall">Samuel</a>, b. 1663; m. Sarah Colby (or Celly).
 
-(4) Jane, b. abt. 1653; m. Job Babcock.
+##### Children of Eld. John and Hannah (Gaylord) Crandall:
 
-(5) Sarah, b. abt. 1654; m. Josiah Witter.
-
-(6) Peter, b. 1655; m. Mary Babcock.
-
-(7) (Rev.) Joseph; b. 1661; m. Deborah Burdick.
-
-(8) Samuel, b. 1663; m. Sarah Colby (or Celly).
-
-Children of Eld. John and Hannah (Gaylord) Crandall:
-
-(9) Jeremiah, b. Aug. 1673; m. Priscilla Warner.
-(10) Eber, b. 1676; m. 1st _; m. 2nd Patience Lanphere; m. 3rd Mary Cottrell.
-
+  * (9) <a href="#9-jeremiah-crandall">Jeremiah</a>, b. Aug. 1673; m. Priscilla Warner.
+  * (10) <a href="#10-eber-crandall">Eber</a>, b. 1676; m. 1st [unk.]; m. 2nd Patience Lanphere; m. 3rd Mary Cottrell.
  
 
 This is the old Crandall homestead mentioned in the deed. from the Harisons to
@@ -357,11 +349,11 @@ compiler and his father were both born here.
 
 ### Second Generation
 
-2. <a name="crandall-2">JOHN CRANDALL</a>, of Eld. John, b.. abt. 1649 in,
-Newport, R.I.; d. 1704; m. 18 June, 1672 in Warwick, R.I. by John Green, J.P.,
-Elizabeth Gorton, dau. of Samuel and Mary (Maplet) Gorton. (one record gives
-her as Elizabeth (Burton) Gorton). (Samuel Gorton b. 1592; d. 1677; was in
-Boston 1836; Plymouth 1638; settled in Warwick, R.I. 1641).
+#### 2. John Crandall
+*Son of Eld. John, b. abt. 1649 in Newport, R.I.; d. 1704;
+m. 18 June, 1672 in Warwick, R.I. by John Green, J.P., Elizabeth Gorton, dau. of Samuel and Mary (Maplet) Gorton.
+(one record gives her as Elizabeth (Burton) Gorton).
+(Samuel Gorton b. 1592; d. 1677; was in Boston 1836; Plymouth 1638; settled in Warwick, R.I. 1641).*
 
 John called himself the son and heir of John Crandall of Newport, deceased. He
 confirmed to his "beloved brothers Jeremiah and Eber, now resident of Newport,
@@ -369,22 +361,26 @@ and in tuition of their mother, Hannah Crandall, a certain house formerly the
 Mansion House of my father John Crandall together with 200 acres thereto
 belonging, lying and being in westerly."
 
-12 Dec. 1682 he sold to George Lawton, Jr. of Freeman's Lands, New Plymouth, certain land in Narragansett for 40s.
+12 Dec. 1682 he sold to George Lawton, Jr. of Freeman's Lands, New Plymouth,
+certain land in Narragansett for 40s.
 
-His will was dated 25 Jan. 1704, proved 14 Aug. 1704, made wife Elizabeth exrx; named friend Job Babcock, brother Peter, and son in law Stephen Wilcox overseers; gave to son John 5s he "having had already"; son Peter, wastermost part of the farm I now dwell on; son Samuel rest of the land and housing; dau. Elizabeth Wilcox 5s; dau. Mary Phillips 5a; wife Elizabeth all movables and the whole use of all lands till sons Peter and Samuel were of age.
+His will was dated 25 Jan. 1704, proved 14 Aug. 1704, made wife Elizabeth
+exrx; named friend Job Babcock, brother Peter, and son in law Stephen Wilcox
+overseers; gave to son John 5s he "having had already"; son Peter, wastermost
+part of the farm I now dwell on; son Samuel rest of the land and housing; dau.
+Elizabeth Wilcox 5s; dau. Mary Phillips 5a; wife Elizabeth all movables and
+the whole use of all lands till sons Peter and Samuel were of age.
 
-Children:
+##### Children:
 
-11. John, b. abt. 1675.
-12. Elizabeth.
+  * (11) <a href="#11-john-crandall">John</a>, b. abt. 1675.
+  * (12) <a href="#12-elizabeth-crandall">Elizabeth</a>.
+  * (13) <a href="#13-mary-crandall">Mary</a>.
+  * (14) <a href="#14-peter-crandall">Peter</a>, (not of age in 1704).
+  * (15) <a href="#15-samuel-crandall">Samuel</a>, (not of age in 1704), Res. Newport and Kingstown, R.I.
 
-13. Mary.
-
-14. Peter, (not of age in 1704).
-
-15. Samuel, (not of age in 1704), Res. Newport and Kingstown, R.I.
-
-3. JAMES CRANDALL, of Eld. John, 1651 probably in Newport, R.I.; took oath of allegiance in Westerly 17 Sept. 1679; Freeman in Westerly 1681.
+#### 3. James Crandall
+Son of Eld. John, 1651 probably in Newport, R.I.; took oath of allegiance in Westerly 17 Sept. 1679; Freeman in Westerly 1681.
 
 (Howard Stillman Crandall of Westerly spent many years compiling the Crandall records. He worked especially on the line of James and the following is taken from his letter to Prof. Albert Rogers Crandall)
 
@@ -1168,4 +1164,3 @@ Children of Eber and May (Cottrell) Crandall:
 
 
 
-{% include genealogy_notes.html %}
