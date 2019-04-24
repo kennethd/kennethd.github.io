@@ -45,7 +45,7 @@ TODO: There is a persistent rumor that he arrived aboard the *Anne*, but...
 ## Beach, Thomas; arr. New Haven, CT 1638
 *KLD's 9th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
-<a href="#virkus">Virkus</a> has him as arriving at New Haven, CT in 1638
+<a href="/genealogy/2019/04/22/genealogy-sources.html#virkus">Virkus</a> has him as arriving at New Haven, CT in 1638
 
 Thomas was born at St. Albans, Devon, England in 1613, and died 1662 at Milford, CT.
 his parents were Thomas & Joan Hill.  He married Sarah Platt (b. Tring,
@@ -68,7 +68,7 @@ or only met after arriving in the colonies.
 ## Burdick, Robert; arr. Newport, RI 1651
 *KLD's 9th great-grandfather via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
-<a href="#colket">Colket</a> lists Robert Burdick as the Primary Immigrant arriving at Newport, 1651
+<a href="/genealogy/2019/04/22/genealogy-sources.html#colket">Colket</a> lists Robert Burdick as the Primary Immigrant arriving at Newport, 1651
 
 Robert married Ruth Hubbard at Westerly, 2 Nov 1655, daughter of Samuel Hubbard (below),
 among their 4 daughters was Deborah Burdick (b. Westerly, 1 Jan 1662; d.
@@ -168,12 +168,12 @@ Joshua's daughter Ruth Giddings (b. Hartland, CT, 1750) marr. Eliphalet Parker I
 ## Harkness, Adam; emig. Ire; arr. Boston, MA, 1730
 *KLD's 7th great-grandfather*
 
-<a href="#arnold-vol3">Arnold</a> has Adam Harkness (b. near Belfast, Ire., 1710; d. 25 Oct 1793)
+<a href="/genealogy/2019/04/22/genealogy-sources.html#arnold-v3">Arnold</a> has Adam Harkness (b. near Belfast, Ire., 1710; d. 25 Oct 1793)
 being in Boston by 1730 and settling at Smithfield, RI by about 1740.
 
 Adam's father John seems to have been born in Belfast, 1675, and dies at
 Dumfries, Scotland either on 7 Aug 1734, or sometime in the early 1730s.
-<a href="#dobson">Dobson</a> mentions a John Harkness arriving in America in 1684,
+<a href="/genealogy/2019/04/22/genealogy-sources.html#dobson">Dobson</a> mentions a John Harkness arriving in America in 1684,
 though there is no reason to assume it is the same John.
 
 Adam marr. Mary Gaskill (b. Salem, MA 1719; d. Smithfield, RI, 29 Sep 1808),
@@ -220,7 +220,7 @@ for expressing their Baptist views.
 ## Platt, Richard; arr. New Haven, CT 1638
 *KLD's 10th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
 
-<a href="#virkus">Virkus</a> has Richard, wife Mary and 4 kids arriving at
+<a href="/genealogy/2019/04/22/genealogy-sources.html#virkus">Virkus</a> has Richard, wife Mary and 4 kids arriving at
 New Haven, CT in 1638 (Sarah among them)
 
 Sarah married Thomas Beach, who also arrived in New Haven in 1638 (see above),

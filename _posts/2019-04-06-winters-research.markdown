@@ -9,7 +9,7 @@ categories: genealogy winters
   {:toc}
 
 The Winters family arrived in America with the Palatine resettlement of 1709-10.
-See also my notes on the [History of the Palatines arrival in America](/genealogy/2019/04/13/palatines.html)
+See my notes on the [History of the Palatines arrival in America](/genealogy/2019/04/13/palatines.html)
 
 # Direct Winters Ancestors
 ![Direct Ancestors of the Winters Line](/assets/genealogy/winters.direct.ancestors.jpg)

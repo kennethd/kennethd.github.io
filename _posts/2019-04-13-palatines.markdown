@@ -12,21 +12,25 @@ categories: genealogy
 # The Palatine Families of New York, Jones, Henry Z.
 *A Study of the Geman Immigrants who arrived in Colonial New York in 1710; Universal City, CA, 1985*
 
-![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/genealogy/01.title.page.jpg  "The Palatine Families of New York")
-![Table of Contents](/assets/genealogy/03.toc.jpg)
+![The Palatine Families of New York; Jones, Henry Z., 1985](/assets/genealogy/jones-palatines-01-title-page.jpg  "The Palatine Families of New York")
+![Table of Contents](/assets/genealogy/jones-palatines-03-toc.jpg)
 
 ## Map of Palatine Settlements
-![Map of settlements](/assets/genealogy/02.map-of-settlements.jpg  "Map of settlements")
+![Map of settlements](/assets/genealogy/jones-palatines-02-map-of-settlements.jpg  "Map of settlements")
 
 ## The Palatines' Story
 
-[01](/assets/genealogy/the-palatines-story.01.jpg) The background of the great
-"Palatine" emigration of 1709 has been well-chronicled by such past scholars
-as Julius Goebel,. Sr., Friedrich Kapp, Sanford H. Cobb, F. R. Diffenderffer,
-and Specially Dr. Walter A. Knittle. By mainly utilizing state papers and
-official government records found in major repositories and libraries in
-Europe and America, these noted historians did fine work and broke new ground
-to give us "the big picture" of this great exodus of Germans to the new world. 
+*This work is &copy; Jones, Henry Z., permission to reproduce pending*
+
+[01](/assets/genealogy/the-palatines-story.01.jpg) 
+<div class="page">
+The background of the great "Palatine" emigration of 1709 has been
+well-chronicled by such past scholars as Julius Goebel,. Sr., Friedrich Kapp,
+Sanford H. Cobb, F. R. Diffenderffer, and Specially Dr. Walter A. Knittle. By
+mainly utilizing state papers and official government records found in major
+repositories and libraries in Europe and America, these noted historians did
+fine work and broke new ground to give us "the big picture" of this great
+exodus of Germans to the new world. 
 
 My own fifteen year Palatine project, howeyer, has approached this same
 subject-matter from more of a genealogical rather than an historical point of
@@ -55,15 +59,18 @@ emigration. The Pastor at Partenheim near Aizey wrote:
     throughout the land by the Swedish and Emperor's armies, so that we 
     could not come back again until the year 1637.
 
-Some years later, the Pastor at **Westhofen** noted;
+Some years later, the Pastor at <b>Westhofen</b> noted;
 
     1665: In the month of October, the by the Mainz-Lothringian invasion, 
     and the following children were baptised outside the area... 
     
     From October 1665 to 1669, this churchbook, along with my other best
     books, were taken to Worms for security... 
+</div>
 
-[02](/assets/genealogy/the-palatines-story.02.jpg) The plundering continued, as recorded by the as reported by the Pastor at **Kröffelbach**:
+[02](/assets/genealogy/the-palatines-story.02.jpg) 
+<div class="page">
+The plundering continued, as recorded by the as reported by the Pastor at <b>Kröffelbach</b>:
 
     On Friday 21 Dec 1688, a large French force came here to Cröffelbach, 
     plundered everything here and at Oberquembach, Oberwetz, Niederwetz,
@@ -72,17 +79,17 @@ Some years later, the Pastor at **Westhofen** noted;
     Mainz] and there crossed over the Rhine.  I took flight and, through God's
     help, escaped their hands.
 
-One year later, the Pastor at **Ginsheim** echoed his colleague:
+One year later, the Pastor at <b>Ginsheim</b> echoed his colleague:
 
     Because-of the soldiers remaining se long in our land, with the French
     occupying the city of Mainz For two yrs., the German people have right to
     complain stout the [troop] movements back and forth in these parts: the
-    Saxon and Bavarian armies are encamped in **Niederfeld** with 24,000 horse
+    Saxon and Bavarian armies are encamped in <b>Niederfeld</b> with 24,000 horse
     and foot [soldiers], the Hessians are on the other side of Mainz, and the
     Emperor's and [the] Lothringian troops are on the other side of tte Rhine
     below the city.
 
-The churchbooks themselves sometimes did not survive, as noted by the Pastor at **Sprantal**:
+The churchbooks themselves sometimes did not survive, as noted by the Pastor at <b>Sprantal</b>
 
     Because in 1693 with the french invasion of Wirtemberg every churchbock - as
     well as baptism and marriage record - met with misfortune, this new one has
@@ -110,17 +117,17 @@ Colonial new York:
     country!  We pay taxers once a year.  These taxes are so minimal that some
     spend more money for drinks in one evening When going to the pub.  What the
     farmer farms is his own, there are no tithes, no tariffs, hunting and fishing 
-
+</div>
 
 [03](/assets/genealogy/the-palatines-story.03.jpg)
-
+<div class="page">
     are free, and our soil is fertile and everything grows...
 
 But perhaps the straw that broke the camel's back was the devastating and
 bitterly cold winter of the year 1709.  Throughout southern Germany, Pastors
 abrubtly stopped their normal recording of baptismal, marriage, and burial
 entries in order to mention the terrible weather conditions burdening their
-congregations.  The Pastor at **Berstadt** wrote:
+congregations.  The Pastor at <b>Berstadt</b> wrote:
 
     [in the year 1709] there has been a horrible, terrible cold, the like of
     which is not remembered by the oldest [parishoners] who are upwards of 80
@@ -131,7 +138,7 @@ congregations.  The Pastor at **Berstadt** wrote:
     so that people must suffer from hunger.  Most of the fruit trees are
     frozen too, as well as most of the grain...
 
-The Pastor at **Runkel** noted:
+The Pastor at <b>Runkel</b> noted:
 
     [1709] Right after the New Year, such a cold wave came that the oldest
     people here could not remember a worse one.  Almost all mills have been
@@ -139,7 +146,7 @@ The Pastor at **Runkel** noted:
     cattle and humans, yes - even the birds and the wild animals in the woodsi
     froze. The Lahn [River] froze over three times, one after the other... 
 
-At **Diedenbergen** another entry:
+At <b>Diedenbergen</b> another entry:
 
     [27 Oct 1708] Before Simon Juda [Day], an usually heavy snow fell which
     broke many branches off the trees, especially in the forests because the
@@ -153,7 +160,7 @@ At **Diedenbergen** another entry:
     ruined.  One could read in the newspapers of many complaints and much damage
     in all European countries. 
 
-And at **Bolters**, even more:
+And at <b>Bolters</b> even more:
 
     From the 6th to the 26th of January [1709] there was such a raging cold, the
     likes of which has not occurred in 118 yrs.  according to the calculations
@@ -164,10 +171,12 @@ And at **Bolters**, even more:
 Residents of the various Duchies of southern Germany then were in a terrible
 state from the ongoing wars, oppressive taxation, and devastating winter - all
 of which contributed to their 
+</div>
 
-[04](/assets/genealogy/the-palatines-story.04.jpg) desire to emigrate from their
-"forsaken Egypt," as Johann Müller of the Mohawk called his former European
-homeland in his 1749 letter.
+[04](/assets/genealogy/the-palatines-story.04.jpg) 
+<div class="page">
+desire to emigrate from their "forsaken Egypt," as Johann Müller of the Mohawk
+called his former European homeland in his 1749 letter.
 
 Interestingly enough, religious persecution does not seem to have been a major
 factor in the exodus.  Many of the Palatines seemed quite flexible in their
@@ -178,8 +187,8 @@ church, then became a prominent Lutheran lay leader in the Hudson Valley.
 Also, many emigrants who were noted in Germany and shortly after their arrival
 in America as Catholics ("Episcopal" is Kocherthal's term for Catholic) soon
 turned up as full-fledged Protestants in Lutheran and Reformed churchbooks of
-colonial New York.  It is intereeting to note that **Neuwied** and
-**Isenburg**, two of the prime German regions of origin for New York settlers,
+colonial New York.  It is intereeting to note that <b>Neuwied</b> and
+<b>Isenburg</b> two of the prime German regions of origin for New York settlers,
 both had atmospheres of religious toleration in the late 1500's - perhaps a
 contributing factor to the later, theologically flexible viewpoint of many of
 the 1709ers.
@@ -205,8 +214,10 @@ not be moved by their cautious hope for a better lire in a new country.  When
 asked how he first came upon the idea to emigrate and who first gave a reason
 for the emigration, Christian Schneider aged 25, Lutheran, married 2 years with
 no children stated: 
+</div>
 
 [05](/assets/genealogy/the-palatines-story.05.jpg)
+<div class="page">
 
     People from Altenkirchen. English agents at Frankfurt and writings brought
     by them.
@@ -261,8 +272,11 @@ Another question was asked as to what he actually knows about the so-called New
 Island?  Christian Schneider replied:
 
     Nothing, except that it is undeveloped and could be built up with work. 
+</div>
 
-[06](/assets/genealogy/the-palatines-story.06.jpg) Johannes Willig added:
+[06](/assets/genealogy/the-palatines-story.06.jpg) 
+<div class="page">
+Johannes Willig added:
 
     The place is a better land, if one wants to work.
 
@@ -318,17 +332,20 @@ put his trust elsewhere:
 
 But perhaps the most important yet most intangible factor in the emigration was
 the character and psychological make-up of
+</div>
 
-[07](/assets/genealogy/the-palatines-story.07.jpg) the 1709ers themselves.  They
-seemed to have within their souls Some special spark, some sense of daring and
-adventure which enabled them to gamble their lives and families on an unknown
-fate and set forth across a mighty ocean to a strange land.  Several emigrants
-were noted in churchbooks prior to 1709 as "vagabondus" and thus were already
-on the move.  Some exhibited a genuine landhunger and a desire to better their
-lot even before leaving Germany, as exemplified by a few of the responses to
-the Nassau-Weilburg questionaires.  And then there were those hearty souls who
-found their way to colonial N.Y. who were simply dreamers, as shown by this
-rather caustic comment of the Pastor of **Welterod**:
+[07](/assets/genealogy/the-palatines-story.07.jpg)
+<div class="page">
+the 1709ers themselves.  They seemed to have within their souls Some special
+spark, some sense of daring and adventure which enabled them to gamble their
+lives and families on an unknown fate and set forth across a mighty ocean to a
+strange land.  Several emigrants were noted in churchbooks prior to 1709 as
+"vagabondus" and thus were already on the move.  Some exhibited a genuine
+landhunger and a desire to better their lot even before leaving Germany, as
+exemplified by a few of the responses to the Nassau-Weilburg questionaires.
+And then there were those hearty souls who found their way to colonial N.Y.
+who were simply dreamers, as shown by this rather caustic comment of the
+Pastor of <b>Welterod</b>
 
     [1709] In this year the winter was terrible cold and because of its fury the
     spring crops of nut, cherry, and apple trees are almost gone...
@@ -353,7 +370,7 @@ today as the Palatinate.  Many New York settlers were found in the Neuwied,
 Isenburg, Westerwald, Darmstadt, and Nassau regions as well as the Pfalz -
 proving again that the term "Palatine" was more of a generic reference (meaning
 "Germans" in general) rather than a literal description of their precise,
-geographic origins.  The Pastor of **Dreieichenhain**, midway between Darmstadt
+geographic origins.  The Pastor of <b>Dreieichenhain</b> midway between Darmstadt
 and Frankfurt, substantiates the widespread origins or the 1709ers in an utterly
 fascinating entry in his churchbook:
 
@@ -362,38 +379,43 @@ fascinating entry in his churchbook:
     such a winter; not only were many birds frozen and found dead, but also many
     domesticated livestock in their sheds.  Many trees froze, and the winter
     grain was also very frozen... 
+</div>
 
-[08](/assets/genealogy/the-palatines-story.08.jpg) In this year 1709 many thousands
-of families from Germany, especially from Upper and Lower Hessen, from the Pfalz,
-Odenwald, Westerwald, and other dominions, have departed for the so-called New
-America and, of course, Carolina.  Here, from out of the grove, (..) families
-have departed with them [the families being those of Johann Henrich Michael
-Vatter, Friedrich Filippi, Christoffel Schickedantz, Christoffel Jost, and
-Tobias Schilfer].  [Here are] details of those who have joined together here and
-there in Germany and departed in 1709 for the New World:
+[08](/assets/genealogy/the-palatines-story.08.jpg)
+<div class="page">
+In this year 1709 many thousands of families from Germany, especially from
+Upper and Lower Hessen, from the Pfalz, Odenwald, Westerwald, and other
+dominions, have departed for the so-called New America and, of course,
+Carolina.  Here, from out of the grove, (..) families have departed with them
+[the families being those of Johann Henrich Michael Vatter, Friedrich Filippi,
+Christoffel Schickedantz, Christoffel Jost, and Tobias Schilfer].  [Here are]
+details of those who have joined together here and there in Germany and
+departed in 1709 for the New World:
 
-    From the Pfalz                                  8,589 persons
-    From Darmstadt area                             2,334
-    From Hanau, Ysenburg, and neighboring   
-    Grafschaften and Wetterau districts             1,113
-    From Franckenland                               653
-    From the Mainz area                             63
-    From the Trier area                             58
-    From the Bishopric of Worm, Speyer, and
-    neighboring Grafschaften                        490
-    From the Kassel area                            81
-    From the Zweibrücken area                       125
-    From the Nassau area                            203
-    From Alsace                                     413
-    From the Baden countryside                      320
-    Unmarried craftsmen                             871
-                                                    (15,313) 
+<pre>
+  From the Pfalz                                  8,589 persons
+  From Darmstadt area                             2,334
+  From Hanau, Ysenburg, and neighboring   
+  Grafschaften and Wetterau districts             1,113
+  From Franckenland                               653
+  From the Mainz area                             63
+  From the Trier area                             58
+  From the Bishopric of Worm, Speyer, and
+  neighboring Grafschaften                        490
+  From the Kassel area                            81
+  From the Zweibrücken area                       125
+  From the Nassau area                            203
+  From Alsace                                     413
+  From the Baden countryside                      320
+  Unmarried craftsmen                             871
+                                                  (15,313) 
 
-    Not all of these people went farther than to England and Ireland; very few
-    got to America.  And because England and Ireland didn't suit them, they all,
-    except those who died on the way, returned, as did some of the above
-    mentioned Hanau families, and that after two years.  The Catholics, however,
-    were all sent back.
+  Not all of these people went farther than to England and Ireland;
+  very few got to America.  And because England and Ireland didn't
+  suit them, they all, except those who died on the way, returned,
+  as did some of the above mentioned Hanau families, and that after
+  two years.  The Catholics, however, were all sent back.
+</pre>
 
 Just how and where this village Pastor obtained these numbers and his information
 intrigues me greatly, but no source is revealed in the Dreieichenhain churchbook.
@@ -410,24 +432,27 @@ with them on their trip, such as Gerhardt<sup>[\[1\]](NEEDLINK)</sup> Schäfer a
 Ulrich<sup>[\[1\]](NEEDLINK)</sup> Simmendinger.  Others tried to dispose of
 their property in an orderly and legal manner and obtain lawful permits to
 emigrate, such as 
+</div>
 
-[09](/assets/genealogy/the-palatines-story.09.jpg) Peter<sup>[\[1\]](NEEDLINK)</sup>
-Wagener of **Dachsenhausen** and the many 1709ers who left the Nassau-Dillenburg
-region.  As these Germans left their homes, very often the local Pastors made
-mention of their departures in their churchbooks.  For instance, the registers
-at **Bonfeld** in the Kraichgau have an entire page detailing the emigrants from
-the village (such as Jost<sup>[\[1\]](NEEDLINK)</sup> Hite,
-Simeon<sup>[\[1\]](NEEDLINK)</sup>  Vogt, end Hans Micheel<sup>[\[1\]](NEEDLINK)</sup>
-Wagele) in 1710 as well as latsr years.  The Pastor at **Weisloch** noted that
+[09](/assets/genealogy/the-palatines-story.09.jpg)
+<div class="page">
+Peter<sup>[\[1\]](NEEDLINK)</sup> Wagener of <b>Dachsenhausen</b> and the many
+1709ers who left the Nassau-Dillenburg region.  As these Germans left their
+homes, very often the local Pastors made mention of their departures in their
+churchbooks.  For instance, the registers at <b>Bonfeld</b> in the Kraichgau
+have an entire page detailing the emigrants from the village (such as
+Jost<sup>[\[1\]](NEEDLINK)</sup> Hite, Simeon<sup>[\[1\]](NEEDLINK)</sup>
+Vogt, end Hans Micheel<sup>[\[1\]](NEEDLINK)</sup> Wagele) in 1710 as well as
+latsr years.  The Pastor at <b>Weisloch</b> noted that
 Conrad<sup>[\[1\]](NEEDLINK)</sup> Dieffenbach emigrated with the family of
-Georg Bleichardt<sup>[\[1\]](NEEDLINK)</sup> Hauck to the West Indies 15 May 1709,
-the minister at **Leonbronn** mentioned that Margaretha, Lorentz<sup>[\[1\]](NEEDLINK)</sup>,
-and Georg<sup>[\[1\]](NEEDLINK)</sup> Däther went to England, and the
-**Treschklingen** register augmented the **Bonfeld** churchbook by stating that
-Hans Jost Held (Jast<sup>[\[1\]](NEEDLINK)</sup> Hite) emigrated with wife and
-child with other people to Pennsylvania in the so-called new world in 1709.
-Sometimes such a churchbook entry was quite a story filled with intrigue, as at
-**Massenheim**:
+Georg Bleichardt<sup>[\[1\]](NEEDLINK)</sup> Hauck to the West Indies 15 May
+1709, the minister at <b>Leonbronn</b> mentioned that Margaretha,
+Lorentz<sup>[\[1\]](NEEDLINK)</sup>, and Georg<sup>[\[1\]](NEEDLINK)</sup>
+Däther went to England, and the <b>Treschklingen</b> register augmented the
+<b>Bonfeld</b> churchbook by stating that Hans Jost Held
+(Jast<sup>[\[1\]](NEEDLINK)</sup> Hite) emigrated with wife and child with
+other people to Pennsylvania in the so-called new world in 1709.  Sometimes
+such a churchbook entry was quite a story filled with intrigue, as at <b>Massenheim</b>
 
     Let it be known that this Spring many people left the country for English
     America, namely the Island of Carolina, including also from here Matthaeus
@@ -461,8 +486,10 @@ probably was a typical route:
     the wind became calm.  And on the 22nd of Nov, we sailed as far as Emrig.
     There we had to remain until the wind became calm. And on the 24th of Nov,
     we left Emrig and 
+</div>
 
 [10](/assets/genealogy/the-palatines-story.10.jpg)
+<div class="page">
 
     came to Schingen Schantzs, and [CUTOFF]
     the night [we sailed] to Rein and on the 28th of Nov to Wieg, and thence we
@@ -506,12 +533,15 @@ Things were clearly getting out of hand.  The immigrants were coming over so fas
 that it was impossible to care for them and dispose of them.  The British,
 victims of their own too-successful PR campaign, tried to turn back many Palatines,
 especially the Catholics, and by late July refused to honor their
+</div>
 
-[11](/assets/genealogy/the-palatines-story.11.jpg) commitments to support the German
-arrivals.  Many of those arriving after that date, if not sent back, made their
-way to England by private charitable contribution or at their own expense; this
-latter group probably never was catalogued or enrolled on any shipping list as
-were the earlier arrivals at Rotterdam.
+[11](/assets/genealogy/the-palatines-story.11.jpg)
+<div class="page">
+commitments to support the German arrivals.  Many of those arriving after that
+date, if not sent back, made their way to England by private charitable
+contribution or at their own expense; this latter group probably never was
+catalogued or enrolled on any shipping list as were the earlier arrivals at
+Rotterdam.
 
 The Palatines arriving in England beginning In may 1709 continued to have
 problems there.  London was not so large a city that 11,000 alien people could
@@ -530,7 +560,7 @@ England were not uncommon as their places of shelter were as crowded and
 unhealthy as they had been in Holland.  Occasionally an emigrant's marriage or
 baptism was recorded in a British source, such as the Savoy German Lutheran
 churchbook in London; this material has been transcribed and published by John P.
-Dern in his valuable _London Churchbooks and The German Emigration of 1709_.
+Dern in his valuable <i>London Churchbooks and The German Emigration of 1709</i>.
 Mr. Dern and his late colleague Norman C. Wittwer also found several Palatine
 baptisms (including one in Johann Peter<sup>[\[2\]](NEEDLINK)</sup> Zenger's
 family) registered at St. Nicholas Church in Deptford.
@@ -547,23 +577,26 @@ presence wore off.  As the poorer classes of Londoners realized the emigrants
 were taking their bread and reducing their scale of wages, mobs of people began
 attacking the Palatines with axes, hammers, and scythes, and even the upper
 classes became alienated 
+</div>
 
-[12](/assets/genealogy/the-palatines-story.12.jpg) from the Germans, fearing they
-were spreading fever and disease.  To alleviate the situation, groups of
-Palatines (labelled "Catholics," although some definitely were not) were sent
-back to Holland from whence they were to return to Germany.  Dr. Knittle has
-published two such "Returned to Holland Lists" dated 1709 and 1711.  Working
-from a clue found in the Groves Papers at the Public Record Office in Belfast, I
-employed Peter Wilson Coldham to search for similar lists dated 1710, which
-eventually were found in the Treasury Papers in the London Public Record Office
-and published by John P. Dern and myself in 1981 in _Pfälzer-Palatines_ as a
-tribute to the late Dr. Fritz Braun of the Heimatstelle Pfalz.
+[12](/assets/genealogy/the-palatines-story.12.jpg)
+<div class="page">
+from the Germans, fearing they were spreading fever and disease.  To alleviate
+the situation, groups of Palatines (labelled "Catholics," although some
+definitely were not) were sent back to Holland from whence they were to return
+to Germany.  Dr. Knittle has published two such "Returned to Holland Lists"
+dated 1709 and 1711.  Working from a clue found in the Groves Papers at the
+Public Record Office in Belfast, I employed Peter Wilson Coldham to search for
+similar lists dated 1710, which eventually were found in the Treasury Papers
+in the London Public Record Office and published by John P. Dern and myself in
+1981 in <i>Pfälzer-Palatines</i> as a tribute to the late Dr. Fritz Braun of the
+Heimatstelle Pfalz.
 
 The dispersal of the Palatines continued.  Some were sent to other parts of
 England where, rather than receiving their expected grants of land, they were
 made daylaborers and swineherds.  Others were dispatched to Ireland, where
 many became tenants of Sir Thomas Southwell near Rathkeale in County Limerick
-(my small book _The Palatine Families of Ireland_ concerns these 1709ers and
+(my small book <i>The Palatine Families of Ireland</i> concerns these 1709ers and
 their descendants.  Then, some emigrants were sent to North Carolina where
 they joined the Swiss settlement of Christopher von Graffenreid, while a few
 others went to Jamaica and the West Indies.  Plans also were instituted to
@@ -590,15 +623,18 @@ Most of the Palentines boarded ships for New York in December 1709, but the
 convoy really never left England Until April of 2010.  The German Emigrants
 sailed on eleven boats, and Governor-Elect Hunter accompanied the group.  The
 voyage was a terrible
+</div>
 
-[13](/assets/genealogy/the-palatines-story.13.jpg) one for the Palatines: they were
-crowded together on the small vessels, suffered from vermin and poor sanitat!on,
-and were forced to subsist on unhealthy food.  Many became ill, and the entire
-fleet was ravaged by ship-fever (now known an typhus) which eventually caused
-the deaths of many passengers.  John P. Dorn will publish the results of his
-research with Norman C. Wittwer on the the Palentines' journey to America, the
-convoy that accompanied them, their route of travel, etc., which will greatly
-enhance our knowledge of that little-known aspect of the 17O9er story.
+[13](/assets/genealogy/the-palatines-story.13.jpg)
+<div class="page">
+one for the Palatines: they were crowded together on the small vessels,
+suffered from vermin and poor sanitat!on, and were forced to subsist on
+unhealthy food.  Many became ill, and the entire fleet was ravaged by
+ship-fever (now known an typhus) which eventually caused the deaths of many
+passengers.  John P. Dorn will publish the results of his research with Norman
+C. Wittwer on the the Palentines' journey to America, the convoy that
+accompanied them, their route of travel, etc., which will greatly enhance our
+knowledge of that little-known aspect of the 17O9er story.
 
 The Palatines who arrived in the summer of 1710 found that colonial Now York was
 hardly the paradise propounded In the Golden Book back in Germany.  The New York
@@ -632,10 +668,12 @@ manner in which they were being subsisted with inferior food supplies.
 The situation grew worse due to trouble in the naval stores program: the
 knowledgeable James Bridger was replaced with Richard Sackett who seemed to
 know little about tar-making. In 
+</div>
 
-[14](/assets/genealogy/the-palatines-story.14.jpg) 1711, many Palatines took part in
-an abortive British expedition against the French in Canada, further delaying tar
-extraction.
+[14](/assets/genealogy/the-palatines-story.14.jpg)
+<div class="page">
+1711, many Palatines took part in an abortive British expedition against the
+French in Canada, further delaying tar extraction.
 
 To add to this sad state of affairs, in England the Whigs, who had largely
 sponsored the Paletine settlement in New York, were superseded in office by the
@@ -680,9 +718,10 @@ poignant letter dated 6 July 1713 written to the Society:
     people nor anything being to be expected from them for the time to come. 
     They cry out after me: I should by no means forsake them for they should
     otherwise be
+</div>
 
 [15](/assets/genealogy/the-palatines-story.15.jpg)
-
+<div class="page">
     quite comfortless in this wilderness.  Sir, I entreat you to recommend my
     case as much as possible, for I do not know where to turn myself otherwise...
 
@@ -692,18 +731,20 @@ land considered for Palatine settlement.  They bought lands from the Indians the
 but also bought more trouble as the Native-Americans' title to this property was
 dubious and led to years of litigation.  Slowly, the Palatines carved homes out
 of the frontier, and eventually seven distinct villages were settled in the
-Sohoherie region.  Frank E. Lichtenthaeler, in his excellent article _The Seven
-Dorfs Of Schoharie_ has identified them as:
+Sohoherie region.  Frank E. Lichtenthaeler, in his excellent article <i>The Seven
+Dorfs Of Schoharie</i> has identified them as:
 
-    Named by Conrad Weiser's Journal    Named by Simmendinger
-    --------------------------------    ---------------------
-    1) Kniskern-dorf                    Neu-Heidelberg
-    2) Gerlachs-dorf                    Neu-Cassel
-    3) Fuchsen-dorf                     Neu-Heessberg
-    4) Schmidts-dorf                    Neu-Quunsberg 
-    5) Weisers-dorf (Brunnendorf)       Neu-Stuttgardt 
-    6) Hartmans-dorf                    Neu-Ansberg 
-    7) Ober Weisers-dorf
+<pre>
+  Named by Conrad Weiser's Journal    Named by Simmendinger
+  --------------------------------    ---------------------
+  1) Kniskern-dorf                    Neu-Heidelberg
+  2) Gerlachs-dorf                    Neu-Cassel
+  3) Fuchsen-dorf                     Neu-Heessberg
+  4) Schmidts-dorf                    Neu-Quunsberg 
+  5) Weisers-dorf (Brunnendorf)       Neu-Stuttgardt 
+  6) Hartmans-dorf                    Neu-Ansberg 
+  7) Ober Weisers-dorf
+</pre>
 
 Palatines had not been permitted to bring their Hudson Valley tools with them to
 Schoharie, so they fashioned ingenious substitutes: branches of a tree for a fork
@@ -722,14 +763,17 @@ latter New Jersey Germans (whom Dr. Knittle erroneously put as Schoharie residen
 of Kniskernsdorf) settled in the colony after subsistence was withdrawn in 1712.
 N.J. Lutheran congregations in fairly close association were formed at Millstone,
 Rockaway, and an area known as "The Mountains."  Excellent data on them may be
-found in John F. Dern's _Albany Protocol_, Simon Hart and Harry J. Kreider's
-_Lutheran Church in N.Y. and N.J. 1722 - 1760_, and Norman C. Wittwer's _The
-Faithful and the Bold_.
+found in John F. Dern's <i>Albany Protocol</i>, Simon Hart and Harry J. Kreider's
+<i>Lutheran Church in N.Y. and N.J. 1722 - 1760</i>, and Norman C. Wittwer's <i>The
+Faithful and the Bold</i>.
 
 Troubles with the New York colonial government continued as Hunter made plans to
 clear the Palatines from their Schoharie
+</div>
 
-[16](/assets/genealogy/the-palatines-story.16.jpg) settlements.  In 1718, Johann Conrad<sup>[\[1\]](NEEDLINK)</sup>
+[16](/assets/genealogy/the-palatines-story.16.jpg) 
+<div class="page">
+settlements.  In 1718, Johann Conrad<sup>[\[1\]](NEEDLINK)</sup>
 Weiser, Gerhardt<sup>[\[1\]](NEEDLINK)</sup>' Walrath, and Wilhelm<sup>[\[1\]](NEEDLINK)</sup>
 Scheff were sent to London to plead the Palatine cause; however, the lack of
 agreement among the three delegates, their lack of financial resources, and
@@ -744,7 +788,7 @@ New York, New Jersey, Pennsylvaaia, Delaware, Maryland, Virginia, Connecticut,
 and the Carolinas.
 
 This, then, is a necessarily brief background of the Palatine story.  I especially
-recommend Dr. Walter A. Knittle's book _Early Eighteenth Century Palatine Emigration_,
+recommend Dr. Walter A. Knittle's book <i>Early Eighteenth Century Palatine Emigration</i>,
 which has helped me greatly, for a fuller picture of their travails and dispersal.
 That the Palatines survived in America is no less a miracle than is their emigration!
 They left hardships in Germany to find new hardships here.  The 1709ers never
@@ -755,6 +799,8 @@ quality of character which enabled the to find the inner strength to meet the
 terrible difficulties they faced in their new life in a new world.  The Palatine 
 families of New York met the challenge headon and not only survived, but established
 a secure and important place in American life. 
+</div>
+
 
 # The Palatines Arrive in the Hudson River Valley 1710
 *Becker, John Adams; Families, Ontario Genealogical Society, Nov. 2009*

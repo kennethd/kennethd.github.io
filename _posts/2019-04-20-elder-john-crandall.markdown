@@ -15,8 +15,8 @@ Copies are available in many formats on archive.org:
 [vol. 2](https://archive.org/details/elderjohncrandal00cran_1/page/n9)
 
 I do not intend to repeat the entire work, only portions interesting to my own
-lineage, and notes regarding conflicts with other sources.  Transcripts are
-based on archive.org's 2018 digitized text.
+lineage, and even then, with a focus on notes regarding conflicts with other
+sources.  Transcripts are based on archive.org's 2018 digitized text.
 
 Rodger Crandall's work on his
 [Crandall Genealogy](/genealogy/crandall/2019/04/16/crandallgenealogy-com.html)

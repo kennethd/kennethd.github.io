@@ -114,14 +114,4 @@ The full text is available at [archive.org](https://archive.org/details/babcockg
 Settled in Portsmouth, Rhode Island Colony in 1642, and in Westerly in 1662
 
 
-# Babcock Sources
-
-  * <a name="babcock-genealogy">Babcock, Stephen</a>, *Babcock Genealogy*
-  * <a name="babcock-allies">De Forest, Louis E.</a>, *Babcock and Allied Families*;
-    The deForest Publishing Company, 1928.  avail. at
-    <a target="_blank" href="https://archive.org/details/babcockalliedfam00defo/page/n5">archive.org</a>
-  * <a name="denison">Denison, Rev. Frederic</a>,
-    *Westerly and its Witnesses, 1626-1876; Providence 1878.  avail at
-    [archive.org](https://archive.org/details/westerlyrhodeisl00deni/page/n4)
-
 {% include genealogy_notes.html %}
