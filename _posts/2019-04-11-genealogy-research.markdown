@@ -526,10 +526,19 @@ A logging camp run by the Winters family with a post office run out of the
 general store
 
 
+
+### Missouri
+
+#### St. Louis
+
+  * Did Frances Lignon Gerard move here after her husband Nicolas died?
+
+
 ### New York
 
 #### Finger Lakes & Upstate New York
 
+  * Croghan, NY town records: Gerard
   * Warsaw, NY town records: Parker
 
 
@@ -538,6 +547,20 @@ general store
   * Kingston library & town records:
     * History of Palatines at Livingston Manor
     * Winters
+
+
+### Ohio
+
+  * Jacob John Winters (MI 1903 - OH 1989) died in Ohio having started a second
+    family after abandoning Betty & Georgia sometime in the 50s
+  * Georgia Carol Winters (OH 1946) was born @ Piqua
+  * Nicolas Gérard died @ Salt Creek Twshp
+
+
+### Oregon
+
+It seems the Winters logging camp migrated from Michigan to Oregon in the
+first decade of the 20th century
 
 
 
@@ -582,7 +605,8 @@ eventually sold the house to recoup losses from the war of 1812.
 
 #### Fox Valley Area
 
-  * Oak Hills Cemetary, Neenah
+  * Chilton, WI; Oct. 1863: death of Jean Georges Gérard (b. 1759, Recloville, Moselle, Lorraine, France)
+  * Neenah, WI: Oak Hills Cemetary
     * Dombrowski, Stanley H. (15 Nov 1903 -- 29 Jan 1994) & wife Delia Schanke (20 Jan 1907 -- 31 Oct 1991)
 
 #### Mukwa
