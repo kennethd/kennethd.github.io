@@ -36,10 +36,24 @@ Marriage Records, 1560-1900* lists James & Sarah Brown (below) as being married
 there in 1641.  Multiple sources have their firstborn (also called James)
 being born there in 1641.
 
-TODO: There is a persistent rumor that he arrived aboard the *Anne*, but...
+**TODO:** There is a persistent rumor that he arrived aboard the *Anne*, but...
+*I have to wait until I come across this argument again to finish this paragraph*
 
 
-## Bassett
+## Bassett, John; arr. New Haven, CT 1635
+*KLD's 10th great-grandfather via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
+
+*From FaG, unverified:*
+
+John (b. 17 May 1589, Claybrooke Magna, Harborough district, Leicestershire, d. 15 Feb 1652).
+Crossed with son, William (b. 1624 Surrey) *KLD's 9th great-grandfather*
+
+*William Bassat was born in Dorking, Surrey and baptized 24 May 1624 to Roger
+and Ann (Holland) Bassett.  He came in 1635 from London in the company of Rev.
+Peter Hobart.  He removed to the colony of New Haven*
+
+William Bassatt (1624-1684) m. Hannah Dickerman (1622-1657), and their
+daughter Hannah Bassett (b. 1650 New Haven) m. John Parker (1648-1711)
 
 
 ## Beach, Thomas; arr. New Haven, CT 1638
@@ -103,6 +117,15 @@ Not yet traced to original immigrant in direct lineage of KLD
 
 *-- from [CrandallGenealogy.com](/genealogy/crandall/2019/04/16/crandallgenealogy-com.html)*
 
+## Dickerman, Thomas & Eleanor
+*KLD's 10th great-grandparents via the [Parker line](/genealogy/parker/2019/04/10/parker-research.html)*
+
+*From FaG; unverified:*
+
+Born 1597 @ Surrey, England; died 3 Jan 1657 Dorchester, MA.  Immigrated with
+wife, Eleanor **Bullard**.  Daughter Hannah (b. 1622 Eng, d. 1657 New Haven)
+m. William Bassett 7 Nov. 1648.  Their daughter Hannah Bassett m.
+John Parker (b. 1648, d. 1711)
 
 ## Dombrowski, John & brothers; arr. PA 1893
 *KLD's great-grandfather*
@@ -464,6 +487,10 @@ the convoy departing Newport News on 22 Aug
 
 ## Canada
 
+### Toronto
+
+  * 
+
 ## England
 
 ## France
@@ -484,25 +511,30 @@ the convoy departing Newport News on 22 Aug
 
 #### New Haven & Wallingford area
 
-  * Milford library & town records:
+  * Milford Research
+  * Milford People
     * Platt, Richard (one of the founders of the town)
 
-  * New Haven library & town records:
+  * New Haven Research
+    * Crypt on the Green
+    * Grove St. Cemetary
+    * New Haven Museum
+  * New Haven People
     * Beach
-    * Parker
-    * Peck
+    * Parker, Edward
+    * Peck, Deacon William (10th great-grandfather) headstone is leaning against
+      the north wall @ Grove St. (among those moved from the Green)
     * Platt
 
-  * Center Street Cemetary, Wallingford, CT
-
-  * Crypt on the Green, New Haven, CT
-
-  * Grove St. Cemetary, New Haven, CT
-    * Deacon William Peck's (10th great-grandfather) headstone is leaning against
-      the north wall (among those moved from the Green)
-
-  * Riverside Cemetary, Middletown, CT
+  * Middletown Research
+    * Riverside Cemetary
+  * Middletown People
     * Mary Platt Wetmore (10th great-aunt)
+
+  * Wallingford Research
+    * Center St. Cemetary
+  * Wallingford People
+    * Parker, William (10th ggp) b. 1580 eng. d. 1662 wallingford
 
 ##### Yale
 
@@ -596,7 +628,7 @@ was built in 1734 by Dr. Joshua Babcock, who used it to practice medicine, run
 a retail business, engage in colonial politics, and after 1772, perform the
 duties of his new post as Postmaster.  Joshua died in 1783 and his grandson
 eventually sold the house to recoup losses from the war of 1812.
-
+The house is at 
 [124 Granite St., Westerly, RI](https://www.google.com/maps/place/Babcock-Smith+House+Museum/@42.3713826,-71.8199284,15z/data=!4m5!3m4!1s0x0:0x5c5ae0a4ccf0da1c!8m2!3d41.3713826!4d-71.8199284){:target="_blank"}
 
 
