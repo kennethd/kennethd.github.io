@@ -153,7 +153,6 @@ they remained 10 years, until Patrick enlisted in the 11th NJ Infantry.
 
 
 
-
 ## Gérard, Nicolas; arr. 1829
 *KLD's 3rd great-grandparents via the [Babcock line](/genealogy/babcock/2019/04/08/babcock-research.html)*
 
