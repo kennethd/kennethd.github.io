@@ -14,6 +14,22 @@ categories: genealogy
 
 *The initials KLD works for myself, Kenneth Lee, as well as my sisters Kristine Lynn and Kim Lynette*
 
+# Individuals Research
+
+  * The knighthood of Sir Hugh Platt, son of a London brewer, born 1552
+  * The elopement of John Babcock & founding of Westerly, RI
+  * The Giddings who was first teacher of the college which would later become Yale
+  * The guy who was murdered in Boston
+  * Ido Cass, who left the civil war early because his wife had died
+  * Paul Girard, who seems to have had a great, drunken time in New Orleans
+    during the civil war
+  * The indian fighter
+  * The witchfinder
+  * The ships captain who went broke & resorted to transporting slaves before
+    retreating back to Scotland
+  * The 80 year old suicide of the guy in WI living on his daughter's property
+  * The bootlegging Parker who died living in a shack with a dozen dogs
+  * The buggery trial of Moses Winters in Ontario
 
 # Immigrants to America
 
