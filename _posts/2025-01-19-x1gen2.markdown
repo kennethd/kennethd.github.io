@@ -1,0 +1,40 @@
+
+# x1 gen2
+
+## uname -a
+```
+Linux x1 5.15.0-130-generic #140-Ubuntu SMP Wed Dec 18 17:59:53 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+```
+
+## lshw -C network
+```
+  *-network
+       description: Ethernet interface
+       product: Ethernet Connection I218-V
+       vendor: Intel Corporation
+       physical id: 19
+       bus info: pci@0000:00:19.0
+       logical name: enp0s25
+       version: 04
+       serial: 3c:97:0e:eb:84:8e
+       capacity: 1Gbit/s
+       width: 32 bits
+       clock: 33MHz
+       capabilities: pm msi bus_master cap_list ethernet physical tp 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+       configuration: autonegotiation=on broadcast=yes driver=e1000e driverversion=5.15.0-130-generic firmware=0.6-4 latency=0 link=no multicast=yes port=twisted pair
+       resources: irq:43 memory:f0500000-f051ffff memory:f052e000-f052efff ioport:3080(size=32)
+  *-network
+       description: Wireless interface
+       product: Wireless 7260
+       vendor: Intel Corporation
+       physical id: 0
+       bus info: pci@0000:03:00.0
+       logical name: wlp3s0
+       version: 6b
+       serial: 7c:7a:91:47:f4:91
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pm msi pciexpress bus_master cap_list ethernet physical wireless
+       configuration: broadcast=yes driver=iwlwifi driverversion=5.15.0-130-generic firmware=17.3216344376.0 7260-17.ucode ip=192.168.1.5 latency=0 link=yes multicast=yes wireless=IEEE 802.11
+       resources: irq:46 memory:f0400000-f0401fff
+```
