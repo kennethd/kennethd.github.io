@@ -1,6 +1,8 @@
-*~
 *.sw[op]
-_site
-.bundle
+*~
 .jekyll-metadata
 .sass-cache
+/Gemfile.lock.*
+/bin
+/vendor
+_site
