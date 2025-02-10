@@ -23,7 +23,7 @@ url: "https://kennethd.github.io" # the base hostname & protocol for your site, 
 #host: "0.0.0.0" # serve over any IP bound to NIC
 twitter_username: kennnethd
 github_username: kennethd
-fosstodon_username: @kennethd@fosstodon.org
+fosstodon_username: "@kennethd@fosstodon.org"
 
 # Build settings
 markdown: kramdown
