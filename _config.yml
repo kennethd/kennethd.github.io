@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: kennethd.github.io
-email: kenneth@ylayali.net
+##email: kenneth@ylayali.net
 author: Kenneth Dombrowski
 description: > # this means to ignore newlines until "baseurl:"
     Notes about Linux, Programming, Web Development, Data Sciences, and Genealogy
@@ -23,6 +23,7 @@ url: "https://kennethd.github.io" # the base hostname & protocol for your site, 
 #host: "0.0.0.0" # serve over any IP bound to NIC
 twitter_username: kennnethd
 github_username: kennethd
+fosstodon_username: @kennethd@fosstodon.org
 
 # Build settings
 markdown: kramdown
