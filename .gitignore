@@ -2,6 +2,7 @@
 *~
 .jekyll-metadata
 .sass-cache
+/.bundle
 /Gemfile.lock.*
 /bin
 /vendor
