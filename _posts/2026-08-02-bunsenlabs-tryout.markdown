@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bunsenlabs tryout with live dvd/usb"
+title:  "BunsenLabs tryout with live dvd/usb"
 date:   2026-08-02
 categories: linux
 ---
@@ -9,7 +9,7 @@ categories: linux
   {:toc}
 
 
-# bunsenlabs tryout with live dvd/usb
+# BunsenLabs tryout with live dvd/usb
 
 This doc is a step-by-step guide to using a bootable linux distro to try it
 out, just to see if you like it (without installing anything on your computer).
@@ -28,11 +28,11 @@ A few things you might need:
   * The name & password for your wireless access point, if using WLAN
   * Zoom login credentials, if installing Zoom
 
-## why bunsenlabs?
+## why BunsenLabs?
 
 There are a bunch of listicles out there, if you search "best distro for old
 laptops", "user-friendly distro for users transitioning from windows", or
-similar, bunsenlabs has a pretty great reputation among those kinds of lists,
+similar, BunsenLabs has a pretty great reputation among those kinds of lists,
 so it seemed a good first choice to try out.
 
 Personally, I still have a 12? 14? year old thinkpad x1 (gen2) with only 4 gb
@@ -41,11 +41,11 @@ fine for my needs with fluxbox.
 
 Still, debian + fluxbox requires a lot of hands-on setup & maintenance that I
 don't want to subject my mom to, ideally I would like a distro that uses a
-lightweight window manager (bunsenlabs uses openbox, not fluxbox, which does
+lightweight window manager (BunsenLabs uses openbox, not fluxbox, which does
 seem to need a little less up-front menu maintenance and so on), but which
 also provides windows-like ui components.
 
-bunsenlabs looks promising!
+BunsenLabs looks promising!
 
 ## prepare the install media
 
@@ -114,7 +114,7 @@ we want to move those above "Windows Boot Manager": <br />
 
 Once the order looks good, we can save & reboot.
 
-Make sure the bunsenlabs DVD is in the drive, or USB stick is in the port before continuing.
+Make sure the BunsenLabs DVD is in the drive, or USB stick is in the port before continuing.
 
 Again, there should be a menu at the bottom of the screen.  For me I think it
 was F10 & the option was called "Save & Quit" (or "Save & Restart", or something like that).
@@ -126,7 +126,7 @@ when she does this bit, for sure).  If you feel confident, go ahead and *Save & 
 *Note, you don't have to change the boot order every time you want to use the
 live-media disc/usbstick, only the first time*
 
-## reboot into bunsenlabs
+## reboot into BunsenLabs
 
 Particularly if you are booting from an external DVD drive like I am, the
 restart may take awhile, your drive may make a lot of noise and spin like
@@ -149,7 +149,7 @@ first time you open a web browser, or other major applications.  As an
 experiment, we'll go ahead and install Zoom below, which will also install
 directly into memory.
 
-## bunsenlabs welcome screen
+## BunsenLabs welcome screen
 Once the reboot-from-bios finally loads, and most of that disc-gnashing
 settles down, you should be presented with a welcome screen, and a few options: <br />
 ![bunsenlabs Live System option on welcome screen](/assets/bunsenlabs/004-bunsenlabs-choose-live-system.png) <br />
@@ -157,7 +157,7 @@ settles down, you should be presented with a welcome screen, and a few options: 
 **DO NOT CHOOSE "Start Installer"**
 
 **Start Installer** is what you would choose if you wanted to go ahead &
-install bunsenlabs linux to disk, without trying it first.  We only want to
+install BunsenLabs linux to disk, without trying it first.  We only want to
 test drive it.
 
 I chose the first option, **Live System (amd64)**, for the creation of this
