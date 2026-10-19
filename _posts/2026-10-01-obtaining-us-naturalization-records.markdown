@@ -1,11 +1,17 @@
 
-In my genealogy research I have once requested & received immigration records
+In my genealogy research I have once requested & received naturalization records
 from the national archives, and now that I want to do it again for a few more
 people -- I don't remember the first thing about how to do it!
 
 So, for various families arriving at different times, I am going to document
 the process here.  Most branches of my family's arrival predates the existence
-of the U.S., so the ones I will start with are:
+of the U.S., so the ones I will start with are: the **Winters** family,
+immigrated via a US-Canada crossing, and the **Dombrowski** and **Gerard**
+families, both 19th century European ship crossings.
+
+So the vague recollection I have is, find the crossing info, their residence
+at time of naturalization, find the naturalization number somehow, and send
+some money somewhere.  Let's embark!
 
 
 ## Winters, Jacob
@@ -22,7 +28,8 @@ relocated *to* Canada from New York State by the British after they fought as
 Loyalists in the Revolutionary War.  Obtaining this documentation would be a
 key element in requesting "Lost Canadian" proof of citizenship, which I
 believe both my mother & I are eligible for since 2025 (but reading legal
-things 
+things puts my brain in a kind of non-functional mode, so traversing that
+process will probably be documented in another post)
 
 
 ## Gerard, Girard, Gérard, etc
